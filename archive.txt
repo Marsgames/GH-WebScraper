@@ -1,0 +1,2151 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8"/>
+    <title>Mon compte Codeur.com</title>
+    <meta content="https://www.codeur.com/assets/og-codeur-2956398b3d80b46b77c6ca14488ed07a90b5fe916c92187f469720131b536dab.jpg" property="og:image"/>
+    <meta name="action-cable-url" content="wss://www.codeur.com:28090"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <link rel="icon" type="image/png" href="/assets/touch-icon-192-1b72433b6cc72a0a19feea47a751e2faa62eae12f1b6ae0e6852e5e905a62fa4.png" sizes="192x192"/>
+    <link rel="apple-touch-icon" type="image/png" href="/assets/apple-touch-icon-180-88b3b544043af9ef9b3b58c0c00d50d52e8fcf794134052c08062902613f3035.png" sizes="180x180"/>
+    <link rel="apple-touch-icon" type="image/png" href="/assets/apple-touch-icon-152-8aad47e30ecbaf8cdfe59927c3f5ff92b43629876c80addead76b184eb319b43.png" sizes="152x152"/>
+    <link rel="apple-touch-icon" type="image/png" href="/assets/apple-touch-icon-120-b39cfdd5ec361d87f89c86b0bb088295f1c2745b90cbe8f36dee2ce3cf4714b4.png" sizes="120x120"/>
+    <link rel="apple-touch-icon" type="image/png" href="/assets/apple-touch-icon-76-b64bbd0900b746cb5bd2f0926591a043a9cb53b1165db68a872059ec7bfa64e3.png" sizes="76x76"/>
+    <link rel="apple-touch-icon" type="image/png" href="/assets/apple-touch-icon-fe27ad6634ee419d2d949b483485a1981962c4abd953f93ee976eb468fbf33ef.png"/>
+    <link rel="shortcut icon" type="image/png" href="/assets/favicon-8b979238098de4daaf9f9e999c28a26189d50a6c9e9265eddf7468c574a932ea.png"/>
+    <link rel="preload" href="/assets/Roboto-Bold-ef860683482f27ceae4e658d5d783cf2766cd205df9b16cc707cbf8ed00edef4.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+    <link rel="preload" href="/assets/Roboto-Medium-ff0c44c6ef17633d34be7bd98c01e96e79a87f834d870ca0cb119646de2217d5.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+    <link rel="preload" href="/assets/Roboto-Regular-b7e0917bca2ec99549786517eff968d83eb5e5af18facdd0c98529d5cad28c4c.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+    <link rel="stylesheet" media="screen" href="/assets/application-26eac742b4ba2b1cf97d7d4986cff9ad7ff68c6334058b25205acf84eff17ed7.css"/>
+    <link rel="stylesheet" media="screen" href="/packs/css/application-b2922ed5.chunk.css" data-turbolinks-track="reload"/>
+    <link rel="stylesheet" media="screen" href="/packs/css/shared-vue-components-8c269907.chunk.css" data-turbolinks-track="reload"/>
+    <link rel="stylesheet" media="screen" href="/packs/css/fast-boot-c62f86e6.chunk.css" data-turbolinks-track="reload"/>
+    <script src="/packs/js/runtime~application-6c9bd8e3bcd7c11de136.js" data-turbolinks-track="reload" defer="defer"></script>
+    <script src="/packs/js/fontawesome-c2dd387d26cc1071c73c.chunk.js" data-turbolinks-track="reload" defer="defer"></script>
+    <script src="/packs/js/intl-tel-input-77e541e984b931a7cc7b.chunk.js" data-turbolinks-track="reload" defer="defer"></script>
+    <script src="/packs/js/application-953799ae8415e8ea8950.chunk.js" data-turbolinks-track="reload" defer="defer"></script>
+    <script src="/packs/js/runtime~fast-boot-a60aa5383f108c3ac318.js" data-turbolinks-track="reload" defer="defer"></script>
+    <script src="/packs/js/shared-vue-components-d2b2e6dd5530c70fc7d7.chunk.js" data-turbolinks-track="reload" defer="defer"></script>
+    <script src="/packs/js/fast-boot-1ba2d3c0cb3062c5a16d.chunk.js" data-turbolinks-track="reload" defer="defer"></script>
+    <meta name="csrf-param" content="authenticity_token"/>
+    <meta name="csrf-token" content="BZOVhtygc3jsfomuG8VFYiN13njdfc95_B2KlKsQrMSRZb6ekRbfPNnhEDVpVvS1ehZYStzxSSCGFgoK1-N_hw"/>
+    <meta content="1B8E5977D00B296BFFA05C3D51E38524" name="msvalidate.01"/>
+    <script type="text/javascript">
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        },
+        i[r].l = 1 * new Date();
+        a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-1001978-1', 'auto');
+    ga('set', 'dimension1', 'logged');
+    ga('set', 'dimension4', 'prestataire');
+    ga('send', 'pageview');
+    </script>
+</head>
+<body class="sidebar-closed users" id="codeur">
+    <div class="hidden-md-down" id="codeur-widget-topbar" style="height: 32px"></div>
+    <div id="fb-root"></div>
+    <script>
+    (function(d, s, id) {
+        var js,
+            fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id))
+            return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "https://connect.facebook.net/fr_FR/all.js#xfbml=1&appId=355153494860771";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <div class="overlay"></div>
+    <div class="notifications">
+        <div class="notification notification-danger" data-auto-dismiss="true" role="alert">
+            <div class="notification-content">
+                <div class="notification-text">
+                    <p>Vous êtes déjà connecté !</p>
+                </div>
+                <button class="notification-close" type="button">Fermer</button>
+            </div>
+        </div>
+    </div>
+    <nav class="navbar navbar-primary navbar-main navbar-shadow overflow" id="navbar">
+        <div class="navbar-container align-items-stretch d-flex">
+            <a class="navbar-link logo-link" title="Mon dashboard" data-toggle="tooltip" data-placement="right" href="/users/406501/dashboard">
+                <svg xmlns="http://www.w3.org/2000/svg" clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.41421" viewBox="0 0 973 973" class="ico-blank" height="35" width="35">
+                    <path d="m99.424 868.055c-128.775-140.672-128.363-623.351-.118-762.904 128.274-139.523 645.642-140.819 774.388-.176 128.775 140.672 128.127 623.321-.118 762.844-128.274 139.524-645.407 140.878-774.152.236z"></path>
+                </svg>
+                <svg xmlns="http://www.w3.org/2000/svg" clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.41421" viewBox="0 0 973 973" class="ico-c" height="35" width="35">
+                    <path d="m502.623 179.389c61.752.471 123.268 19.76 173.918 55.126 31.215 20.202 40.756 60.192 12.339 90.847-5.124 5.153-10.248 10.306-15.372 15.46-10.366 10.424-25.502 25.531-25.502 25.531-21.084 18.994-50.179 20.908-75.151 4.564-63.577-41.668-152.303-19.671-191.881 51.446-40.874 73.384-1.208 164.142 72.53 191.675 40.373 15.077 85.81 10.219 123.563-14.635 10.306-6.773 44.525-18.552 70.733 7.362 12.427 12.279 24.942 24.677 36.309 36.014 13.723 13.664 19.701 25.06 20.996 40.579 2.592 30.95-15.077 51.239-56.156 72.383-109.958 60.368-247.745 50.65-351.607-39.49-104.569-88.932-135.253-249.687-68.054-372.838 54.744-100.269 155.013-162.551 265.825-163.965 2.503-.029 5.007-.059 7.51-.059z"></path>
+                </svg>
+                <svg xmlns="http://www.w3.org/2000/svg" clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.41421" viewBox="0 0 973 973" class="ico-home" height="35" width="35">
+                    <path d="m463.965 234.478c0-9.118-7.403-16.521-16.521-16.521h-209.211c-9.118 0-16.52 7.403-16.52 16.521v288.083c0 9.118 7.402 16.521 16.52 16.521h209.211c9.118 0 16.521-7.403 16.521-16.521z"></path>
+                    <path d="m751.287 450.876c0-9.359-7.599-16.958-16.958-16.958h-208.337c-9.359 0-16.957 7.599-16.957 16.958v287.209c0 9.359 7.598 16.958 16.957 16.958h208.337c9.359 0 16.958-7.599 16.958-16.958z" fill="#fff"></path>
+                    <path d="m751.287 229.906c0-6.595-5.355-11.949-11.95-11.949h-218.353c-6.595 0-11.949 5.354-11.949 11.949v146.805c0 6.595 5.354 11.949 11.949 11.949h218.353c6.595 0 11.95-5.354 11.95-11.949z" fill="#fff"></path>
+                    <path d="m463.965 596.289c0-6.595-5.355-11.949-11.949-11.949h-218.354c-6.595 0-11.949 5.354-11.949 11.949v146.805c0 6.595 5.354 11.949 11.949 11.949h218.354c6.594 0 11.949-5.354 11.949-11.949z"></path>
+                </svg>
+            </a>
+            <a class="navbar-link hidden-sm-down profile-navbar-hide" href="/">Projets</a>
+            <a class="navbar-link hidden-sm-down profile-navbar-hide" href="/users">Prestataires</a>
+            <a class="navbar-link hidden-sm-down profile-navbar-hide" target="_blank" href="https://aide.codeur.com">Aide</a>
+            <div class="w-100 align-items-stretch d-flex justify-content-end" id="navbar-collapse">
+                <a class="navbar-link hidden-md-down text-center" data-toggle="tooltip" data-placement="bottom" title="Codeur Rank" href="/users/406501/commissions">
+                    <i class="far fa-trophy mb-1"></i>
+                    <small class="number">467ème</small>
+                </a>
+                <a class="navbar-link hidden-md-down text-center" data-toggle="tooltip" data-placement="bottom" title="Taux de finalisation" href="/users/406501/commissions">
+                    <i class="far fa-tachometer-alt-average mb-1"></i>
+                    <small class="number">100%</small>
+                </a>
+                <a class="navbar-link hidden-md-down text-center navbar-link-subscription" data-toggle="tooltip" data-placement="bottom" title="Freelance Pro - il vous reste 23 offres jusqu&#39;au 21/03/21" href="/users/406501/subscriptions">
+                    <span>
+                        <span class="subscription-badge">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="34.56" height="18" viewBox="0 0 96 50">
+                                <rect width="96" height="50" rx="25" fill="#fff"/>
+                                <g transform="translate(3 3)">
+                                    <rect width="90" height="44" rx="22" fill="#ffa600"/>
+                                    <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07z" fill="#fff"/>
+                                </g>
+                            </svg>
+                        </span>
+                    </span>
+                    <small class="number">23</small>
+                </a>
+                <span class="navbar-link hidden-sm-down navbar-separator">
+                    <span></span>
+                </span>
+                <a title="Mes projets" data-toggle="tooltip" data-placement="bottom" class="navbar-link" href="/users/406501/projects">
+                    <span>
+                        <i class="fas fa-briefcase fa-lg"></i>
+                    </span>
+                </a>
+                <a class="navbar-link" title="Messagerie" data-toggle="tooltip" data-placement="bottom" href="/users/406501/messages">
+                    <span>
+                        <span>
+                            <i class="fas fa-envelope fa-lg"></i>
+                        </span>
+                    </span>
+                </a>
+                <a class="user-action-toggle navbar-link" href="#">
+                    <span>
+                        <img class="avatar rounded" src="/system/user_profiles/avatars/000/406/281/thumb/avatar.jpg?1594376043" width="38" height="38"/>
+                        <i class="far fa-bars"></i>
+                    </span>
+                </a>
+                <div class="d-flex flex-column flex-md-row guest-collapse"></div>
+            </div>
+        </div>
+    </nav>
+    <div class="actions-menu d-flex flex-column">
+        <div class="px-2 pt-2 pb-0">
+            <a class="btn btn-success btn-block text-white js-launch-fast" href="/projects/new?source=cta-menu">
+                <span class="text-uppercase">
+                    <i class="far fa-plus-circle"></i>
+                     Déposer un projet
+                </span>
+            </a>
+        </div>
+        <div class="block d-flex align-items-start flex-column col p-0">
+            <div class="actions">
+                <a class="d-md-none" href="https://www.codeur.com/">
+                    <i class="far fa-briefcase mt-3"></i>
+                     Projets
+                </a>
+                <a class="d-md-none" href="/users">
+                    <i class="far fa-users"></i>
+                     Prestataires
+                </a>
+                <a class="d-md-none" target="_blank" href="https://aide.codeur.com">
+                    <i class="far fa-info-circle"></i>
+                     Aide
+                </a>
+                <div class="divider d-sm-none"></div>
+                <h6 class="header">
+                    <div class="d-lg-none">Mon abonnement</div>
+                </h6>
+                <a class="d-lg-none" href="/users/406501/subscriptions">
+                    <i class="fas fa-stars fa-sm" style="color:red;"></i>
+                     23
+                </a>
+                <a class="d-lg-none" href="/users/406501/commissions">
+                    <i class="fas fa-trophy fa-sm"></i>
+                     467ème
+                </a>
+                <a class="d-lg-none" href="/users/406501/commissions">
+                    <i class="fas fa-tachometer-alt-average fa-sm"></i>
+                     100%
+                </a>
+                <h6 class="header menu_item_no_border">Mon compte</h6>
+                <a href="/users/406501/edit">
+                    <i class="fas fa-lock-alt fa-sm"></i>
+                     Infos de connexion
+                </a>
+                <a href="/users/406501/contact/edit">
+                    <i class="fas fa-phone-alt fa-sm"></i>
+                     Mes coordonnées
+                </a>
+                <a href="/users/406501/widget">
+                    <i class="fas fa-address-card fa-sm"></i>
+                     Mon widget
+                </a>
+                <h6 class="header"> Mon profil</h6>
+                <a href="/-headcrab">
+                    <i class="fas fa-user-circle fa-sm"></i>
+                     Mon profil
+                </a>
+                <a href="/-headcrab/portfolio">
+                    <i class="fas fa-folders fa-sm"></i>
+                     Mes références
+                </a>
+                <a href="/-headcrab/formations">
+                    <i class="fas fa-file-certificate fa-sm"></i>
+                     Mes formations
+                </a>
+                <a href="/-headcrab/evaluations">
+                    <i class="fas fa-star fa-sm"></i>
+                     Mes évaluations
+                </a>
+                <a href="/users/406501/liked_profiles">
+                    <i class="fas fa-users-medical fa-sm"></i>
+                     Mes profils likés
+                </a>
+                <h6 class="header"> Gérer mon profil</h6>
+                <a href="/users/406501/profile/edit">
+                    <i class="fas fa-user-edit fa-sm"></i>
+                     Modifier mon profil
+                </a>
+                <a href="/users/406501/identities">
+                    <i class="fas fa-shield-check fa-sm"></i>
+                     Mes vérifications
+                </a>
+                <a href="/-headcrab/recommendations">
+                    <i class="far fa-star fa-sm"></i>
+                     Recommandations
+                </a>
+                <h6 class="header"> Mes finances</h6>
+                <a href="/users/406501/orders">
+                    <i class="fas fa-copy fa-sm"></i>
+                     Mes factures
+                </a>
+                <a href="/users/406501/cards">
+                    <i class="fas fa-credit-card fa-sm"></i>
+                     Mes cartes bancaires
+                </a>
+                <a href="https://www.facture.net/?utm_source=codeur.com&amp;utm_medium=link&amp;utm_campaign=menu">
+                    <i class="fas fa-copy fa-sm"></i>
+                     Facture.net 
+                    <i class="fas fa-external-link fa-sm" aria-hidden="true"></i>
+                </a>
+                <h6 class="header"> Mes paramètres</h6>
+                <a href="/users/406501/offer_rules">
+                    <i class="fas fa-ticket-alt fa-sm"></i>
+                     Offres automatiques
+                </a>
+                <a href="/users/406501/subscriptions">
+                    <i class="far fa-shopping-cart fa-sm"></i>
+                     Mon abonnement
+                </a>
+                <a href="/users/406501/sponsored_profiles">
+                    <i class="fas fa-arrow-square-up fa-sm text-danger"></i>
+                     Promouvoir mon profil
+                </a>
+                <a href="/users/406501/email_alert/edit">
+                    <i class="fas fa-exclamation-square fa-sm"></i>
+                     Alertes e-mail
+                </a>
+                <div class="divider"></div>
+                <a class="dropdown-item text-danger" rel="nofollow" data-method="delete" href="/users/sign_out">
+                    <i class="far fa-sign-out"></i>
+                     Se déconnecter
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="announcements"></div>
+    <div class="codeur-wrap">
+        <div class="banner banner-gradient">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-sm-5 col-md-4 col-lg-2">
+                        <div class="avatar-profile">
+                            <div class="card m-0">
+                                <a class="user-edit-avatar" href="/users/406501/profile/edit">
+                                    <img class="card-img-top img-fluid" src="/system/user_profiles/avatars/000/406/281/large/avatar.jpg?1594376043"/>
+                                </a>
+                                <div class="card-body p-1 text-center">
+                                    <a class="d-block" title="Évaluation de Headcrab" href="/-headcrab/evaluations">
+                                        <div class="ui rating rating-md rating-project">
+                                            <span class="value">5,0</span>
+                                            <i class="star active"></i>
+                                            <i class="star active"></i>
+                                            <i class="star active"></i>
+                                            <i class="star active"></i>
+                                            <i class="star active"></i>
+                                        </div>
+                                    </a>
+                                    <small class="text-body-color hidden-md-down">2 évaluations</small>
+                                    <script type="application/ld+json">
+                                    {
+                                      "@context": "https://schema.org/",
+                                      "@type": "AggregateRating",
+                                      "itemReviewed": {
+                                        "@type": "Organization",
+                                        "name": "Headcrab"
+                                      },
+                                      "ratingValue": "5.0",
+                                      "worstRating": "1",
+                                      "bestRating": "5",
+                                      "ratingCount": "2"
+                                    }
+                                    </script>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-7 col-md-8 col-lg-10 stats">
+                        <div class="d-flex justify-content-end text-muted flex-lg-row flex-column">
+                            <div class="offers mr-3">
+                                <a class="d-flex align-items-center banner-link" href="/users/406501/subscriptions">
+                                    <img width="40" class="dashboard-icon-md mr-2" src="/assets/codeur/profile_offer-52d0d5a275085697a19976b292b32653950129ca29e0f5a319dac6c73796b023.png"/>
+                                    <small>Il me reste 23 offres</small>
+                                </a>
+                            </div>
+                            <div class="views mr-3">
+                                <a class="d-flex align-items-center banner-link" href="/-headcrab">
+                                    <img width="40" class="dashboard-icon-md mr-2" src="/assets/codeur/profile_eye-8568495898f900790ff1860929c13cb02b9a2e831e3995f2c52e2ae39170685e.png"/>
+                                    <small>Profil vu 799 fois</small>
+                                </a>
+                            </div>
+                            <div class="portfolio mr-3">
+                                <a class="d-flex align-items-center banner-link" href="/-headcrab/portfolio">
+                                    <img width="40" class="dashboard-icon-md mr-2" src="/assets/codeur/profile_portfolio-048ce27a67bb4ebae6069206353f71d3b21fc2ee9dc2fa6b4ad9a9d3b19870d7.png"/>
+                                    <small>5 références publiées </small>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <header></header>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-3 hidden-md-down user-actions">
+                    <ul>
+                        <li class="header text-uppercase">Mon compte</li>
+                        <li>
+                            <a href="/users/406501/edit">
+                                <i class="fas fa-lock-alt fa-sm"></i>
+                                 Infos de connexion
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/users/406501/contact/edit">
+                                <i class="fas fa-phone-alt fa-sm"></i>
+                                 Mes coordonnées
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/users/406501/widget">
+                                <i class="fas fa-address-card fa-sm"></i>
+                                 Mon widget
+                            </a>
+                        </li>
+                        <hr class="my-2"/>
+                        <li class="header text-uppercase">Mon profil</li>
+                        <li>
+                            <a href="/-headcrab">
+                                <i class="fas fa-user-circle fa-sm"></i>
+                                 Mon profil
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/-headcrab/portfolio">
+                                <i class="fas fa-folders fa-sm"></i>
+                                 Mes références
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/-headcrab/formations">
+                                <i class="fas fa-file-certificate fa-sm"></i>
+                                 Mes formations
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/-headcrab/evaluations">
+                                <i class="fas fa-star fa-sm"></i>
+                                 Mes évaluations
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/users/406501/liked_profiles">
+                                <i class="fas fa-users-medical fa-sm"></i>
+                                 Mes profils likés
+                            </a>
+                        </li>
+                        <hr class="my-2"/>
+                        <li class="header text-uppercase">Gérer mon profil</li>
+                        <li>
+                            <a href="/users/406501/profile/edit">
+                                <i class="fas fa-user-edit fa-sm"></i>
+                                 Modifier mon profil
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/users/406501/identities">
+                                <i class="fas fa-shield-check fa-sm"></i>
+                                 Mes vérifications
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/-headcrab/recommendations">
+                                <i class="far fa-star fa-sm"></i>
+                                 Recommandations
+                            </a>
+                        </li>
+                        <hr class="my-2"/>
+                        <li class="header text-uppercase">Mes finances</li>
+                        <li>
+                            <a href="/users/406501/orders">
+                                <i class="fas fa-copy fa-sm"></i>
+                                 Mes factures
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/users/406501/cards">
+                                <i class="fas fa-credit-card fa-sm"></i>
+                                 Mes cartes bancaires
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.facture.net/?utm_source=codeur.com&amp;utm_medium=link&amp;utm_campaign=menu">
+                                <i class="fas fa-copy fa-sm"></i>
+                                 Facture.net 
+                                <i class="fas fa-external-link fa-sm" aria-hidden="true"></i>
+                            </a>
+                        </li>
+                        <hr class="my-2"/>
+                        <li class="header text-uppercase">Mes paramètres</li>
+                        <li>
+                            <a href="/users/406501/offer_rules">
+                                <i class="fas fa-ticket-alt fa-sm"></i>
+                                 Offres automatiques
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/users/406501/subscriptions">
+                                <i class="far fa-shopping-cart fa-sm"></i>
+                                 Mon abonnement
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/users/406501/sponsored_profiles">
+                                <i class="fas fa-arrow-square-up fa-sm text-danger"></i>
+                                 Promouvoir mon profil
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/users/406501/email_alert/edit">
+                                <i class="fas fa-exclamation-square fa-sm"></i>
+                                 Alertes e-mail
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/users/406501/deletion/new">
+                                <i class="fas fa-trash fa-sm"></i>
+                                 Supprimer mon compte
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-12 col-lg-9 my-3">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="card mb-4 card-sponsored">
+                                <div class="card-body">
+                                    <p>
+                                        Atteignez 
+                                        <strong class="text-primary">les premières positions</strong>
+                                         sur les sous-catégories grâce aux emplacements sponsorisés
+                                    </p>
+                                    <p>
+                                        Votre emplacement à partir de 
+                                        <strong class="text-primary">
+                                            10€ 
+                                            <sup>HT</sup>
+                                             les 30 jours
+                                        </strong>
+                                    </p>
+                                    <p class="m-0">
+                                        <a class="btn btn-agence" href="/users/406501/sponsored_profiles">Voir les emplacements disponibles</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-7">
+                            <div class="card mb-4">
+                                <div class="card-header icon-header">
+                                    <span class="main-icon bg-danger">
+                                        <i class="far fa-folders"></i>
+                                    </span>
+                                    <h5>Projets dans mes compétences</h5>
+                                </div>
+                                <table class="table table-striped mb-0">
+                                    <tbody>
+                                        <tr>
+                                            <td style="width: 40px">
+                                                <img width="20" data-toggle="tooltip" title="Developpement" src="/assets/codeur/categories/developpement-b1fccd4c306e93435c1566ffd2832463b78cd9ac8fc1b699e0d0c88b20fb4ace.svg"/>
+                                            </td>
+                                            <td class="break-word">
+                                                <h6 class="text-muted">
+                                                    <a href="/projects/287541-creation-d-une-appli-pour-la-presentation-d-un-concept-store">Creation d’une appli pour la présentation d’un concept store</a>
+                                                </h6>
+                                                <p class="small text-muted mb-0">Recherche prestataire susceptible de nous faire des propositions de fonctionnalités et idées neuves pour effectuer une présentation de notre concept, des inscriptions et expliquer le fonctionnement de notre établissement.</p>
+                                            </td>
+                                            <td class="text-nowrap text-right"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="width: 40px">
+                                                <img width="20" data-toggle="tooltip" title="Developpement" src="/assets/codeur/categories/developpement-b1fccd4c306e93435c1566ffd2832463b78cd9ac8fc1b699e0d0c88b20fb4ace.svg"/>
+                                            </td>
+                                            <td class="break-word">
+                                                <h6 class="text-muted">
+                                                    <a href="/projects/287526-application-pour-accepter-course-a-livrer-style-uber-mais-basique">Application pour accepter course a livrer style uber mais basique</a>
+                                                </h6>
+                                                <p class="small text-muted mb-0">on est des livreur de repas a domicile, on a besoin d&#39;une appli qui nous propose des livraison qu&#39;on peut accepter, l&#39;appli dois nous envoyer les commende quand il detecte une commende sur la boita e-mail.
+                                                donc: email avec commende -&amp;gt; logiciel...</p>
+                                            </td>
+                                            <td class="text-nowrap text-right"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="width: 40px">
+                                                <img width="20" data-toggle="tooltip" title="Developpement" src="/assets/codeur/categories/developpement-b1fccd4c306e93435c1566ffd2832463b78cd9ac8fc1b699e0d0c88b20fb4ace.svg"/>
+                                            </td>
+                                            <td class="break-word">
+                                                <h6 class="text-muted">
+                                                    <a href="/projects/287524-site-web-mise-en-relation-pro">Site web mise en relation pro</a>
+                                                </h6>
+                                                <p class="small text-muted mb-0">Bonjour,
+
+                                                Je recherche un freelance, particulier ou groupe, pour la création d’un site web, voir déclinaison app mobile.
+
+                                                Le site web que j’ai en tête serai un peu à l’image de celui-ci sur lequel nous sommes actuellement avec les caractéristi...</p>
+                                            </td>
+                                            <td class="text-nowrap text-right"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="width: 40px">
+                                                <img width="20" data-toggle="tooltip" title="Developpement" src="/assets/codeur/categories/developpement-b1fccd4c306e93435c1566ffd2832463b78cd9ac8fc1b699e0d0c88b20fb4ace.svg"/>
+                                            </td>
+                                            <td class="break-word">
+                                                <h6 class="text-muted">
+                                                    <a href="/projects/287515-impression-de-code-barre-ean13">Impression de code barre ean13</a>
+                                                </h6>
+                                                <p class="small text-muted mb-0">A partir d une base de donnee excel je souhaite pouvoir imprimer des codes barres.
+                                                L outil devra me demander :
+                                                Entrer le code barre ou entrer un SKU ou entrer une référence. Si plusieurs références sont trouvées proposer les références et en val...</p>
+                                            </td>
+                                            <td class="text-nowrap text-right"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="width: 40px">
+                                                <img width="20" data-toggle="tooltip" title="Developpement" src="/assets/codeur/categories/developpement-b1fccd4c306e93435c1566ffd2832463b78cd9ac8fc1b699e0d0c88b20fb4ace.svg"/>
+                                            </td>
+                                            <td class="break-word">
+                                                <h6 class="text-muted">
+                                                    <a href="/projects/287509-wordpress-creation-d-un-espace-client">[wordpress] création d&#39;un espace client</a>
+                                                </h6>
+                                                <p class="small text-muted mb-0">Bonjour,
+
+                                                Je recherche un développeur php qui devra crée un espace client personnalisé.
+                                                Ci dessous les spécifications fonctionnelles : 
+
+                                                1. Un espace client avec différentes vues en fonction de l&#39;utilisateur : 
+                                                    1.1 Role A : Administrateu...</p>
+                                            </td>
+                                            <td class="text-nowrap text-right"></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="card mb-4">
+                                <div class="card-header icon-header">
+                                    <span class="main-icon bg-info">
+                                        <i class="far fa-envelope"></i>
+                                    </span>
+                                    <a href="/users/406501/messages">
+                                        <h5>Mes derniers messages</h5>
+                                    </a>
+                                </div>
+                                <div>
+                                    <div class="message offer-link" data-url="/projects/287227-application-de-rencontres-style-baloo-pour-rencontres-ephemere/offers/3144101" id="message_3144101">
+                                        <div class="message-recipient-avatar">
+                                            <span class="avatar-default avatar-default-sm" style="background-color: #1abc9c;">K</span>
+                                        </div>
+                                        <div class="message-content">
+                                            <div class="row">
+                                                <div class="col-sm-6">
+                                                    <p class="mb-0">
+                                                        <strong>
+                                                             k5f1d3acf  
+                                                            <small class="text-muted-light">(3)</small>
+                                                        </strong>
+                                                    </p>
+                                                    <p class="mb-1">Application de rencontres style baloo pour rencontres éphémère</p>
+                                                    <p class="mb-0 text-muted-light message-preview">Rencontre éphémère plan d'un soir etc pour hétéro bi etc enfin tout les genre avec un système de messagerie comme sur Badoo , et intégrées une extension par exemple qui permet des live et aussi des cam aléatoire un peu comme bazoocam et instauré également des mode prenium qui permettrais d'avoir un mode de recherche par catégorie de style de personnes recherche ainsi que voir qui me plaît etc et par exemple pour liker une personne ce sera un logo de préservatifs et quand on aime pas simplement une croix , et pour en revenir dans le système de messagerie j'aimerai qu'il sois possible d'instaurer une story que chaque personne puisse le faire . Je sais pas si vous voyer un peu l'idée du projet </p>
+                                                </div>
+                                                <div class="col-sm-6 text-right">
+                                                    <p class="mb-0">
+                                                        <span style="margin-left:10px;"></span>
+                                                        <small class="muted">08/03/21</small>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="message offer-link" data-url="/projects/287452-application-pour-faciliter-le-traitement-des-urgences-a-l-hopital/offers/3144155" id="message_3144155">
+                                        <div class="message-recipient-avatar">
+                                            <span class="avatar-default avatar-default-sm" style="background-color: #3137A8;">N</span>
+                                        </div>
+                                        <div class="message-content">
+                                            <div class="row">
+                                                <div class="col-sm-6">
+                                                    <p class="mb-0">
+                                                        <strong>
+                                                             n8ea82d34  
+                                                            <small class="text-muted-light">(2)</small>
+                                                        </strong>
+                                                    </p>
+                                                    <p class="mb-1">Application pour faciliter le traitement des urgences à l&#39;hopital</p>
+                                                    <p class="mb-0 text-muted-light message-preview">Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+
+                                                    Quelques questions me viennent en tête afin d'évaluer au mieux votre projet :
+                                                    - Possédez-vous une charte graphique, logos, etc… ?
+
+                                                    L’offre budgétaire présentée ici n’est que le TJM proposé par ma société. 
+                                                    Evidemment, il me faut plus d’informations pour pouvoir établir un devis ainsi qu’une estimation du temps de développement, en fonction de votre besoin.
+                                                    Dans cette optique, je vous propose de me transférer un NDA, ainsi que le cahier des charges de votre application (et tous autres éléments nécessaires), et nous pouvons également définir un créneau afin d’échanger sur l’ensemble de votre projet.
+
+                                                    Vous pouvez me contacter ici même, ou alors convenir d’un rdv Google Meet depuis ce lien :
+                                                    https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+
+                                                    Dans l'attente de votre retour, je vous souhaite une agréable journée.
+                                                    Cordialement. </p>
+                                                </div>
+                                                <div class="col-sm-6 text-right">
+                                                    <p class="mb-0">
+                                                        <span style="margin-left:10px;"></span>
+                                                        <small class="muted">07/03/21</small>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="message offer-link" data-url="/projects/287418-creation-d-un-jeu-mobile-de-lettres/offers/3144153" id="message_3144153">
+                                        <div class="message-recipient-avatar">
+                                            <span class="avatar-default avatar-default-sm" style="background-color: #712B8D;">G</span>
+                                        </div>
+                                        <div class="message-content">
+                                            <div class="row">
+                                                <div class="col-sm-6">
+                                                    <p class="mb-0">
+                                                        <strong>
+                                                             guillaumem3g7q  
+                                                            <small class="text-muted-light">(2)</small>
+                                                        </strong>
+                                                    </p>
+                                                    <p class="mb-1">Création d&#39;un jeu mobile de lettres</p>
+                                                    <p class="mb-0 text-muted-light message-preview">L’offre budgétaire présentée ici n’est que le TJM proposé par ma société. 
+                                                    Evidemment, il me faut plus d’informations pour pouvoir établir un devis ainsi qu’une estimation du temps de développement, en fonction de votre besoin.
+                                                    Dans cette optique, je vous propose de me transférer un NDA, ainsi que le cahier des charges de votre application (et tous autres éléments nécessaires), et nous pouvons également définir un créneau afin d’échanger sur l’ensemble de votre projet.
+
+                                                    Vous pouvez me contacter ici même, ou alors convenir d’un rdv Google Meet depuis ce lien :
+                                                    https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+
+                                                    Dans l'attente de votre retour, je vous souhaite une agréable journée.
+                                                    Cordialement. </p>
+                                                </div>
+                                                <div class="col-sm-6 text-right">
+                                                    <p class="mb-0">
+                                                        <span style="margin-left:10px;"></span>
+                                                        <small class="muted">07/03/21</small>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="message offer-link" data-url="/projects/287417-application-mobile-pour-plongeurs/offers/3144152" id="message_3144152">
+                                        <div class="message-recipient-avatar">
+                                            <span class="avatar-default avatar-default-sm" style="background-color: #0C2665;">O</span>
+                                        </div>
+                                        <div class="message-content">
+                                            <div class="row">
+                                                <div class="col-sm-6">
+                                                    <p class="mb-0">
+                                                        <strong>
+                                                             O-D-L  
+                                                            <small class="text-muted-light">(2)</small>
+                                                        </strong>
+                                                    </p>
+                                                    <p class="mb-1">Application mobile pour plongeurs</p>
+                                                    <p class="mb-0 text-muted-light message-preview">Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+
+                                                    L’offre budgétaire présentée ici n’est que le TJM proposé par ma société. 
+                                                    Evidemment, il me faut plus d’informations pour pouvoir établir un devis ainsi qu’une estimation du temps de développement, en fonction de votre besoin.
+                                                    Dans cette optique, je vous propose de me transférer un NDA, ainsi que le cahier des charges de votre application (et tous autres éléments nécessaires), et nous pouvons également définir un créneau afin d’échanger sur l’ensemble de votre projet.
+
+                                                    Vous pouvez me contacter ici même, ou alors convenir d’un rdv Google Meet depuis ce lien :
+                                                    https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+
+                                                    Dans l'attente de votre retour, je vous souhaite une agréable journée.
+                                                    Cordialement. </p>
+                                                </div>
+                                                <div class="col-sm-6 text-right">
+                                                    <p class="mb-0">
+                                                        <span style="margin-left:10px;"></span>
+                                                        <small class="muted">07/03/21</small>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="message offer-link" data-url="/projects/287358-bonjour-comment-puis-je-vous-contacter-avez-vous-une-adresse-mail/offers/3144151" id="message_3144151">
+                                        <div class="message-recipient-avatar">
+                                            <span class="avatar-default avatar-default-sm" style="background-color: #5ACB73;">J</span>
+                                        </div>
+                                        <div class="message-content">
+                                            <div class="row">
+                                                <div class="col-sm-6">
+                                                    <p class="mb-0">
+                                                        <strong>
+                                                             je68691c2  
+                                                            <small class="text-muted-light">(2)</small>
+                                                        </strong>
+                                                    </p>
+                                                    <p class="mb-1">Application mobile sous ios et androïd</p>
+                                                    <p class="mb-0 text-muted-light message-preview">Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+
+                                                    Quelques questions me viennent en tête afin d'évaluer au mieux votre projet :
+                                                    - Possédez-vous une charte graphique, logos, etc… ?
+                                                    - Possédez-vous une base de donnée ou doit-elle être inclue dans la prestation ? Faut-il fournir un back office ?
+                                                    - Souhaitez-vous monétiser l’application ? De quelle façon ?
+
+                                                    L’offre budgétaire présentée ici n’est que le TJM proposé par ma société. 
+                                                    Evidemment, il me faut plus d’informations pour pouvoir établir un devis ainsi qu’une estimation du temps de développement, en fonction de votre besoin.
+                                                    Dans cette optique, je vous propose de me transférer un NDA, ainsi que le cahier des charges de votre application (et tous autres éléments nécessaires), et nous pouvons également définir un créneau afin d’échanger sur l’ensemble de votre projet.
+
+                                                    A titre informatif, et avec le "peu" d'informations données, le prix de ce type d'application se situe entre 5 000 et 10 000€ HT.
+
+                                                    Vous pouvez me contacter ici même, ou alors convenir d’un rdv Google Meet depuis ce lien :
+                                                    https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+
+                                                    Dans l'attente de votre retour, je vous souhaite une agréable journée.
+                                                    Cordialement. </p>
+                                                </div>
+                                                <div class="col-sm-6 text-right">
+                                                    <p class="mb-0">
+                                                        <span style="margin-left:10px;"></span>
+                                                        <small class="muted">07/03/21</small>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="message offer-link" data-url="/projects/287347-architecture-serveur-site-web-grand-public/offers/3144148" id="message_3144148">
+                                        <div class="message-recipient-avatar">
+                                            <span class="avatar-default avatar-default-sm" style="background-color: #3137A8;">A</span>
+                                        </div>
+                                        <div class="message-content">
+                                            <div class="row">
+                                                <div class="col-sm-6">
+                                                    <p class="mb-0">
+                                                        <strong>
+                                                             arounmaiga  
+                                                            <small class="text-muted-light">(2)</small>
+                                                        </strong>
+                                                    </p>
+                                                    <p class="mb-1">Architecture serveur - site web grand public</p>
+                                                    <p class="mb-0 text-muted-light message-preview">Ces connaissances en développement alliées à mes compétences sur des technologies de DevOps, notamment AWS, MongoDB ou encore ElasticSearch, me permettent de comprendre au mieux le besoin de mes clients afin de leur fournir un travail de qualité, quelle que soit la demande.
+
+                                                    Mes compétences en DevOps m'ont conduit à développer de outils de monitoring ou d'intégration continue, ainsi que de réaliser des audits ou de l'administration système pour de nombreux clients dont Ubisoft, des audits et load tests pour différents clients, ou encore plus récemment la sauvegarde et la migration de serveurs.
+
+                                                    L’offre budgétaire présentée ici n’est que le TJM proposé par ma société. 
+                                                    Evidemment, il me faut plus d’informations pour pouvoir établir un devis, en fonction de votre besoin.
+                                                    Dans cette optique, je vous propose de me transférer un NDA, ainsi que le cahier des charges de votre application (et tous autres éléments nécessaires), et nous pouvons également définir un créneau afin d'échanger sur l'ensemble de votre projet.
+
+                                                    Vous pouvez me contacter ici même, ou alors convenir d’un rdv Google Meet depuis ce lien : 
+                                                    https://headcrab.appointlet.com/s/prise-de-contact/raphael-saget
+
+                                                    Cordialement. </p>
+                                                </div>
+                                                <div class="col-sm-6 text-right">
+                                                    <p class="mb-0">
+                                                        <span style="margin-left:10px;"></span>
+                                                        <small class="muted">07/03/21</small>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card mb-4">
+                                <div class="card-header icon-header">
+                                    <span class="main-icon bg-danger">
+                                        <i class="far fa-folders"></i>
+                                    </span>
+                                    <h5>
+                                        <a href="/users/406501/projects#worked">Mes projets à terminer</a>
+                                    </h5>
+                                </div>
+                                <div class="card-body">
+                                    <p class="blank-state">Aucun projet à terminer.</p>
+                                </div>
+                            </div>
+                            <div class="card mb-4">
+                                <div class="card-header icon-header">
+                                    <span class="main-icon bg-yellow">
+                                        <i class="far fa-eye"></i>
+                                    </span>
+                                    <h5>Être visible sur Codeur.com</h5>
+                                </div>
+                                <div class="card-body">
+                                    <h6>Gagner des visites en partageant mon profil</h6>
+                                    <p>&quot;Je suis inscrit comme Agence de développement de jeux vidéos sur Codeur.com. Venez voir mon profil :&quot;</p>
+                                    <div class="input-group">
+                                        <input type="text" name="url" id="profile-url" value="https://www.codeur.com/-headcrab" class="form-control" data-toggle="tooltip" data-trigger="manual" data-placement="bottom" title="Copié" readonly="readonly"/>
+                                        <div class="input-group-append">
+                                            <button class="btn btn-info btn-clipboard" data-clipboard-target="#profile-url" type="button">Copier</button>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex align-items-center mt-4">
+                                        <a class="twitter-share-button" data-count="horizontal" data-via="codeur" data-lang="fr" data-related="codeur" data-text="Je suis inscrit comme Agence de développement de jeux vidéos sur Codeur.com. Venez voir mon profil :" data-url="https://www.codeur.com/-headcrab" href="https://twitter.com/share">Tweeter</a>
+                                        <script>
+                                        !function(d, s, id) {
+                                            var js,
+                                                fjs = d.getElementsByTagName(s)[0];
+                                            if (!d.getElementById(id)) {
+                                                js = d.createElement(s);
+                                                js.id = id;
+                                                js.src = "//platform.twitter.com/widgets.js";
+                                                fjs.parentNode.insertBefore(js, fjs);
+                                            }
+                                        }(document, "script", "twitter-wjs");
+                                        </script>
+                                        <div class="fb-like" data-width="450" data-layout="button_count" data-send="false" data-show-faces="false" data-href="https://www.codeur.com/-headcrab"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5">
+                            <div class="card mb-4">
+                                <div class="card-header icon-header">
+                                    <span class="main-icon bg-dark">
+                                        <i class="far fa-chart-bar"></i>
+                                    </span>
+                                    <h5>Statistiques</h5>
+                                </div>
+                                <div class="card-body">
+                                    <p class="mb-1">
+                                        <strong class="text-primary">23 </strong>
+                                          offres  disponibles
+                                    </p>
+                                    <p class="mb-1">
+                                        <strong class="text-primary">799</strong>
+                                         vues de votre profil
+                                    </p>
+                                    <p class="mb-1">
+                                        <strong class="text-primary">5</strong>
+                                          créations dans votre portfolio
+                                    </p>
+                                    <p class="mb-1">
+                                        <strong class="text-primary">2</strong>
+                                        <a href="/-headcrab/evaluations">évaluations</a>
+                                    </p>
+                                    <p class="mb-0">
+                                        <strong class="text-primary">0</strong>
+                                        <a href="/-headcrab/recommendations">recommandations</a>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="card mb-4">
+                                <div class="card-header icon-header">
+                                    <span class="main-icon bg-primary">
+                                        <i class="far fa-newspaper"></i>
+                                    </span>
+                                    <h5>
+                                        <a target="_blank" href="https://www.codeur.com/blog">Le Blog</a>
+                                    </h5>
+                                </div>
+                                <div class="_codeur-widget-feeds">
+                                    <ul class="_codeur-widget-feeds-entries">
+
+                                        <li class="_codeur-widget-feeds-entry">
+                                            <a href="https://www.codeur.com/blog/idees-marketing-saint-patrick/" target="_blank">
+                                                <div class="_codeur-widget-feeds-entry-illustration">
+
+                                                    <img src="https://www.codeur.com/blog/wp-content/uploads/2021/03/image-a-la-une-article-codeur-saint-patrick.jpg" alt="Illustration"/>
+
+                                                </div>
+                                                <div class="_codeur-widget-feeds-entry-content">
+                                                    <div class="_codeur-widget-feeds-entry-title" <>
+                                                                  5 idées marketing pour la Saint-Patrick
+                                                                </div>
+                                                    <div class="_codeur-widget-feeds-entry-meta">
+                                                                  par Céline Albarracin
+                                                                  le 08/03/2021
+                                                                </div>
+                                                </div>
+                                            </a>
+                                        </li>
+
+                                        <li class="_codeur-widget-feeds-entry">
+                                            <a href="https://www.redacteur.com/blog/seo-pourquoi-utiliser-crawler-contenus/" target="_blank">
+                                                <div class="_codeur-widget-feeds-entry-illustration">
+
+                                                    <img src="https://www.redacteur.com/blog/wp-content/uploads/2021/03/redacteur-blog-img-une-crawler.jpg" alt="Illustration"/>
+
+                                                </div>
+                                                <div class="_codeur-widget-feeds-entry-content">
+                                                    <div class="_codeur-widget-feeds-entry-title" <>
+                                                                  SEO  : pourquoi utiliser un crawler pour vos contenus  ?
+                                                                </div>
+                                                    <div class="_codeur-widget-feeds-entry-meta">
+                                                                  par Élise Duret
+                                                                  le 08/03/2021
+                                                                </div>
+                                                </div>
+                                            </a>
+                                        </li>
+
+                                        <li class="_codeur-widget-feeds-entry">
+                                            <a href="https://graphiste.com/blog/ameliorer-relations-clients" target="_blank">
+                                                <div class="_codeur-widget-feeds-entry-illustration">
+
+                                                    <img src="https://graphiste.com/blog/wp-content/uploads/2019/01/une-graphiste-relations-clients.jpg" alt="Illustration"/>
+
+                                                </div>
+                                                <div class="_codeur-widget-feeds-entry-content">
+                                                    <div class="_codeur-widget-feeds-entry-title" <>
+                                                                  Graphiste freelance : comment améliorer vos relations avec vos clients ?
+                                                                </div>
+                                                    <div class="_codeur-widget-feeds-entry-meta">
+                                                                  par Camille
+                                                                  le 08/03/2021
+                                                                </div>
+                                                </div>
+                                            </a>
+                                        </li>
+
+                                        <li class="_codeur-widget-feeds-entry">
+                                            <a href="https://www.codeur.com/blog/tendances-blogging/" target="_blank">
+                                                <div class="_codeur-widget-feeds-entry-illustration">
+
+                                                    <img src="https://www.codeur.com/blog/wp-content/uploads/2020/02/image-a-la-une-article-codeur-tendances-blogging-2021.jpg" alt="Illustration"/>
+
+                                                </div>
+                                                <div class="_codeur-widget-feeds-entry-content">
+                                                    <div class="_codeur-widget-feeds-entry-title" <>
+                                                                  6 tendances blogging incontournables en 2021
+                                                                </div>
+                                                    <div class="_codeur-widget-feeds-entry-meta">
+                                                                  par Camille
+                                                                  le 08/03/2021
+                                                                </div>
+                                                </div>
+                                            </a>
+                                        </li>
+
+                                        <li class="_codeur-widget-feeds-entry">
+                                            <a href="https://www.codeur.com/blog/comment-faire-verifier-compte-instagram/" target="_blank">
+                                                <div class="_codeur-widget-feeds-entry-illustration">
+
+                                                    <img src="https://www.codeur.com/blog/wp-content/uploads/2021/02/image-a-la-une-article-codeur-instagram-certifie.jpg" alt="Illustration"/>
+
+                                                </div>
+                                                <div class="_codeur-widget-feeds-entry-content">
+                                                    <div class="_codeur-widget-feeds-entry-title" <>
+                                                                  Comment faire vérifier votre compte Instagram ?
+                                                                </div>
+                                                    <div class="_codeur-widget-feeds-entry-meta">
+                                                                  par Céline Albarracin
+                                                                  le 06/03/2021
+                                                                </div>
+                                                </div>
+                                            </a>
+                                        </li>
+
+                                        <li class="_codeur-widget-feeds-entry">
+                                            <a href="https://graphiste.com/blog/histoire-branding" target="_blank">
+                                                <div class="_codeur-widget-feeds-entry-illustration">
+
+                                                    <img src="https://graphiste.com/blog/wp-content/uploads/2021/02/branding.jpg" alt="Illustration"/>
+
+                                                </div>
+                                                <div class="_codeur-widget-feeds-entry-content">
+                                                    <div class="_codeur-widget-feeds-entry-title" <>
+                                                                  Connaissez-vous l’histoire du branding ?
+                                                                </div>
+                                                    <div class="_codeur-widget-feeds-entry-meta">
+                                                                  par Mélanie De Coster
+                                                                  le 06/03/2021
+                                                                </div>
+                                                </div>
+                                            </a>
+                                        </li>
+
+                                        <li class="_codeur-widget-feeds-entry">
+                                            <a href="https://www.redacteur.com/blog/content-marketing-ennuyer-lecteurs/" target="_blank">
+                                                <div class="_codeur-widget-feeds-entry-illustration">
+
+                                                    <img src="https://www.redacteur.com/blog/wp-content/uploads/2018/01/redacteur-blog-img-une-erreur-ennuyer-lecteurs.jpg" alt="Illustration"/>
+
+                                                </div>
+                                                <div class="_codeur-widget-feeds-entry-content">
+                                                    <div class="_codeur-widget-feeds-entry-title" <>
+                                                                  Content Marketing : 6 façons d’ennuyer vos lecteurs
+                                                                </div>
+                                                    <div class="_codeur-widget-feeds-entry-meta">
+                                                                  par Camille
+                                                                  le 06/03/2021
+                                                                </div>
+                                                </div>
+                                            </a>
+                                        </li>
+
+                                        <li class="_codeur-widget-feeds-entry">
+                                            <a href="https://www.redacteur.com/blog/seo-differences-liens-do-follow-no-follow/" target="_blank">
+                                                <div class="_codeur-widget-feeds-entry-illustration">
+
+                                                    <img src="https://www.redacteur.com/blog/wp-content/uploads/2021/03/redacteur-blog-img-une-lien-do-follow-no-follow.jpg" alt="Illustration"/>
+
+                                                </div>
+                                                <div class="_codeur-widget-feeds-entry-content">
+                                                    <div class="_codeur-widget-feeds-entry-title" <>
+                                                                  SEO  : quelles différences entre les liens Do follow et No follow  ?
+                                                                </div>
+                                                    <div class="_codeur-widget-feeds-entry-meta">
+                                                                  par Gaëlle Kurtz
+                                                                  le 05/03/2021
+                                                                </div>
+                                                </div>
+                                            </a>
+                                        </li>
+
+                                        <li class="_codeur-widget-feeds-entry">
+                                            <a href="https://www.codeur.com/blog/frameworks-nodejs-a-connaitre/" target="_blank">
+                                                <div class="_codeur-widget-feeds-entry-illustration">
+
+                                                    <img src="https://www.codeur.com/blog/wp-content/uploads/2021/02/image-a-la-une-article-codeur-frameworks-nodejs.jpg" alt="Illustration"/>
+
+                                                </div>
+                                                <div class="_codeur-widget-feeds-entry-content">
+                                                    <div class="_codeur-widget-feeds-entry-title" <>
+                                                                  6 frameworks NodeJS à connaître en 2021
+                                                                </div>
+                                                    <div class="_codeur-widget-feeds-entry-meta">
+                                                                  par Sébastien Turbé
+                                                                  le 05/03/2021
+                                                                </div>
+                                                </div>
+                                            </a>
+                                        </li>
+
+                                        <li class="_codeur-widget-feeds-entry">
+                                            <a href="https://graphiste.com/blog/outils-reconnaissance-image" target="_blank">
+                                                <div class="_codeur-widget-feeds-entry-illustration">
+
+                                                    <img src="https://graphiste.com/blog/wp-content/uploads/2021/02/reconnaissance-image.jpg" alt="Illustration"/>
+
+                                                </div>
+                                                <div class="_codeur-widget-feeds-entry-content">
+                                                    <div class="_codeur-widget-feeds-entry-title" <>
+                                                                  9 outils de reconnaissance d’image à connaître
+                                                                </div>
+                                                    <div class="_codeur-widget-feeds-entry-meta">
+                                                                  par Solenne Ricard
+                                                                  le 05/03/2021
+                                                                </div>
+                                                </div>
+                                            </a>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12 col-xl-4">
+                            <div class="card mb-4">
+                                <div class="card-header icon-header">
+                                    <span class="main-icon bg-graphiste svg">
+                                        <img height="20" src="/assets/codeur/graphiste-g-df45c04c1ce0a6ea80217bab8a7532229ca244cb976b0a44253e2cbfd077964e.svg"/>
+                                    </span>
+                                    <a target="_blank" href="https://graphiste.com?utm_source=codeur.com&amp;utm_medium=pub-dash">
+                                        <h5>Graphiste.com</h5>
+                                    </a>
+                                </div>
+                                <div class="card-body">
+                                    <p>BESOIN D'UN GRAPHISTE FREELANCE ?</p>
+                                    <p class="small">
+                                        Des milliers de graphistes freelance sont disponibles pour répondre à vos propositions de missions et réaliser tous vos travaux graphiques : création de logo, bannière, identité visuelle, webdesign, communication, charte, graphisme, cartes de visite…
+                                        <br/>
+                                        <br/>
+                                    </p>
+                                    <p class="text-center m-0">
+                                        <a class="btn btn-graphiste" href="https://graphiste.com/projects/new?utm_source=codeur.com&amp;utm_medium=pub-dash">Déposez une annonce</a>
+                                    </p>
+                                    <p class="text-center small text-muted m-0" gratuit=""></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 col-xl-4">
+                            <div class="card mb-4">
+                                <div class="card-header icon-header">
+                                    <span class="main-icon bg-redacteur svg">
+                                        <img height="20" src="/assets/codeur/redacteur-r-ac387ebc9e06e7310730319cc2f3db0da0015b2a70b174df559d4137ceb0415f.svg"/>
+                                    </span>
+                                    <a target="_blank" href="https://www.redacteur.com?utm_source=codeur.com&amp;utm_medium=pub-dash">
+                                        <h5>Redacteur.com</h5>
+                                    </a>
+                                </div>
+                                <div class="card-body">
+                                    <p>VOUS CHERCHEZ À FAIRE RÉDIGER DES TEXTES ?</p>
+                                    <p class="small">Nous disposons d'une base de plusieurs milliers de rédacteurs freelances. Tous nos rédacteurs sont des professionels, qualifiés et expérimentés, capables d'écrire sur la plupart des sujets et de s'adapter à la qualité que vous recherchez : d'une qualité SEO à une qualité professionnelle.</p>
+                                    <p class="text-center m-0">
+                                        <a class="btn btn-redacteur" href="https://www.redacteur.com/customer/orders/new?utm_source=codeur.com&amp;utm_medium=pub-dash">Commandez des textes</a>
+                                    </p>
+                                    <p class="m-0 text-center small text-muted">&nbsp;</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 col-xl-4">
+                            <div class="card mb-4">
+                                <div class="card-header icon-header">
+                                    <span class="main-icon bg-facture svg">
+                                        <img height="20" src="/assets/codeur/facture-f-63d479843d84e7fbc614be53e1bae9e40814964575d00bc1768ed6bb5da6bd6b.svg"/>
+                                    </span>
+                                    <a target="_blank" href="https://www.facture.net?utm_source=codeur.com&amp;utm_medium=pub-dash">
+                                        <h5>Facture.net</h5>
+                                    </a>
+                                </div>
+                                <div class="card-body">
+                                    <p>CRM ET FACTURATION 100% GRATUIT</p>
+                                    <p class="small">Un véritable CRM au sein de votre outil de facturation. Ajoutez, supprimez et modifiez vos clients. Ajoutez des informations, rentrez votre activité au fur et à mesure (appels, rendez-vous, emails) et ajoutez des devis, des factures, des avoirs et même des opportunités d'affaire.</p>
+                                    <p class="text-center m-0">
+                                        <a class="btn btn-facture" href="https://www.facture.net/signup?utm_source=codeur.com&amp;utm_medium=pub-dash">S&#39;inscrire</a>
+                                    </p>
+                                    <p class="text-center small text-muted m-0" gratuit=""></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div aria-hidden="true" aria-labelledby="multi-modal" class="modal fade2" id="codeur-modal-dialog" role="dialog" tabindex="-1">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="display-7 text-muted modal-title" id="multi-modal"></h1>
+                    <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+                        <i class="fal fa-times mb-2"></i>
+                    </button>
+                </div>
+                <div class="modal-body"></div>
+            </div>
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="footer-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6 col-md-3 col-6">
+                        <h5 class="footer-title">Liens utiles</h5>
+                        <ul class="footer-list">
+                            <li>
+                                <a href="https://aide.codeur.com">Aide et FAQ</a>
+                            </li>
+                            <li>
+                                <a href="/pages/tarifs-codeur-com">Nos tarifs</a>
+                            </li>
+                            <li>
+                                <a href="/pages/comment-ca-marche">Comment ça marche ?</a>
+                            </li>
+                            <li>
+                                <a href="/pages/termes-et-conditions-d-utilisation">Conditions d'utilisation</a>
+                            </li>
+                            <li>
+                                <a href="/pages/mentions-legales" rel="nofollow">Mentions légales</a>
+                            </li>
+                            <li>
+                                <a href="/pages/pages">Les pages</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 col-md-3 col-6">
+                        <h5 class="footer-title">&nbsp;</h5>
+                        <ul class="footer-list">
+                            <li>
+                                <a href="/categories/users">Freelances par catégorie</a>
+                            </li>
+                            <li>
+                                <a href="/villes">Freelances par ville</a>
+                            </li>
+                            <li>
+                                <a href="/categories/projects">Projets par catégorie</a>
+                            </li>
+                            <li>
+                                <a href="/avis">Les avis Codeur.com</a>
+                            </li>
+                            <li>
+                                <a href="/pages/a-propos">À propos de nous</a>
+                            </li>
+                            <li>
+                                <a href="/contact">Nous contacter</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-12 col-md-6 hidden-sm-down">
+                        <h5 class="footer-title">
+                            En direct du blog 
+                            <a target="_blank" href="https://www.codeur.com/blog/feed">
+                                <i class="fas fa-rss-square text-warning"></i>
+                            </a>
+                        </h5>
+                        <ul class="footer-list">
+                            <li>
+                                <a target="_blank" href="https://www.codeur.com/blog/idees-marketing-saint-patrick/">5 idées marketing pour la Saint-Patrick</a>
+                            </li>
+                            <li>
+                                <a target="_blank" href="https://www.codeur.com/blog/tendances-blogging/">6 tendances blogging incontournables en 2021</a>
+                            </li>
+                            <li>
+                                <a target="_blank" href="https://www.codeur.com/blog/comment-faire-verifier-compte-instagram/">Comment faire vérifier votre compte Instagram ?</a>
+                            </li>
+                            <li>
+                                <a target="_blank" href="https://www.codeur.com/blog/frameworks-nodejs-a-connaitre/">6 frameworks NodeJS à connaître en 2021</a>
+                            </li>
+                            <li>
+                                <a target="_blank" href="https://www.codeur.com/blog/soft-selling-etapes-vendre-en-douceur/">Soft selling : 6 étapes pour vendre en douceur</a>
+                            </li>
+                            <li>
+                                <a target="_blank" href="https://www.codeur.com/blog/projet-waterfall-comment-fonctionne-modele-cascade/">Projet Waterfall : comment fonctionne le modèle en cascade ?</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <hr/>
+                <div class="row mt-4">
+                    <div class="col-md-7 mb-3">
+                        <div class="d-flex align-items-end mb-3">
+                            <img height="55" src="/assets/codeur/logo-c-1f163b34a74dcde8f047ed8a28571c05a47aaa1c58f19bd43a00d013c4b46fcb.svg"/>
+                            <a class="ml-3 mr-2 social-footer" data-toggle="tooltip" href="https://www.facebook.com/codeurfreelance" rel="nofollow" target="_blank" title="Facebook">
+                                <i class="fab fa-facebook-square fa-2x"></i>
+                            </a>
+                            <a class="mr-2 social-footer" data-toggle="tooltip" href="https://twitter.com/codeur" rel="nofollow" target="_blank" title="Twitter">
+                                <i class="fab fa-twitter-square fa-2x"></i>
+                            </a>
+                            <a class="mr-2 social-footer" data-toggle="tooltip" href="https://www.linkedin.com/company/437704" rel="nofollow" target="_blank" title="Linkedin">
+                                <i class="fab fa-linkedin fa-2x"></i>
+                            </a>
+                        </div>
+                        <p class="mb-0 small">&copy; 2006 - 2021 Codeur.com est la première place de marché des freelances francophones.</p>
+                    </div>
+                    <div class="col-md-5 d-flex text-right align-items-end mb-3 justify-content-md-end">
+                        <a target="_blank" class="mr-3" href="https://itunes.apple.com/us/app/codeur-messenger/id1205452722?ls=1&amp;mt=8">
+                            <img height="40" src="/assets/codeur/app-store-15a2d0bcfa194486168babe7dd6d51d769eb03307b03595a0c992c382c998142.svg"/>
+                        </a>
+                        <a target="_blank" data-safari-ios="false" href="https://play.google.com/store/apps/details?id=com.codeurcom.codeurmessenger">
+                            <img height="40" src="/assets/codeur/google-play-86743aa0343b4fc629984fe2d93d8996b98a239133f593debfffa018ded3a4a4.png"/>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div data-defaultavatar="https://www.codeur.com/assets/user/avatar_medium-f55e4f174c8dcb67a66bb7fd26e27c31b2976b5fc4f8e7c5be331dd06927c2cf.png" data-turbolinks-permanent="" data-userid="406501" id="chat">
+        <div class="chat-header">
+            Chat 
+            <small>(prestataires uniquement)</small>
+            <span class="float-right chat-chevron">
+                <i class="ci fa-chevron-up"></i>
+                <a target="blank" class="chat-open-tab" href="https://www.codeur.com/chat">
+                    <i class="far fa-external-link"></i>
+                </a>
+            </span>
+        </div>
+        <div class="chat-inner">
+            <div class="chat-content">
+                <div class="chat-message" data-chat-id="360119">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="MikeCode avatar" src="/system/user_profiles/avatars/000/457/719/medium/avatar.jpg?1615052675"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>Bonjour, est-il possible de trouver des clients sans abonnements à Codeur ?
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="MikeCode" href="#">Répondre</a>
+                             07 mar. 16h43
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-mikecode">MikeCode</a>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360120">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="TouchWeb avatar" src="/system/user_profiles/avatars/000/122/104/medium/avatar.jpg?1612942671"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>hum 87 - 12, ça ne fait pas 23, non non non.
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="TouchWeb" href="#">Répondre</a>
+                             07 mar. 16h43
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-touchweb">TouchWeb</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Abonnement Agence. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="41.18" height="14.5" viewBox="0 0 142 50">
+                                    <rect width="142" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="136" height="44" rx="22" fill="#ff5e25"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07zM101.695 31.706a12.3 12.3 0 01-8.226 3.143c-6.816 0-12.349-5.534-12.349-12.349s5.533-12.349 12.349-12.349a12.3 12.3 0 018.226 3.143 14.25 14.25 0 00-3.255 7.494h-3.342v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h3.301a14.252 14.252 0 003.296 7.878zm10.956-21.555c6.816 0 12.349 5.534 12.349 12.349s-5.533 12.349-12.349 12.349c-6.815 0-12.348-5.534-12.348-12.349s5.533-12.349 12.348-12.349zm1.63 10.637v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h5.205v-3.04h-5.205z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360121">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="MikeCode avatar" src="/system/user_profiles/avatars/000/457/719/medium/avatar.jpg?1615052675"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>Pas possible ?
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="MikeCode" href="#">Répondre</a>
+                             07 mar. 16h45
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-mikecode">MikeCode</a>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360122">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="Holycow avatar" src="/system/user_profiles/avatars/000/162/017/medium/avatar.jpg?1555635237"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>
+                            <a href="https://www.codeur.com/projects/287472-refonte-site-wordpress" target='_blank' rel='ugc'>https://www.codeur.com/projects/287472-refonte-site-wordpress</a>
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="Holycow" href="#">Répondre</a>
+                             07 mar. 16h53
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-holycow">Holycow</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Abonnement Agence. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="41.18" height="14.5" viewBox="0 0 142 50">
+                                    <rect width="142" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="136" height="44" rx="22" fill="#ff5e25"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07zM101.695 31.706a12.3 12.3 0 01-8.226 3.143c-6.816 0-12.349-5.534-12.349-12.349s5.533-12.349 12.349-12.349a12.3 12.3 0 018.226 3.143 14.25 14.25 0 00-3.255 7.494h-3.342v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h3.301a14.252 14.252 0 003.296 7.878zm10.956-21.555c6.816 0 12.349 5.534 12.349 12.349s-5.533 12.349-12.349 12.349c-6.815 0-12.348-5.534-12.348-12.349s5.533-12.349 12.348-12.349zm1.63 10.637v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h5.205v-3.04h-5.205z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360123">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="Holycow avatar" src="/system/user_profiles/avatars/000/162/017/medium/avatar.jpg?1555635237"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>&lt;3
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="Holycow" href="#">Répondre</a>
+                             07 mar. 16h53
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-holycow">Holycow</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Abonnement Agence. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="41.18" height="14.5" viewBox="0 0 142 50">
+                                    <rect width="142" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="136" height="44" rx="22" fill="#ff5e25"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07zM101.695 31.706a12.3 12.3 0 01-8.226 3.143c-6.816 0-12.349-5.534-12.349-12.349s5.533-12.349 12.349-12.349a12.3 12.3 0 018.226 3.143 14.25 14.25 0 00-3.255 7.494h-3.342v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h3.301a14.252 14.252 0 003.296 7.878zm10.956-21.555c6.816 0 12.349 5.534 12.349 12.349s-5.533 12.349-12.349 12.349c-6.815 0-12.348-5.534-12.348-12.349s5.533-12.349 12.348-12.349zm1.63 10.637v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h5.205v-3.04h-5.205z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360124">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="Weblancer avatar" src="/system/user_profiles/avatars/000/317/497/medium/avatar.jpg?1584171548"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>Bonjour,
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="Weblancer" href="#">Répondre</a>
+                             08 mar. 06h10
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-weblancer">Weblancer</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Freelance Pro. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="27.84" height="14.5" viewBox="0 0 96 50">
+                                    <rect width="96" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="90" height="44" rx="22" fill="#ffa600"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360125">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="Weblancer avatar" src="/system/user_profiles/avatars/000/317/497/medium/avatar.jpg?1584171548"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>bonne semaine à tous! 
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="Weblancer" href="#">Répondre</a>
+                             08 mar. 06h11
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-weblancer">Weblancer</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Freelance Pro. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="27.84" height="14.5" viewBox="0 0 96 50">
+                                    <rect width="96" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="90" height="44" rx="22" fill="#ffa600"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360126">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="Weblancer avatar" src="/system/user_profiles/avatars/000/317/497/medium/avatar.jpg?1584171548"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>Et si quelqu'un a du Wordpress à sous traiter je suis au taquet :D 
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="Weblancer" href="#">Répondre</a>
+                             08 mar. 06h11
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-weblancer">Weblancer</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Freelance Pro. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="27.84" height="14.5" viewBox="0 0 96 50">
+                                    <rect width="96" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="90" height="44" rx="22" fill="#ffa600"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360127">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="TouchWeb avatar" src="/system/user_profiles/avatars/000/122/104/medium/avatar.jpg?1612942671"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>Belle semaine à toi aussi :)
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="TouchWeb" href="#">Répondre</a>
+                             08 mar. 06h32
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-touchweb">TouchWeb</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Abonnement Agence. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="41.18" height="14.5" viewBox="0 0 142 50">
+                                    <rect width="142" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="136" height="44" rx="22" fill="#ff5e25"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07zM101.695 31.706a12.3 12.3 0 01-8.226 3.143c-6.816 0-12.349-5.534-12.349-12.349s5.533-12.349 12.349-12.349a12.3 12.3 0 018.226 3.143 14.25 14.25 0 00-3.255 7.494h-3.342v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h3.301a14.252 14.252 0 003.296 7.878zm10.956-21.555c6.816 0 12.349 5.534 12.349 12.349s-5.533 12.349-12.349 12.349c-6.815 0-12.348-5.534-12.348-12.349s5.533-12.349 12.348-12.349zm1.63 10.637v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h5.205v-3.04h-5.205z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360128">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="Weblancer avatar" src="/system/user_profiles/avatars/000/317/497/medium/avatar.jpg?1584171548"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>Merci!
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="Weblancer" href="#">Répondre</a>
+                             08 mar. 06h39
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-weblancer">Weblancer</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Freelance Pro. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="27.84" height="14.5" viewBox="0 0 96 50">
+                                    <rect width="96" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="90" height="44" rx="22" fill="#ffa600"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360129">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="TouchWeb avatar" src="/system/user_profiles/avatars/000/122/104/medium/avatar.jpg?1612942671"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>Tu te lèves tôt, c'est bien.
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="TouchWeb" href="#">Répondre</a>
+                             08 mar. 07h16
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-touchweb">TouchWeb</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Abonnement Agence. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="41.18" height="14.5" viewBox="0 0 142 50">
+                                    <rect width="142" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="136" height="44" rx="22" fill="#ff5e25"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07zM101.695 31.706a12.3 12.3 0 01-8.226 3.143c-6.816 0-12.349-5.534-12.349-12.349s5.533-12.349 12.349-12.349a12.3 12.3 0 018.226 3.143 14.25 14.25 0 00-3.255 7.494h-3.342v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h3.301a14.252 14.252 0 003.296 7.878zm10.956-21.555c6.816 0 12.349 5.534 12.349 12.349s-5.533 12.349-12.349 12.349c-6.815 0-12.348-5.534-12.348-12.349s5.533-12.349 12.348-12.349zm1.63 10.637v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h5.205v-3.04h-5.205z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360130">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="TouchWeb avatar" src="/system/user_profiles/avatars/000/122/104/medium/avatar.jpg?1612942671"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>
+                            tiens ça va te mettre la patate 
+                            <a href="https://www.youtube.com/watch?v=16G-Hv23nqw&amp;t=10342s&amp;ab_channel=10HoursMovies" target='_blank' rel='ugc'>https://www.youtube.com/watch?v=16G-Hv23nqw&amp;t=10342s&amp;ab_channel=10HoursMovies</a>
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="TouchWeb" href="#">Répondre</a>
+                             08 mar. 07h16
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-touchweb">TouchWeb</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Abonnement Agence. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="41.18" height="14.5" viewBox="0 0 142 50">
+                                    <rect width="142" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="136" height="44" rx="22" fill="#ff5e25"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07zM101.695 31.706a12.3 12.3 0 01-8.226 3.143c-6.816 0-12.349-5.534-12.349-12.349s5.533-12.349 12.349-12.349a12.3 12.3 0 018.226 3.143 14.25 14.25 0 00-3.255 7.494h-3.342v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h3.301a14.252 14.252 0 003.296 7.878zm10.956-21.555c6.816 0 12.349 5.534 12.349 12.349s-5.533 12.349-12.349 12.349c-6.815 0-12.348-5.534-12.348-12.349s5.533-12.349 12.348-12.349zm1.63 10.637v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h5.205v-3.04h-5.205z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360131">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="Weblancer avatar" src="/system/user_profiles/avatars/000/317/497/medium/avatar.jpg?1584171548"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>Haha c'est trop mon mood en ce moment ce genre de musiques (y) 
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="Weblancer" href="#">Répondre</a>
+                             08 mar. 07h39
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-weblancer">Weblancer</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Freelance Pro. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="27.84" height="14.5" viewBox="0 0 96 50">
+                                    <rect width="96" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="90" height="44" rx="22" fill="#ffa600"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360132">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="TouchWeb avatar" src="/system/user_profiles/avatars/000/122/104/medium/avatar.jpg?1612942671"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>pis ça décoince les rotules, top pour l'amélioration de la mobilité
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="TouchWeb" href="#">Répondre</a>
+                             08 mar. 07h45
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-touchweb">TouchWeb</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Abonnement Agence. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="41.18" height="14.5" viewBox="0 0 142 50">
+                                    <rect width="142" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="136" height="44" rx="22" fill="#ff5e25"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07zM101.695 31.706a12.3 12.3 0 01-8.226 3.143c-6.816 0-12.349-5.534-12.349-12.349s5.533-12.349 12.349-12.349a12.3 12.3 0 018.226 3.143 14.25 14.25 0 00-3.255 7.494h-3.342v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h3.301a14.252 14.252 0 003.296 7.878zm10.956-21.555c6.816 0 12.349 5.534 12.349 12.349s-5.533 12.349-12.349 12.349c-6.815 0-12.348-5.534-12.348-12.349s5.533-12.349 12.348-12.349zm1.63 10.637v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h5.205v-3.04h-5.205z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360133">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="TouchWeb avatar" src="/system/user_profiles/avatars/000/122/104/medium/avatar.jpg?1612942671"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>
+                            mouais 
+                            <a href="https://www.codeur.com/projects/287542-attaque-site-prestashop-et-depot-de-fichier-sur-le-ftp" target='_blank' rel='ugc'>https://www.codeur.com/projects/287542-attaque-site-prestashop-et-depot-de-fichier-sur-le-ftp</a>
+                             ;)
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="TouchWeb" href="#">Répondre</a>
+                             08 mar. 08h06
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-touchweb">TouchWeb</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Abonnement Agence. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="41.18" height="14.5" viewBox="0 0 142 50">
+                                    <rect width="142" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="136" height="44" rx="22" fill="#ff5e25"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07zM101.695 31.706a12.3 12.3 0 01-8.226 3.143c-6.816 0-12.349-5.534-12.349-12.349s5.533-12.349 12.349-12.349a12.3 12.3 0 018.226 3.143 14.25 14.25 0 00-3.255 7.494h-3.342v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h3.301a14.252 14.252 0 003.296 7.878zm10.956-21.555c6.816 0 12.349 5.534 12.349 12.349s-5.533 12.349-12.349 12.349c-6.815 0-12.348-5.534-12.348-12.349s5.533-12.349 12.348-12.349zm1.63 10.637v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h5.205v-3.04h-5.205z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360134">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="TouchWeb avatar" src="/system/user_profiles/avatars/000/122/104/medium/avatar.jpg?1612942671"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>☎ ;)
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="TouchWeb" href="#">Répondre</a>
+                             08 mar. 08h09
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-touchweb">TouchWeb</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Abonnement Agence. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="41.18" height="14.5" viewBox="0 0 142 50">
+                                    <rect width="142" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="136" height="44" rx="22" fill="#ff5e25"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07zM101.695 31.706a12.3 12.3 0 01-8.226 3.143c-6.816 0-12.349-5.534-12.349-12.349s5.533-12.349 12.349-12.349a12.3 12.3 0 018.226 3.143 14.25 14.25 0 00-3.255 7.494h-3.342v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h3.301a14.252 14.252 0 003.296 7.878zm10.956-21.555c6.816 0 12.349 5.534 12.349 12.349s-5.533 12.349-12.349 12.349c-6.815 0-12.348-5.534-12.348-12.349s5.533-12.349 12.348-12.349zm1.63 10.637v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h5.205v-3.04h-5.205z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360135">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="TouchWeb avatar" src="/system/user_profiles/avatars/000/122/104/medium/avatar.jpg?1612942671"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>
+                            <a href="https://www.ldlc-pro.com/fiche/PB00409878.html" target='_blank' rel='ugc'>https://www.ldlc-pro.com/fiche/PB00409878.html</a>
+                             miam.
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="TouchWeb" href="#">Répondre</a>
+                             08 mar. 08h10
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-touchweb">TouchWeb</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Abonnement Agence. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="41.18" height="14.5" viewBox="0 0 142 50">
+                                    <rect width="142" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="136" height="44" rx="22" fill="#ff5e25"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07zM101.695 31.706a12.3 12.3 0 01-8.226 3.143c-6.816 0-12.349-5.534-12.349-12.349s5.533-12.349 12.349-12.349a12.3 12.3 0 018.226 3.143 14.25 14.25 0 00-3.255 7.494h-3.342v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h3.301a14.252 14.252 0 003.296 7.878zm10.956-21.555c6.816 0 12.349 5.534 12.349 12.349s-5.533 12.349-12.349 12.349c-6.815 0-12.348-5.534-12.348-12.349s5.533-12.349 12.348-12.349zm1.63 10.637v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h5.205v-3.04h-5.205z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360136">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="createurdesite avatar" src="/system/user_profiles/avatars/000/276/569/medium/avatar.jpg?1615105081"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>@Weblancer kuba contacte moi sur skype ;)
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="createurdesite" href="#">Répondre</a>
+                             08 mar. 08h19
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-createurdesite">createurdesite</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Abonnement Agence. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="41.18" height="14.5" viewBox="0 0 142 50">
+                                    <rect width="142" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="136" height="44" rx="22" fill="#ff5e25"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07zM101.695 31.706a12.3 12.3 0 01-8.226 3.143c-6.816 0-12.349-5.534-12.349-12.349s5.533-12.349 12.349-12.349a12.3 12.3 0 018.226 3.143 14.25 14.25 0 00-3.255 7.494h-3.342v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h3.301a14.252 14.252 0 003.296 7.878zm10.956-21.555c6.816 0 12.349 5.534 12.349 12.349s-5.533 12.349-12.349 12.349c-6.815 0-12.348-5.534-12.348-12.349s5.533-12.349 12.348-12.349zm1.63 10.637v-5.547h-3.232v5.547h-5.232v3.04h5.232v5.931h3.232v-5.931h5.205v-3.04h-5.205z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360137">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="TSEonline avatar" src="/system/user_profiles/avatars/000/017/019/medium/avatar.jpg?1555629589"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>Bonjour. Juste une question. Au bout de combien de temps sans payer on perds le stamp ancienneté sur codeur ?
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="TSEonline" href="#">Répondre</a>
+                             08 mar. 09h21
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-tse-online">TSEonline</a>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360138">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="TSEonline avatar" src="/system/user_profiles/avatars/000/017/019/medium/avatar.jpg?1555629589"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>Je suis blindé jusqu'à la fin de l'année et je me tate pour le maintenir.
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="TSEonline" href="#">Répondre</a>
+                             08 mar. 09h22
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-tse-online">TSEonline</a>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360139">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="Weblancer avatar" src="/system/user_profiles/avatars/000/317/497/medium/avatar.jpg?1584171548"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>@createurdesite Ca marche Marc, désolé, j'étais aux impots :s 
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="Weblancer" href="#">Répondre</a>
+                             08 mar. 09h25
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-weblancer">Weblancer</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Freelance Pro. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="27.84" height="14.5" viewBox="0 0 96 50">
+                                    <rect width="96" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="90" height="44" rx="22" fill="#ffa600"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360140">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="Weblancer avatar" src="/system/user_profiles/avatars/000/317/497/medium/avatar.jpg?1584171548"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>Bonne journée du femme au fait 
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="Weblancer" href="#">Répondre</a>
+                             08 mar. 09h25
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-weblancer">Weblancer</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Freelance Pro. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="27.84" height="14.5" viewBox="0 0 96 50">
+                                    <rect width="96" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="90" height="44" rx="22" fill="#ffa600"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360141">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="GwenDeveloppement avatar" src="/system/user_profiles/avatars/000/423/702/medium/avatar.jpg?1611132260"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>Journée du femme, c'est le 3ème sexe en fait :)
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="GwenDeveloppement" href="#">Répondre</a>
+                             08 mar. 09h43
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-gwendeveloppement">GwenDeveloppement</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Freelance Pro. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="27.84" height="14.5" viewBox="0 0 96 50">
+                                    <rect width="96" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="90" height="44" rx="22" fill="#ffa600"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360142">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="Weblancer avatar" src="/system/user_profiles/avatars/000/317/497/medium/avatar.jpg?1584171548"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>Hahaha 
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="Weblancer" href="#">Répondre</a>
+                             08 mar. 09h47
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-weblancer">Weblancer</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Freelance Pro. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="27.84" height="14.5" viewBox="0 0 96 50">
+                                    <rect width="96" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="90" height="44" rx="22" fill="#ffa600"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360143">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="Weblancer avatar" src="/system/user_profiles/avatars/000/317/497/medium/avatar.jpg?1584171548"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>C'est pour rester original :3
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="Weblancer" href="#">Répondre</a>
+                             08 mar. 09h49
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-weblancer">Weblancer</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Freelance Pro. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="27.84" height="14.5" viewBox="0 0 96 50">
+                                    <rect width="96" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="90" height="44" rx="22" fill="#ffa600"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360144">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="lesgeniesduweb avatar" src="/system/user_profiles/avatars/000/343/053/medium/avatar.jpg?1569521186"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>@TouchWeb Module presta gratuit donc webshell friendly (Pas fait expres pour la rime)
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="lesgeniesduweb" href="#">Répondre</a>
+                             08 mar. 10h00
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-lesgeniesduweb">lesgeniesduweb</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Freelance Pro. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="27.84" height="14.5" viewBox="0 0 96 50">
+                                    <rect width="96" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="90" height="44" rx="22" fill="#ffa600"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360145">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="mmomasters avatar" src="/system/user_profiles/avatars/000/107/647/medium/avatar.jpg?1611602508"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>Salut les codeurs !
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="mmomasters" href="#">Répondre</a>
+                             08 mar. 10h56
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-mmomasters">mmomasters</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Freelance Pro. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="27.84" height="14.5" viewBox="0 0 96 50">
+                                    <rect width="96" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="90" height="44" rx="22" fill="#ffa600"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360146">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="lesgeniesduweb avatar" src="/system/user_profiles/avatars/000/343/053/medium/avatar.jpg?1569521186"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>@mmomasters Hello ! 
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="lesgeniesduweb" href="#">Répondre</a>
+                             08 mar. 11h00
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-lesgeniesduweb">lesgeniesduweb</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Freelance Pro. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="27.84" height="14.5" viewBox="0 0 96 50">
+                                    <rect width="96" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="90" height="44" rx="22" fill="#ffa600"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360147">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <span class="avatar-default" style="background-color: #0C2665;">L</span>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>Bonjour 
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="Leila40" href="#">Répondre</a>
+                             08 mar. 11h05
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-leila40">Leila40</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Freelance Pro. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="27.84" height="14.5" viewBox="0 0 96 50">
+                                    <rect width="96" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="90" height="44" rx="22" fill="#ffa600"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+                <div class="chat-message" data-chat-id="360148">
+                    <div class="chat-avatar">
+                        <span class="avatar d-block">
+                            <img alt="losym avatar" src="/system/user_profiles/avatars/000/453/637/medium/avatar.jpg?1613664043"/>
+                        </span>
+                    </div>
+                    <div class="bubble">
+                        <p>Bonjour à tous !
+                        </p>
+                    </div>
+                    <span class="chat-message-signature">
+                        <div class="chat-message-infos">
+                            <a class="chat-message-reply-to" data-reply-to="losym" href="#">Répondre</a>
+                             08 mar. 11h22
+                        </div>
+                        <div class="chat-message-author">
+                            <a class="chat-message-author-name" href="/-losym">losym</a>
+                            <span class="subscription-badge" data-toggle="tooltip" title="Freelance Pro. Ce prestataire est abonné sur Codeur.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="27.84" height="14.5" viewBox="0 0 96 50">
+                                    <rect width="96" height="50" rx="25" fill="#fff"/>
+                                    <g transform="translate(3 3)">
+                                        <rect width="90" height="44" rx="22" fill="#ffa600"/>
+                                        <path d="M25.15 25.32H21.3v7.51h-4.4V11.5h8.32q2.41 0 4.23.88 1.82.88 2.81 2.5.98 1.62.98 3.68 0 3.14-2.15 4.95-2.14 1.81-5.94 1.81zM21.3 15.06v6.7h3.92q1.75 0 2.66-.82.92-.82.92-2.35 0-1.56-.92-2.53-.93-.97-2.55-1H21.3zm26.85 17.77l-4-7.81h-3.5v7.81h-4.4V11.5h7.93q3.78 0 5.83 1.69 2.05 1.68 2.05 4.76 0 2.18-.94 3.64-.95 1.46-2.87 2.32l4.62 8.72v.2h-4.72zm-7.5-17.77v6.4h3.54q1.66 0 2.57-.84.91-.84.91-2.32 0-1.51-.86-2.37-.86-.87-2.63-.87h-3.53zm32.27 6.64v.95q0 3.15-1.11 5.52-1.12 2.38-3.19 3.67t-4.75 1.29q-2.65 0-4.73-1.28-2.08-1.27-3.23-3.64-1.14-2.37-1.15-5.44v-1.06q0-3.15 1.13-5.54 1.14-2.4 3.21-3.68 2.07-1.28 4.74-1.28 2.66 0 4.74 1.28 2.07 1.28 3.2 3.68 1.14 2.39 1.14 5.53zm-4.45 1.02v-1.04q0-3.35-1.2-5.09-1.21-1.75-3.43-1.75-2.21 0-3.42 1.72-1.2 1.73-1.21 5.05v1.04q0 3.27 1.2 5.07 1.2 1.8 3.46 1.8 2.21 0 3.4-1.73 1.18-1.74 1.2-5.07z" fill="#fff"/>
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </span>
+                </div>
+            </div>
+        </div>
+        <div class="chat-footer">
+            <form class="simple_form new_chat" id="new_chat" novalidate="novalidate" action="/chats" accept-charset="UTF-8" data-remote="true" method="post">
+                <textarea class="text optional disabled form-control" disabled="disabled" placeholder="Votre message…" name="chat[content]" id="chat_content"></textarea>
+            </form>
+        </div>
+    </div>
+    <div id="feedback"></div>
+    <div id="fast-boot" data-fast-content="{&quot;avatarUrls&quot;:[&quot;/system/fast_setting_providers/avatars/000/000/001/medium/avatar-83.jpg?1583325484&quot;,&quot;/system/fast_setting_providers/avatars/000/000/002/medium/avatar-136.jpg?1583325484&quot;,&quot;/system/fast_setting_providers/avatars/000/000/003/medium/avatar-3.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/004/medium/avatar-15.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/005/medium/avatar-71.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/006/medium/avatar-128.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/007/medium/avatar-39.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/008/medium/avatar-67.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/009/medium/avatar-43.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/010/medium/avatar-139.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/011/medium/avatar-134.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/012/medium/avatar-21.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/013/medium/avatar-105.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/014/medium/avatar-65.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/015/medium/avatar-31.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/016/medium/avatar-82.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/017/medium/avatar-52.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/018/medium/avatar-50.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/019/medium/avatar-135.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/020/medium/avatar-35.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/021/medium/avatar-24.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/022/medium/avatar-20.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/023/medium/avatar-150.jpg?1583325485&quot;,&quot;/system/fast_setting_providers/avatars/000/000/024/medium/avatar-109.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/025/medium/avatar-89.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/026/medium/avatar-60.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/027/medium/avatar-12.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/028/medium/avatar-46.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/029/medium/avatar-131.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/030/medium/avatar-19.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/031/medium/avatar-78.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/032/medium/avatar-115.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/033/medium/avatar-48.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/034/medium/avatar-110.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/035/medium/avatar-32.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/036/medium/avatar-98.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/037/medium/avatar-104.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/038/medium/avatar-124.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/039/medium/avatar-74.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/040/medium/avatar-68.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/041/medium/avatar-111.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/042/medium/avatar-42.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/043/medium/avatar-22.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/044/medium/avatar-106.jpg?1583325486&quot;,&quot;/system/fast_setting_providers/avatars/000/000/045/medium/avatar-132.jpg?1583325487&quot;,&quot;/system/fast_setting_providers/avatars/000/000/046/medium/avatar-126.jpg?1583325487&quot;,&quot;/system/fast_setting_providers/avatars/000/000/047/medium/avatar-47.jpg?1583325487&quot;,&quot;/system/fast_setting_providers/avatars/000/000/048/medium/avatar-69.jpg?1583325487&quot;,&quot;/system/fast_setting_providers/avatars/000/000/049/medium/avatar-28.jpg?1583325487&quot;,&quot;/system/fast_setting_providers/avatars/000/000/050/medium/avatar-58.jpg?1583325487&quot;,&quot;/system/fast_setting_providers/avatars/000/000/051/medium/avatar-113.jpg?1583325487&quot;,&quot;/system/fast_setting_providers/avatars/000/000/052/medium/avatar-64.jpg?1583325487&quot;,&quot;/system/fast_setting_providers/avatars/000/000/053/medium/avatar-116.jpg?1583325488&quot;,&quot;/system/fast_setting_providers/avatars/000/000/054/medium/avatar-87.jpg?1583325488&quot;,&quot;/system/fast_setting_providers/avatars/000/000/055/medium/avatar-72.jpg?1583325488&quot;,&quot;/system/fast_setting_providers/avatars/000/000/056/medium/avatar-77.jpg?1583325488&quot;,&quot;/system/fast_setting_providers/avatars/000/000/057/medium/avatar-101.jpg?1583325488&quot;,&quot;/system/fast_setting_providers/avatars/000/000/058/medium/avatar-1.jpg?1583325488&quot;,&quot;/system/fast_setting_providers/avatars/000/000/059/medium/avatar-36.jpg?1583325488&quot;,&quot;/system/fast_setting_providers/avatars/000/000/060/medium/avatar-125.jpg?1583325488&quot;,&quot;/system/fast_setting_providers/avatars/000/000/061/medium/avatar-75.jpg?1583325488&quot;,&quot;/system/fast_setting_providers/avatars/000/000/062/medium/avatar-51.jpg?1583325488&quot;,&quot;/system/fast_setting_providers/avatars/000/000/063/medium/avatar-14.jpg?1583325488&quot;,&quot;/system/fast_setting_providers/avatars/000/000/064/medium/avatar-44.jpg?1583325488&quot;,&quot;/system/fast_setting_providers/avatars/000/000/065/medium/avatar-76.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/066/medium/avatar-57.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/067/medium/avatar-130.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/068/medium/avatar-9.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/069/medium/avatar-70.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/070/medium/avatar-122.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/071/medium/avatar-92.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/072/medium/avatar-59.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/073/medium/avatar-7.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/074/medium/avatar-114.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/075/medium/avatar-97.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/076/medium/avatar-118.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/077/medium/avatar-79.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/078/medium/avatar-133.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/079/medium/avatar-137.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/080/medium/avatar-140.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/081/medium/avatar-63.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/082/medium/avatar-62.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/083/medium/avatar-25.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/084/medium/avatar-34.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/085/medium/avatar-138.jpg?1583325489&quot;,&quot;/system/fast_setting_providers/avatars/000/000/086/medium/avatar-45.jpg?1583325490&quot;,&quot;/system/fast_setting_providers/avatars/000/000/087/medium/avatar-18.jpg?1583325490&quot;,&quot;/system/fast_setting_providers/avatars/000/000/088/medium/avatar-84.jpg?1583325490&quot;,&quot;/system/fast_setting_providers/avatars/000/000/089/medium/avatar-33.jpg?1583325490&quot;,&quot;/system/fast_setting_providers/avatars/000/000/090/medium/avatar-41.jpg?1583325490&quot;,&quot;/system/fast_setting_providers/avatars/000/000/091/medium/avatar-6.jpg?1583325490&quot;,&quot;/system/fast_setting_providers/avatars/000/000/092/medium/avatar-88.jpg?1583325490&quot;,&quot;/system/fast_setting_providers/avatars/000/000/093/medium/avatar-40.jpg?1583325490&quot;,&quot;/system/fast_setting_providers/avatars/000/000/094/medium/avatar-17.jpg?1583325490&quot;,&quot;/system/fast_setting_providers/avatars/000/000/095/medium/avatar-10.jpg?1583325490&quot;,&quot;/system/fast_setting_providers/avatars/000/000/096/medium/avatar-94.jpg?1583325490&quot;,&quot;/system/fast_setting_providers/avatars/000/000/097/medium/avatar-29.jpg?1583325490&quot;,&quot;/system/fast_setting_providers/avatars/000/000/098/medium/avatar-5.jpg?1583325490&quot;,&quot;/system/fast_setting_providers/avatars/000/000/099/medium/avatar-96.jpg?1583325491&quot;,&quot;/system/fast_setting_providers/avatars/000/000/100/medium/avatar-11.jpg?1583325491&quot;,&quot;/system/fast_setting_providers/avatars/000/000/101/medium/avatar-102.jpg?1583325491&quot;,&quot;/system/fast_setting_providers/avatars/000/000/102/medium/avatar-144.jpg?1583325491&quot;,&quot;/system/fast_setting_providers/avatars/000/000/103/medium/avatar-148.jpg?1583325491&quot;,&quot;/system/fast_setting_providers/avatars/000/000/104/medium/avatar-66.jpg?1583325491&quot;,&quot;/system/fast_setting_providers/avatars/000/000/105/medium/avatar-55.jpg?1583325491&quot;,&quot;/system/fast_setting_providers/avatars/000/000/106/medium/avatar-100.jpg?1583325491&quot;,&quot;/system/fast_setting_providers/avatars/000/000/107/medium/avatar-129.jpg?1583325491&quot;,&quot;/system/fast_setting_providers/avatars/000/000/108/medium/avatar-93.jpg?1583325491&quot;,&quot;/system/fast_setting_providers/avatars/000/000/109/medium/avatar-146.jpg?1583325491&quot;,&quot;/system/fast_setting_providers/avatars/000/000/110/medium/avatar-112.jpg?1583325491&quot;,&quot;/system/fast_setting_providers/avatars/000/000/111/medium/avatar-117.jpg?1583325491&quot;,&quot;/system/fast_setting_providers/avatars/000/000/112/medium/avatar-120.jpg?1583325491&quot;,&quot;/system/fast_setting_providers/avatars/000/000/113/medium/avatar-2.jpg?1583325491&quot;,&quot;/system/fast_setting_providers/avatars/000/000/114/medium/avatar-26.jpg?1583325491&quot;,&quot;/system/fast_setting_providers/avatars/000/000/115/medium/avatar-54.jpg?1583325491&quot;,&quot;/system/fast_setting_providers/avatars/000/000/116/medium/avatar-145.jpg?1583325491&quot;,&quot;/system/fast_setting_providers/avatars/000/000/117/medium/avatar-23.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/118/medium/avatar-90.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/119/medium/avatar-108.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/120/medium/avatar-4.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/121/medium/avatar-119.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/122/medium/avatar-86.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/123/medium/avatar-107.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/124/medium/avatar-37.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/125/medium/avatar-49.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/126/medium/avatar-73.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/127/medium/avatar-95.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/128/medium/avatar-143.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/129/medium/avatar-27.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/130/medium/avatar-16.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/131/medium/avatar-127.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/132/medium/avatar-53.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/133/medium/avatar-121.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/134/medium/avatar-103.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/135/medium/avatar-8.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/136/medium/avatar-142.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/137/medium/avatar-141.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/138/medium/avatar-81.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/139/medium/avatar-56.jpg?1583325492&quot;,&quot;/system/fast_setting_providers/avatars/000/000/140/medium/avatar-30.jpg?1583325493&quot;,&quot;/system/fast_setting_providers/avatars/000/000/141/medium/avatar-123.jpg?1583325493&quot;,&quot;/system/fast_setting_providers/avatars/000/000/142/medium/avatar.jpg?1583325493&quot;,&quot;/system/fast_setting_providers/avatars/000/000/143/medium/avatar-147.jpg?1583325493&quot;,&quot;/system/fast_setting_providers/avatars/000/000/144/medium/avatar-99.jpg?1583325493&quot;,&quot;/system/fast_setting_providers/avatars/000/000/145/medium/avatar-80.jpg?1583325493&quot;,&quot;/system/fast_setting_providers/avatars/000/000/146/medium/avatar-149.jpg?1583325493&quot;,&quot;/system/fast_setting_providers/avatars/000/000/147/medium/avatar-85.jpg?1583325493&quot;,&quot;/system/fast_setting_providers/avatars/000/000/148/medium/avatar-91.jpg?1583325493&quot;,&quot;/system/fast_setting_providers/avatars/000/000/149/medium/avatar-38.jpg?1583325493&quot;,&quot;/system/fast_setting_providers/avatars/000/000/150/medium/avatar-61.jpg?1583325493&quot;,&quot;/system/fast_setting_providers/avatars/000/000/151/medium/avatar-13.jpg?1583325493&quot;],&quot;steps&quot;:{&quot;name&quot;:{&quot;title&quot;:&quot;Décrivez votre projet en quelques mots&quot;,&quot;reassurance&quot;:&quot;Codeur.com est la \u003cem\u003e1\u003csup\u003eère\u003c/sup\u003e plateforme\u003c/em\u003e de freelances en France&quot;,&quot;hint&quot;:{&quot;title&quot;:&quot;Trouvez le freelance idéal pour votre projet&quot;,&quot;text&quot;:&quot;C&#39;est rapide, gratuit et sans obligation&quot;},&quot;stats&quot;:{&quot;first&quot;:&quot;\u003cem\u003e1238 prestataires actifs\u003c/em\u003e en ce moment sur Codeur.com&quot;,&quot;second&quot;:&quot;Recevez vos premiers devis en seulement \u003cem\u003e2 minutes\u003c/em\u003e&quot;},&quot;placeholder&quot;:&quot;Ex : Création d&#39;un site e-commerce, refonte d&#39;une application...&quot;,&quot;minimumLength&quot;:5,&quot;maximumLength&quot;:70},&quot;description&quot;:{&quot;reassurance&quot;:&quot;\u003cspan class=\&quot;mf-square-icon\&quot;\u003e\u003ci class=\&quot;fas fa-thumbs-up\&quot;\u003e\u003c/i\u003e\u003c/span\u003e \u003cem\u003e229 prestataires recommandés\u003c/em\u003e par nos clients cette semaine&quot;,&quot;hint&quot;:{&quot;title&quot;:&quot;Donnez un maximum de détails sur votre projet&quot;,&quot;text&quot;:&quot;Avancement, délais, compétences recherchées...&quot;},&quot;stats&quot;:{&quot;first&quot;:&quot;\u003cem\u003e138 nouveaux freelances\u003c/em\u003e ces dernières 24 heures&quot;,&quot;second&quot;:&quot;Recevez en moyenne \u003cem\u003e26 devis\u003c/em\u003e sur votre projet&quot;},&quot;questions&quot;:{&quot;global&quot;:{&quot;title&quot;:&quot;Détaillez précisement vos besoins&quot;,&quot;placeholder&quot;:&quot;Nous recherchons un freelance pour... \r\nNotre besoin porte principalement sur... \r\nLes compétences nécessaires sont... \r\nNotre projet doit être terminé avant le... &quot;},&quot;requirements&quot;:{&quot;title&quot;:&quot;Quelles sont les prestations attendues\u0026nbsp;?&quot;,&quot;placeholder&quot;:&quot;Exemple : \r\nNous avons besoin d&#39;un site web avec un espace d&#39;administration... \r\nLe site doit être réalisé à partir du CMS Wordpress... \r\nUne partie e-commerce doit être intégrée... \r\nLa charte graphique doit utiliser le Framework Bootstrap... &quot;},&quot;delivery&quot;:{&quot;title&quot;:&quot;Quelles sont vos exigences\u0026nbsp;?&quot;,&quot;placeholder&quot;:&quot;Exemple : \r\nL&#39;application doit être compatible Android \u0026 iOS... \r\nLes textes doivent être optimisés pour le référencement naturel... \r\nLe prestataire doit nous fournir les fichiers sources... \r\nLe rendu final doit impérativement être livré sous 30 jours... &quot;}},&quot;minimumLength&quot;:5,&quot;skipMinimumLength&quot;:50},&quot;budget&quot;:{&quot;title&quot;:&quot;Quel est votre budget approximatif\u0026nbsp;?&quot;,&quot;reassurance&quot;:&quot;\u003cdiv class=&#39;d-flex justify-content-between&#39;\u003e\u003cdiv\u003e\u003ci class=&#39;far fa-shield-alt&#39;\u003e\u003c/i\u003e Service sécurisé\u003c/div\u003e\u003cdiv\u003e\u003ci class=&#39;far fa-check&#39;\u003e\u003c/i\u003e Aucune commission\u003c/div\u003e\u003cdiv\u003e\u003ci class=&#39;far fa-check&#39;\u003e\u003c/i\u003e Sans obligation\u003c/div\u003e\u003c/div\u003e&quot;,&quot;hint&quot;:{&quot;title&quot;:&quot;Le budget n&#39;est fourni qu&#39;à titre indicatif&quot;,&quot;text&quot;:&quot;Vous pourrez l&#39;affiner plus tard avec les prestataires&quot;},&quot;stats&quot;:{&quot;first&quot;:&quot;\u003cem\u003e2104 prestataires\u003c/em\u003e disponibles sur Codeur.com&quot;,&quot;second&quot;:&quot;\u003cem\u003e458 devis\u003c/em\u003e envoyés ces 2 dernières heures&quot;}},&quot;contact&quot;:{&quot;title&quot;:&quot;Préférences de contact&quot;,&quot;reassurance&quot;:&quot;\u003cspan class=\&quot;mf-square-icon\&quot;\u003e\u003ci class=\&quot;fas fa-lock-alt\&quot;\u003e\u003c/i\u003e\u003c/span\u003e Vos coordonnées ne seront pas affichées publiquement sur la plateforme&quot;,&quot;hint&quot;:{&quot;title&quot;:&quot;Votre e-mail est utilisé pour valider votre projet&quot;,&quot;text&quot;:&quot;Vous pourrez ensuite utiliser la messagerie privée&quot;,&quot;signedIn&quot;:{&quot;title&quot;:&quot;Choisissez comment être contacté par les prestataires&quot;,&quot;text&quot;:&quot;Utilisez la messagerie privée pour des échanges sécurisés&quot;}},&quot;stats&quot;:{&quot;first&quot;:&quot;\u003cem\u003e897 utilisateurs connectés\u003c/em\u003e sur la messagerie privée&quot;,&quot;second&quot;:&quot;Recevez vos premiers devis en seulement \u003cem\u003e2 minutes\u003c/em\u003e&quot;},&quot;guestTitle&quot;:&quot;Entrez votre adresse e-mail&quot;,&quot;placeholder&quot;:&quot;Votre adresse email&quot;,&quot;passwordRequest&quot;:{&quot;title&quot;:&quot;Identification requise&quot;,&quot;text&quot;:&quot;Vous devez vous identifier pour publier votre nouveau projet.&quot;}},&quot;location&quot;:{&quot;title&quot;:&quot;Pour terminer, entrez vos coordonnées&quot;,&quot;reassurance&quot;:&quot;\u003cspan class=\&quot;mf-square-icon\&quot;\u003e\u003ci class=\&quot;fas fa-thumbs-up\&quot;\u003e\u003c/i\u003e\u003c/span\u003e \u003cem\u003e229 prestataires recommandés\u003c/em\u003e par nos clients cette semaine&quot;,&quot;hint&quot;:{&quot;title&quot;:&quot;Dernière étape avant la validation de votre projet&quot;,&quot;text&quot;:&quot;Renseignez votre localisation pour les prestataires&quot;},&quot;stats&quot;:{&quot;first&quot;:&quot;\u003cem\u003e1238 prestataires actifs\u003c/em\u003e en ce moment sur Codeur.com&quot;,&quot;second&quot;:&quot;Recevez en moyenne \u003cem\u003e26 devis\u003c/em\u003e sur votre projet&quot;}},&quot;options&quot;:{&quot;title&quot;:&quot;Boostez votre recherche de prestataires&quot;,&quot;reassurance&quot;:&quot;\u003cspan class=\&quot;mf-square-icon\&quot;\u003e\u003ci class=\&quot;fas fa-star\&quot;\u003e\u003c/i\u003e\u003c/span\u003e 206 prestataires ont reçu une évaluation positive ces 7 derniers jours&quot;,&quot;hint&quot;:{&quot;title&quot;:&quot;Augmentez vos chances de trouver la perle rare&quot;,&quot;text&quot;:&quot;Les projets avec options reçoivent 2 fois plus de devis&quot;},&quot;stats&quot;:{&quot;first&quot;:&quot;\u003cem\u003e1238 prestataires actifs\u003c/em\u003e en ce moment sur Codeur.com&quot;,&quot;second&quot;:&quot;Recevez en moyenne \u003cem\u003e26 devis\u003c/em\u003e sur votre projet&quot;}}},&quot;projectOptions&quot;:[{&quot;id&quot;:1,&quot;name&quot;:&quot;premium&quot;,&quot;price&quot;:&quot;59.0&quot;,&quot;label&quot;:&quot;PREMIUM&quot;,&quot;title&quot;:&quot;Attirez les meilleurs&quot;,&quot;description&quot;:&quot;Projet mis en avant sur la plateforme et remonté pendant 5 jours en haut des listes de projets.&quot;,&quot;legend&quot;:&quot;Recommandé&quot;},{&quot;id&quot;:3,&quot;name&quot;:&quot;urgent&quot;,&quot;price&quot;:&quot;19.0&quot;,&quot;label&quot;:&quot;URGENT&quot;,&quot;title&quot;:&quot;Trouvez rapidement&quot;,&quot;description&quot;:&quot;Ajoutez un label \&quot;Urgent\&quot; sur votre projet pour recevoir des devis plus rapidement.&quot;,&quot;legend&quot;:&quot;Populaire&quot;},{&quot;id&quot;:2,&quot;name&quot;:&quot;hidden&quot;,&quot;price&quot;:&quot;9.0&quot;,&quot;label&quot;:&quot;CACHÉ&quot;,&quot;title&quot;:&quot;Restez discret&quot;,&quot;description&quot;:&quot;Projet accessible uniquement par nos prestataires abonnés et invisible sur Google.&quot;,&quot;legend&quot;:&quot;&quot;}]}" data-fast-signed-in-as="prestataire" data-fast-spamming="false" data-fast-pending-projects="false" data-fast-zip="69003" data-fast-country="FR" data-fast-phone="+33754360483" data-fast-complete-contact-info="true"></div>
+    <script src="https://apis.google.com/js/platform.js" async defer>
+    {
+        lang:
+        'fr'
+    }
+    </script>
+</body>
+</html>
+
+
