@@ -6216,3 +6216,1802 @@ Cordialement.
 Le projet est maintenant fermé02/03/21 05:00 CET
 ---------- ---------- ----------
 
+========== Messages > Outil interne entreprise ==========
+---
+Bonjour,
+Je serais ravis de pouvoir vous accompagner sur ce projet d'application.
+Ingénieur en développement de formation, je connais parfaitement les environnements Apple et dispose de toutes les ressources nécessaires pour développer votre application.
+De plus j'ai eu l'occasion de développer des modules CRM pour des logiciels d'ITSM tel que HP Service Manager, GLPI ou encore iTOP.
+L'offre présenté ici est succincte, pouvez vous m'en dire plus avec éventuellement un cahier des charges afin que je puisse vous faire parvenir un devis détaillé ?
+Enfin, quelle serait votre date butoir pour la réalisation de ce projet ?
+Cordialement
+---
+Le projet est maintenant fermé26/08/20 05:01 CEST
+---------- ---------- ----------
+
+========== Messages > Création application mobile jeux ==========
+---
+Bonjour,
+Je serais ravis de pouvoir vous accompagner dans la réalisation de votre projet.
+Pouvez-vous m'en dire plus sur l'application que vous souhaitez, avec éventuellement un cahier des charges afin que je puisse vous faire parvenir un devis détaillé rapidement, vu que vos délais sont courts.
+En parlant de délais, quelle serait votre date butoir pour la réalisation de l'application ?
+Cordialement
+---
+Le projet est maintenant fermé26/08/20 05:01 CEST
+---------- ---------- ----------
+
+========== Messages > Automatisation install linux centos (kickstart & ansible) ==========
+---
+Bonjour,
+Merci pour ces précisions, afin que je puisse vous faire parvenir un devis en bonne et due forme, pouvez vous me donner une dénomination sociale ou à défaut un nom / prénom à faire figurer sur le devis ?
+Cordialement
+---
+Franck CALLEJA / Société : AUDIS NETWORKING
+---
+Bonjour...
+---
+Merci pour ces informations, voici le devis.
+Cordialement
+Fichier joint :  DEVIS-I-20-07-1-AUDIS-NETWORKING.pdf
+---
+merci bien reçu
+---
+fc34 a attribué le projet à un autre prestataire24/07/20 17:24 CEST
+---
+Voici le devis signé. J'aurais probablement aussi un document à te faire signer pour la non-divulgation d'informations relatives à notre société, auxquelles tu pourrais avoir accès lors de la mission. Dès que j'ai récupéré le document je te l'envoie.
+Fichier joint :  D2000006-signé.pdf
+---
+désolé, mauvais destinataire
+---------- ---------- ----------
+
+========== Messages > Administration base de données, restructuration et optimisation ==========
+---
+Bonjour,
+Nous serions ravis de pouvoir vous accompagner lors de ce projet de migration de base de données. Un de nos consultant dispose des compétences que vous recherchez, il à une forte expérience sur les base de données MariaDB/Postgre/MySQL, MongoDB et Redis dans des environnements extrêmement critiques servants plusieurs millions d'utilisateurs et il a également eu l'occasion d'être formateur Oracle 10g.
+La proposition réalisé ici est succincte, si vous souhaitez un devis détaillé, je vous laisse nous faire parvenir votre cahier des charges ou à défaut convenir d'un créneau sur lequel nous pourrons définir le périmètre technique de la prestation.
+Cordialement
+---
+Le projet est maintenant fermé23/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Création de la v2 d'un serveur five m ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement de serveur de jeux vidéos. J'ai eu l'occasion de travailler en tant qu'ingénieur online chez Ubisoft sur des productions AAA c'est pourquoi je pense pouvoir vous aider étant donné la nature du projet.
+L'offre présenté n'est que succincte, si vous le souhaitez je vous laisse me faire parvenir un cahier des charges ou à défaut nous pouvons convenir d'un créneau pour un atelier technique afin de définir le périmètre du projet, les technologies impliqués etc... 
+A la suite de quoi je pourrais vous faire parvenir un devis détaillé pour votre projet.
+Cordialement
+---
+Le projet est maintenant fermé21/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Interface entre un erp et logiciel d'achats par api ==========
+---
+Bonjour,
+Nous serions ravis de vous accompagner dans ce projet de développement.
+Nous sommes spécialisés dans le développement de solutions logicielles sur mesure aux professionnels. Un de nos consultant dispose des compétences que vous recherchez, il est spécialisé dans le développement de services backend/online.
+Si vous le souhaitez, je vous laisse nous faire parvenir un cahier des charges ou à défaut nous pouvons convenir d'un créneau pour un entretien téléphonique afin de déterminer le périmètre du projet, ainsi nous pourrons vous faire parvenir un devis détaillé en accord avec vos besoins.
+Cordialement
+---
+Le projet est maintenant fermé21/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Application ==========
+---
+Bonjour,
+Nous serions ravis de vous accompagner sur votre projet d'application mobile.
+Nous somme spécialisé dans le développement et l'intégration d'application pour les professionnels, nous disposons des équipements pour mener à bien votre projet et notre consultant maitrise les technologies de développement cross-plateforme tel que Xamarin.
+L'offre présenté n'est que succincte, si vous le souhaitez je vous laisse me faire parvenir un cahier des charges ou à défaut nous pouvons convenir d'un entretien téléphonique afin d'évaluer le périmètre du projet, à la suite de quoi nous pourrons vous faire parvenir un devis détaillé en accord avec vos besoins.
+Cordialement
+---
+Le projet est maintenant fermé21/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Developpement appli lecteur code barres sous xamarin ==========
+---
+Bonjour,
+Nous serions ravis de pouvoir vous accompagner dans ce projet de développement d'application. Un de nos consultants maitrise Xamarin et le développement cross-plateformes, comme mentionné dans votre annonce.
+Si vous le souhaitez je vous laisse nous faire parvenir un cahier des charges ou à défaut me recontacter afin que nous puissions convenir d'un créneau pour un entretien téléphonique afin de définir le périmètre du projet, et ainsi vous faire parvenir un devis détaillé dans les plus brefs délais.
+Cordialement 
+---
+Le projet est maintenant fermé22/08/20 05:02 CEST
+---------- ---------- ----------
+
+========== Messages > Boutique ==========
+---
+Bonjour,
+Nous serions ravis de pouvoir vous accompagner sur ce projet de site web.
+Pouvez-vous me transmettre d'éventuelles pièces complémentaires tel qu'un cahier des charges ou à défaut nous pouvons fixer un entretien téléphonique afin définir vos besoins dans le but de vous transmettre un devis détaillé.
+Cordialement
+---
+Le projet est maintenant fermé22/08/20 05:02 CEST
+---------- ---------- ----------
+
+========== Messages > App marketplace louer dehors ==========
+---
+Bonjour,
+Je serais ravis de pouvoir vous accompagner sur votre projet de développement d'application.
+Je vous laisse me transmettre d'éventuels pièces complémentaires (cahier des charges, site, mockups etc...) afin de pouvoir prendre conscience de l'ampleur du projet, en discuter et vous transmettre ainsi un devis détaillé selon vos besoins.
+Cordialement
+---
+Le projet est maintenant fermé22/08/20 05:02 CEST
+---------- ---------- ----------
+
+========== Messages > Application de gestion de commandes et de colis ==========
+---
+Bonjour,
+Nous serions ravis de pouvoir vous accompagner sur ce projet d'application pour votre entreprise.
+Notre équipe est spécialisé dans le développement d'applications mobile  / web back office sur mesure. La proposition faite ici n'est que succincte, si vous souhaitez un devis détaillé n'hésitez pas à nous contacter pour que l'on puisse définir un périmètre d'action lors d'un atelier technique (gratuit) ou à nous envoyer un cahier des charges.
+Cordialement
+---
+Bonjour, 
+Ci-joint, un cahier des charges express, pour que vous ayez une idée de ce que nous souhaiton avoir. 
+Dans l'attente de votre retour chiffré et technique. 
+Cordialement
+Fichier joint :  Cahiers_de_charges_Express_Afrety.pdf
+---
+Le projet est maintenant fermé20/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Labellisation d'images médicales ==========
+---
+Bonjour,
+Nous serions ravis de vous accompagner sur se projet de reconnaissance et d'analyse d'image. Un de nos consultant dispose de compétences en accord avec vos besoins, il à travaillé sur divers projets de traitement d'images, de motifs et d'analyse en temps réel ou non, couplé à de l'intelligence artificielle.
+La proposition ici n'est que succincte, n'hésitez pas à nous contacter afin de nous faire parvenir un cahier des charges ou pour que nous définissions ensemble le périmètre d'action lors d'un atelier technique (gratuit), afin de vous faire parvenir un devis détaillé.
+Cordialement
+---
+Le projet est maintenant fermé20/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Création d'une app d'enregistrement du temps de prestation ouvriers ==========
+---
+Bonjour,
+Nous serions ravis de pouvoir vous accompagner sur ce projet d'application.
+Notre équipe est coutumière des applications mobile / web based, nous pouvons donc vous proposer une prestation adapté à vos besoins et vos envies.
+La proposition de prix n'est que succincte, n'hésitez pas à entrer en contact avec nous ou nous faire parvenir un cahier des charges afin que nous puissions établir un devis détaillé.
+Cordialement
+---
+Le projet est maintenant fermé16/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Création d'un simulateur de conduite (software) ==========
+---
+Bonjour,
+Nous serions heureux de vous accompagner lors de votre projet de simulation.
+Notre société est spécialisé dans le développement de jeux vidéos, fort de collaborateurs ayant travaillés dans des studios tel qu'Ubisoft, nous serions à même de vous aider à piloter ce projet et à le réaliser de bout en bout.
+Notre siège social est basé en Rhône-Alpes et un de nos collaborateur est présent sur le bassin Grenoblois, nous pourrions donc assurer un suivi en physique si nécessaire afin de mener à bien ce projet de manière rigoureuse.
+La proposition n'est que très brève basé sur les quelques éléments de l'offre, si vous souhaitez obtenir un devis détaillé n'hésitez pas à nous contacter et/ou nous faire parvenir un cahier des charges.
+Cordialement
+---
+Le projet est maintenant fermé07/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Application d'aide a la personne. ==========
+---
+Bonjour,
+Nous serions heureux de vous accompagner dans la réalisation de ce projet.
+Notre équipe est spécialisé dans l'ingénierie logiciel et nous avons déjà réalisé diverses applications pour des professionnels.
+Qui plus est, il semblerait que vous soyez basé en Isère, notre siège social est basé à Lyon et l'un de nos collaborateur est présent sur l'agglomération Grenobloise, ce qui nous permet d'assurer un suivi de projet en physique si vous le souhaitez.
+La proposition n'est qu'une estimation rapide, n'hésitez pas à nous contacter et/ou nous faire parvenir un cahier des charges afin que nous puissions vous fournir un devis détaillé.
+Cordialement
+---
+Le projet est maintenant fermé14/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Création d'une application d'une plate-forme de livraison ==========
+---
+Bonjour,
+Nous serions heureux de pouvoir vous accompagner pour la réalisation de ce projet.
+Nous sommes spécialisés dans le développement d'application, mobile entre autre, et nous avons déjà réalisé ce type de projet ce qui nous permet de vous accompagner au mieux.
+L'offre proposé n'est qu'une estimation brève selon votre description, si vous souhaitez obtenir un devis détaillé, n'hésitez pas à nous contacter.
+Cordialement
+---
+Lamagna a attribué le projet à un autre prestataire21/07/20 18:42 CEST
+---------- ---------- ----------
+
+========== Messages > Développement d'une application + charte graphique ==========
+---
+Bonjour,
+Nous serions heureux de pouvoir vous accompagner durant votre projet d'application.
+Nous avons déjà réalisé ce type de projet d'application cross-plateformes ou native selon vos souhaits, et nous disposons également de graphistes prêts à vous aider à concrétiser ce projet.
+Avec plus d'informations et éventuellement un cahier des charges nous serions en mesure de vous proposer un devis détaillé, n'hésitez pas à nous contacter.
+Cordialement
+---
+Le projet est maintenant fermé16/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Addon email sms à partir de notre api multicanal ==========
+---
+Bonjour,
+Cette proposition n'est qu'une estimation selon les éléments de votre annonce et mon expérience sur les connecteurs vers les CMS.
+Je serais en mesure de vous fournir un devis détaillé et précis après avoir consulté le cahier des charges ou à défaut, après avoir pu échanger avec vous.
+Cordialement
+---
+Le projet est maintenant fermé15/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Création d'une application mobile de mise en relation ==========
+---
+Bonjour,
+L'offre n'est qu'une estimation rapide par rapport aux quelques points évoqués dans votre annonce, je serais en mesure de vous fournir un devis précis et détaillé après avoir consulté votre cahier des charges.
+Cordialement
+---
+Le projet est maintenant fermé15/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Création de script sur google sheet ==========
+---
+A coté, j'utilise odoo pour ma facturation mais je ne veux pas acheter l'application Réparation pour le ticketing car cela me fait perdre la gratuité des autres applications.
+---
+j'attends votre retour. Bonne soirée.
+---
+Bonjour, toujours partant??
+---
+Bonjour,
+Oui bien sûr, le projet m'intéresse toujours si vous souhaitez vous pouvez me joindre au 0610467011 directement, nous pourrons ainsi échanger directement.
+Cordialement
+
+---
+Comme convenu voici le devis concernant la prestation.
+Si vous avez besoin de précisions n'hésitez pas à revenir vers moi.
+Cordialement
+Fichier joint :  DEVIS-I-20-08-2-ATAVU.pdf
+---
+bon pour accord
+
+Fichier joint :  DEVIS-I-20-08-2-ATAVU-f5b018a7d60162d0df9b060e2a605c9841b8c02c.pdf
+---
+Headcrab a accepté de réaliser le projet11/08/20 12:54 CEST
+---
+Le projet est maintenant terminé11/08/20 17:12 CEST
+---------- ---------- ----------
+
+========== Messages > Bitcoin json rpc api ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement autour du bitcoin.
+Ingénieur en développement logiciel, j'ai développé notamment des solutions autour de la blockchain pour des sociétés comme Ubisoft dans des écosystèmes d'API vastes.
+La proposition réalisé ici est succincte, si vous le souhaitez vous pouvez me transmettre la description détaillé du projet ou éventuellement un cahier des charges et je pourrais vous fournir un devis détaillé et une estimation du temps nécessaire pour la réalisation du projet.
+Cordialement
+---
+Le projet est maintenant fermé03/09/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Création site avec liaison avec exchange ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement.
+Ingénieur en développement logiciel, j'ai travaillé pour des sociétés tels qu'Ubisoft où j'ai développé des sites back offices afin de gérer des écosystèmes de services et notamment des bases de données utilisés par des millions de joueurs, dans un contexte où la sécurité notamment est extrêmement critique. De plus je maitrise l'administration d'Exchange, j'ai également réalisé des prestations d'installation/évolution/migration d'infrastructures Exchange.
+Via mon expérience, je pense pouvoir vous accompagner efficacement tout au long de ce projet, la proposition réalisé ici est succincte, si vous le souhaitez vous pouvez me faire parvenir un cahier des charges ou à défaut nous pouvons nous entretenir par téléphone afin de définir le périmètre du projet.
+Je pourrais ainsi vous faire parvenir un devis détaillé ainsi qu'une estimation du temps nécessaire à la réalisation du projet.
+Cordialement
+---
+chrisvei a attribué le projet à un autre prestataire20/08/20 15:03 CEST
+---------- ---------- ----------
+
+========== Messages > Création d'une application web sport avec bdd. ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement de backend.
+Ingénieur en développement logiciel, j'ai eu l'occasion de travailler en tant qu'ingénieur online pour des sociétés comme Ubisoft, afin d'architecturer et de développer des backends de micro-services supportant des millions d'utilisateurs. 
+La proposition réalisé ici est succincte, si vous le souhaitez vous pouvez me faire parvenir un cahier des charges ou à défaut nous pouvons convenir d'un entretien téléphonique afin que nous puissions échanger sur le périmètre de votre projet.
+A la suite de quoi, je pourrais vous transmettre ma meilleure proposition via un devis détaillé ainsi qu'une estimation du temps nécessaire à la réalisation de votre projet.
+Je reste à votre disposition si vous souhaitez des informations complémentaires.
+Cordialement
+---
+Le projet est maintenant fermé01/09/20 05:02 CEST
+---------- ---------- ----------
+
+========== Messages > Développement de deux sondages sur limesurvey ==========
+---
+(excusez-moi)
+
+---
+Je reviens vers vous dans les prochains jours après avoir discuté avec mon équipe et mon supérieur
+---
+Bonjour,
+Je me permet de revenir vers vous pour savoir comment avance le projet de votre côté.
+Cordialement
+---
+Bonjour, 
+---
+Merci beaucoup pour votre message Après avoir discuté avec mon supérieur, on a décidé de modifier un peu l'architecture de notre projet global et donc faire développer nos questionnaires directement par notre prestataire web. 
+Je vous remercie du temps que vous avez pris pour effectuer le devis et vous souhaite toute réussite dans vos projets futurs. 
+Bien cordialement, 
+Daphne 
+---
+Bonjour,
+Je comprends, si vous souhaitez faire appel à nos services à l'avenir n'hésitez pas, vous pouvez me joindre directement à l'adresse suivante : raphael.saget@headcrab.fr ou au 0610467011.
+Je vous souhaite une excellente continuation.
+Cordialement
+---
+Merci beaucoup, je l'aurais en tête ! 
+---
+Le projet est maintenant fermé20/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Logiciel de commande repas pour ehpad ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement d'application.
+Ingénieur en développement logiciel, j'ai eu l'occasion de développer des backoffices web "intranet" pour des sociétés comme Ubisoft afin de gérer des centaines de milliers d'utilisateurs et j'ai également travaillé pour des sociétés du secteur médical (Capio) afin de développer des solutions sur mesure pour gérer leurs cliniques et leur support.
+Je souhaite réellement vous accompagner de bout en bout sur ce projet afin de vous apporter la meilleure solution possible pour votre cas surtout dans ce contexte sanitaire particulier, vous méritez les meilleurs outils et ce au meilleur prix, sur lequel je m'efforcerais de faire ma meilleure proposition possible en guise de solidarité.
+Afin que je puisse établir un devis détaillé ainsi qu'une estimation de la charge la plus juste possible, auriez-vous un cahier des charges à me transmettre ?
+A défaut je me baserais sur le descriptif déjà détaillé de ce que vous souhaitez et je reviendrez vers vous pour quelques questions complémentaires.
+Cordialement
+---
+Le projet est maintenant fermé31/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Developpement interface api / c# avec web service ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement d'API.
+Ingénieur en développement logiciel, j'ai eu l'occasion de travailler sur de nombreux écosystèmes d'API pour des sociétés tel qu'Ubisoft et ce avec les technologies que vous avez mentionné (.NET/Core, C#, Serveur IIS, MySQL/Maria/Postgre).
+Pour ces raisons je suis capable de vous accompagner tout au long de ce projet afin de le mener à bien.
+La proposition réalisé ici est succincte, pouvez vous me faire parvenir un cahier des charges afin que je puisse définir le périmètre du projet et vous transmettre d'éventuelles questions dans le but de vous fournir un devis détaillé ainsi qu'une estimation du temps nécessaire à la réalisation de ce projet.
+Cordialement
+---
+Bonjour,
+Je me permets de revenir vers vous, si vous souhaitez plus de précisions ou une estimation détaillé n'hésitez pas à me contacter.
+Cordialement
+---
+Le projet est maintenant fermé30/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Analyse de valeur foncière à partir de l'open data du gouvernement ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet.
+Ingénieur en développement logiciel, j'ai travaillé sur différents projet similaires d'exploitation de données et de visualisation.
+L'offre faite ici est succincte, si vous souhaitez vous pouvez me faire parvenir un cahier des charges ou une description du rendu que vous souhaitez obtenir, je pourrais ainsi vous transmettre une offre détaillé et une estimation du temps nécessaire à la réalisation du projet.
+Cordialement
+---
+Le projet est maintenant fermé16/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Développement application mobile ==========
+---
+Bonjour,
+Je serais ravis de pouvoir vous accompagner sur ce projet de développement d'application mobile.
+Ingénieur en développement logiciel, j'ai eu l'occasion de travailler sur diverses applications cross-plateformes pour des professionnels allant de la gestion d'évènements B2B jusqu'à l'application dédié pour une foire grand public en passant par les jeux vidéo et serious games mobiles.
+Je possède donc à la fois les compétences ainsi que les ressources nécessaires à la réalisation de votre projet, jusqu'à la publication sur les divers stores.
+La proposition réalisé ici est succincte, si vous le souhaitez vous pouvez me faire parvenir votre cahier des charges, maquettes ou quelconque autre élément que vous jugerez utile.
+Je pourrais ainsi évaluer le périmètre du projet et revenir vers vous avec une proposition détaillé ainsi qu'une estimation du temps nécessaire.
+Cordialement
+---
+Le projet est maintenant fermé04/08/20 15:43 CEST
+---------- ---------- ----------
+
+========== Messages > Transfert de boîtes mails vers office 365 ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner dans cette migration.
+J'ai travaillé dans diverses SSII où j'ai eu l'occasion de réaliser des migrations d'infrastructures mails, y compris les boites, de plateformes comme Postfix, Zimbra, Exchange, Office 365 etc...
+J'aurais besoin de quelques informations complémentaires sur votre projet notamment :
+- Quelle est la plateforme d'origine de vos boites mails ?
+- Souhaitez vous conserver le contenu de vos boites mails ?
+- Quand souhaiteriez vous que cela soit effectué ?
+Cordialement
+---
+ccf459ab5 a attribué le projet à un autre prestataire31/07/20 12:48 CEST
+---------- ---------- ----------
+
+========== Messages > Automatisation de taches dans g suite et microsoft 365 (office) ==========
+---
+Bonjour,
+Quand je parle de points d'API sur functions, je parle des 3 fonctionnalités que vous avez évoqué (créer un fichier, enver un mail et chercher un utilisateur) qui fondamentalement seront représentées par 3 URLs d'API sur Google Functions, afin de pouvoir déclencher ces actions car Google Functions reste "event-based", vous devez appeler ces points pour déclencher les actions souhaités.
+Du coup je vous transmet un devis détaillé dans la matiné ainsi qu'une estimation du temps de travail.
+Cordialement
+---
+Voici comme convenu le devis détaillé.
+Il se base sur les informations que vous m'avez fournit, si vous souhaitez que je vous apporte plus de précision sur certains points ou rajouter d'autres éléments (documentation technique, tests etc....) n'hésitez pas à me le signaler.
+Cordialement
+Fichier joint :  DEVIS-I-20-07-9-CLIENT-N-2987.pdf
+---
+Merci pour ce devis 
+Que je pense avoir bien compris 
+Je n’ai pas de point à ajouté, je n’ai pas produit de documentation sur cette Api, mais j’ai effectivement fait moi même quelque tests pour envisager les difficultés potentielles.
+Le gros du travail étant sur l’architecture et la gestion de l’authentification.
+(Car bien sûr ces 3 premières fonctions ne sont que des premières bases pour les fonctionnalités d’automatisation qui vont suivre)
+Je conserve votre proposition qui suscite mon intérêt.
+---
+Et je reviendrais vers vous
+Probablement pour l’étapes 2 de cette même Api 
+Car je souhait faire un test avec un de vos confrères,
+Mais je garde tête l’idée de voir comment travailler avec vous pour la suite 
+---
+Merci à vous 
+---
+Je comprends, je suis content que ma proposition ai retenu votre attention, si par la suite vous souhaitez faire appel à mes services ce sera avec plaisir, n’hésitez pas à revenir vers moi directement à l’adresse suivante : raphael.saget@headcrab.fr
+Ou par téléphone au 0610467011.
+Cordialement
+---
+Merci bien
+Et à bientôt 
+---
+oumarkn07b a attribué le projet à un autre prestataire05/08/20 13:46 CEST
+---------- ---------- ----------
+
+========== Messages > Reprise et évolution d'une applciation ipad métier ==========
+---
+Bonjour,
+Je serais ravis de pouvoir vous accompagner sur ce projet d'évolution d'application iOS.
+Ingénieur en développement, j'ai travaillé sur diverses applications iOS allant de l'application vitrine aux jeux vidéo, à la fois en Objective C ainsi qu'en Swift (dans toutes ses versions).
+La proposition réalisé ici est succincte, auriez-vous un cahier des charges à me transmettre afin que je puisse avoir une idée du périmètre du projet et ainsi vous fournir un devis détaillé ainsi qu'une estimation juste du temps nécessaire à la réalisation de la prestation.
+Cordialement
+---
+Le projet est maintenant fermé15/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Objet connecté nb-iot ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement d'écosystème IoT.
+Ingénieur en développement de formation, j'ai eu l'occasion de me spécialiser dans le backend et les micro services en travaillant pour des sociétés comme Ubisoft et j'apprécie faire du développement sur périphériques embarqués (Arduino, ESP, Odroid et Raspeberry entre autre), c'est pour cela que je pense avoir les compétences, ou au moins une partie, pour mener à bien votre projet.
+Afin que je puisse avoir une meilleur idée du périmètre du projet, pouvez-vous me faire parvenir un cahier des charges ou à défaut nous pouvons convenir d'un créneau pour un échange téléphonique si vous le souhaitez.
+Suite à cela je pourrais vous confirmer ma capacité à éxécuter la prestation et éventuellement vous faire parvenir un devis détaillé ainsi qu'une estimation du temps nécessaire.
+Cordialement
+---
+Le projet est maintenant fermé29/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Prestashop: script d'export commande multicolis au format gls winexpe ==========
+---
+Bonjour,
+Je serais ravis de pouvoir vous aider dans la réalisation de votre projet.
+Ingénieur en développement j'ai pu développer de nombreux outils d'automatisation de process tels que celui que vous décrivez.
+J'ai pris connaissance des éléments sur votre dropbox, cependant le fichier .csv de vos références produits semble corrompu, certaines données manquent (nombre de carton par ex) et les colonnes sont totalement désorganisés.
+Cependant j'estime pouvoir réaliser ce développement en 2 jours au vu des élements que vous avez fourni.
+Avez vous des contraintes particulières ou un besoin de maintenance après la prestation ?
+Quel est votre date butoir pour la réalisation du module ?
+Cordialement
+---
+BOnjour , 
+Puis je vous appeler dans l'apres midi ? 
+Cordialement
+Ludovic 
+Tel: 07 68 90 95 14
+contact@sportinnov.com
+---
+pierram a attribué le projet à un autre prestataire29/07/20 16:45 CEST
+---
+Bonjour,
+Désolé j'étais en rendez-vous ce début d'après midi, il semblerait que vous ayez attribué ce projet au final, souhaitez vous toujours que l'on s'appel ?
+Cordialement
+---------- ---------- ----------
+
+========== Messages > Api content delivery en .net ==========
+---
+Bonjour,
+Nous serions ravis de pouvoir vous accompagner sur ce projet d'API.
+Un de nos consultant dispose des compétences nécessaires pour vous accompagner, développeur backend (pour des sociétés comme Ubisoft) il a développé entre autre de nombreuses API REST et modules d'authentification avec des technologies similaires aux vôtres (.NET Core, Swagger/OpenAPI, OAuth/JWT, MySQL/Maria/Postgre etc...) et ce dans des écosystèmes de micro-services complexes servant plusieurs millions d'utilisateurs. 
+De plus, comme je le vois à votre localisation il semblerait que vous soyez implanté dans l'Hérault, il y réside également si vous souhaitez à tout moment une intervention physique.
+La proposition réalisé ici est succincte, afin de vous faire parvenir un chiffrage précis il me faudrait plus d'informations sur certains points :
+    - Souhaitez vous que notre consultant se déplace sur site à une étape du projet ? (Atelier technique, recette etc...)
+    - N'ayant accès aux spécifications sur SwaggerHub, quel est le nombre de points d'API à "wrapper"/ré-exposer par rapport à l'API du fournisseur ?
+    - Souhaitez vous un SLA particulier sur la partie maintenance corrective ?
+    - Vous comptez effectuer des tests sur les points d'API développés, souhaitez vous également inclure dans la prestation des tests unitaires sur la base de code elle même ?
+Si vous le souhaitez nous pouvons également vous proposer des services complémentaires de code versionning, d'automatisation "build & release" ou encore de monitoring de micro-services / API.
+Cordialement
+---
+Voici le cahier des charges complet : https://drive.google.com/drive/folders/1wdh2OsbuO8iz_9Ch9KLA2USEV9CKjuEH?usp=sharing
+---
+Bonjour,
+Comme convenu voici notre proposition.
+Je reste à disposition si besoin, dans l'attente de votre retour.
+Bonne journée.
+Cordialement.
+Fichier joint :  DEVIS-I-20-07-7-STUDI.pdf
+---
+Bien reçu, combien de temps estimez vous nécessaire pour ce développement ? 
+
+---
+Le devis est établi sur une base de 12 jours pour la réalisation de la prestation. 
+Avez vous une date butoir déjà définie pour la réalisation du projet ?
+Cordialement
+---
+Bonjour,
+Je me permet de revenir vers vous concernant le projet, avez-vous besoin de plus de précision ?
+Cordialement
+---
+Le projet est maintenant fermé23/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Recherche développeur codeur pour notre site ==========
+---
+Bonjour,
+Je serais ravis de pouvoir vous accompagner afin de résoudre vos problèmes de scripts.
+Ingénieur en développement je connais très bien le PHP ainsi que le framework Symfony utilisé par Prestashop entre autre.
+Concernant l'erreur il semblerait que ce soit un simple problème d'enregistrement du module dans composer, probablement une faute de frappe.
+Si votre besoin se cantonne à cette erreur la prestation peut etre très rapide, en revanche si il y'a d'autres problèmes à régler cela peut s'avérer plus long.
+Avez vous d'autres besoin en terme de debug sur ce script ?
+Cordialement
+---
+Le projet est maintenant fermé28/08/20 05:01 CEST
+---------- ---------- ----------
+
+========== Messages > Aide pour diagnostiquer et améliorer un serveur tournant avec docker ==========
+---
+Bonjour,
+Nous serions ravis de vous accompagner dans ce projet d'infrastructure.
+Afin d'avoir une meilleure idée des prestations que vous souhaitez, nous aurions besoins de plusieurs précisions :
+    - L'étendu du périmètre de l'audit tel que la liste des éléments à auditer, la granularité et les  technologies concernés (ou tout autre élément que vous jugez pertinent). La nécessité de benchmarks comparatifs sur vos infrastructures ? Votre infrastructure est elle hosté par vos soins ou chez un provider (AWS, Google, Alibaba...) ?
+    - Dans l'optique d'une assistance à l'amélioration de votre parc technologique suite aux recommandations, de quel type d'assistance auriez vous besoin ? Mémoire technique, déplacement sur site, prise de contrôle à distance etc ... ? 
+Si vous souhaitez nous faire parvenir un NDA concernant ces informations vous pouvez le faire via la messagerie du site.
+Cordialement
+---
+Bonjour,
+Merci pour votre réponse, j'ai l'impression que quelqu'un a compris notre problème. Et en vous lisant j'ai un peu mieux compris notre problème.
+Effectivement le mot juste est que nous avons déployé une solution pour mettre en ligne nos applications, et il nous faudrait à présent mettre en place une infrastructure.
+Actuellement, nous avons un dédié qui tourne sous la dernière version de debian que nous louons à OVH. Sur lequel nous avons installé docker qui gère tous nos services. Nos services sont composés de 3 conteneurs NGinx, MongoDB et PHP (avec le framework phalcon).
+Mon idée pour parvenir à créer l'infrastructure c'est de faire l'audit de nos technologies, à savoir ce qu'elles valent, comment elles sont censées être utilisées pour que ça tourne bien d'après nos utilisations.
+Ensuite de faire un test de performance pour évaluer les points faibles d'un service et voir ce qu'on peut améliorer à court terme sur ce service.
+Puis coupler l'audit avec le test, pour savoir ce qu'on peut mettre en place pour créer l'infrastructure qui nous irait.
+Et je pense qu'à partir de cet étape nous pourrions être plus précis quant à l'assistance dont nous avons besoin. Je dirai au minimum un mémoire technique, avec aide de mise en place. Puis potentiellement un contrat avec une aide au monitoring et à la veille.
+Concernant la confidentialité, nous vous ferons signer ce qu'il sera nécessaire au lancement du contrat.
+Cordialement,
+---
+Je suis ravis que l'on ai pu vous rassurer avec notre échange, nous ne postulerions pas si nous n'avions pas les compétences, soyez en sûr.
+Si je synthétise, pour le moment vous souhaitez vous concentrer sur la prestation d'audit, puis ultérieurement en fonction des résultats de l'audit, une prestation d'assistance avec une éventuelle maintenance.
+Concernant l'audit, en accord avec ce que vous m'avez fournit comme information, je peux vous proposer d'établir un premier devis sur le plan d'action suivant :
+ 1. Une analyse de la solution existante que vous avez mit en place, pertinence des choix technologiques et recommandations sur les "best practices" pour votre cas d'utilisation
+ 2. Loadtests de vos services/conteneurs sur l'infrastructure actuelle pour determiner la charge critique "utilisateurs par services"
+ 3. En accord avec vos estimés de charge et les loadtest de la solution actuelle ainsi que vos contraintes et votre budget, une proposition d'évolution vers une infrastructure robuste et scalable, capable d'accueillir vos utilisateurs et d'évoluer pour pérenniser votre projet.
+Je vous laisse me faire votre retour là dessus, après votre validation je vous ferais parvenir un devis.
+Cordialement
+---
+Bonjour,
+Je me permet de vous relancer afin de pouvoir vous fournir un chiffrage précis, si notre proposition vous convient toujours.
+Cordialement
+---
+Bonjour,
+C'est tout à fait ça!
+Ce serait bien d'ajouter au deuxième besoin, une ponctuelle amélioration pour la rentrée. Ou alors on décompose la troisième en deux, une aide et amélioration très court terme et une long terme.
+Je vous laisse mon email pour que vous m'envoyiez votre proposition : tserieye@sciado.fr
+Je vous souhaite une belle journée,
+Cordialement,
+---
+Bonjour,
+Ok je vous transmet une proposition dans la journée en découpant le troisième point avec une presta complémentaire ponctuelle et une TMA plus long terme.
+Cordialement
+---
+Comme convenu je vous ai transmis la proposition par mail.
+Je vous la transmet également ici pour le suivi, comme je vous l'ai dit, si vous avez quelconques remarques ou ajustement que vous souhaitez réaliser sur le devis, notamment pour le format/durée de l'accompagnement donc je vous ai fait une proposition dans le devis, n'hésitez pas.
+Cordialement
+Fichier joint :  DEVIS-I-20-07-8-SCIADO.pdf
+---
+Le projet est maintenant fermé22/08/20 05:02 CEST
+---------- ---------- ----------
+
+========== Messages > Programme c++ ==========
+---
+Bonjour,
+Je serais ravis de pouvour vous accompagner sur ce projet.
+Ingénieur en développement de formation j'ai développé sur des programmes C++ complexes tel que des moteurs de jeu pour Ubisoft, ainsi je pense pouvoir vous aider.
+La proposition présenté ici est succincte, pouvez vous me dresser une liste des actions à mener ou me faire parvenir un cahier des charges, afin que je puisse vous fournir un devis détaillé ?
+Cordialement
+---
+Bonjour, vu la charge de travail je peux vous proposer 200 euros. Ca peut se faire assez rapidement.
+Je vous attache les informations du projet.
+Fichier joint :  Cpp_2020-08.pdf
+---
+Le projet est maintenant fermé27/08/20 05:01 CEST
+---------- ---------- ----------
+
+========== Messages > Créer un jeu de société interactif sur écran géant tactile ==========
+---
+Bonjour,
+Je serais ravis de pouvoir vous accompagner sur ce projet de serious game.
+Ingénieur en développement de formation, j'ai travaillé pour Ubisoft sur le développement de jeux AAA et notre société est aujourd'hui spécialisé dans le développement de jeux mobiles, pc, consoles etc... développés uniquement avec des technologies de pointe tel que Unreal ou Unity.
+C'est pourquoi je suis en mesure de vous aider à réaliser votre projet dans les meilleurs conditions.
+La proposition réalisé ici est succincte, pouvez-vous me faire parvenir un cahier des charges ou une liste de fonctionnalités afin que je puisse vous faire parvenir un devis détaillé ?
+Cordialement
+---
+Le projet est maintenant fermé25/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Création application, pour une entreprise de trottinette électrique. ==========
+---
+Bonjour,
+Je serais ravis de pouvoir vous accompagner à la réalisation de ce projet d'application.
+Ingénieur en développement de formation j'ai pu travailler à l'élaboration d'applications cross-plateformes (iOS, Android, Windows etc...) pour des entreprises de divers secteurs.
+A cette occasion je pourrais totalement vous aider que ce soit en développant cette application mais également en vous conseillant sur les choix techniques, stratégiques d'UI/UX jusqu'a la publication de votre application sur les stores et au delà pour d'éventuelles corrections et/ou évolutions.
+La proposition faite ici est succincte, pourriez vous me transmettre un cahier des charges de votre application, des références d'applications, liste de fonctionnalités afin que je puisse établir un devis détaillé ?
+A défaut, si vous n'avez pas encore cela et que vous le souhaitez, nous pouvons planifier un point afin que nous définissions ensemble le périmètre du projet.
+Cordialement
+---
+Le projet est maintenant fermé25/08/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Migration code python sur aws pour creer restapi ==========
+---
+Bonjour,
+De rien, si vous avez besoin de faire appel à nos services ou si vous souhaitez plus d'informations n'hésitez pas à me contacter directement via :
+rsaget@headcrab.fr
++33 6 10 46 70 11
+Dans l'attente de votre décision concernant ce projet ci, je reste à votre entière disposition.
+Cordialement
+---
+Re, ca a l 'air d'avancer de mon cote.Cependant , vous avez il me semble plusieurs cordes a votre arc et j'aime ca.
+
+---
+Ingenieur des mines je ne suis pas informaticien mais les besoins ont fait que j'ai deja passe qq 5000 heures de code sur mon app. Une derniere question, bcp de personnes disent faire du java /android mais en fait tres tres peu de gens maitrisent. Avez vous deja travaille sur la gestion avancee des photos/videos sur android?  D'ici pas trop longtemps il va falloir que je m'y mette. J'ai des idees tres precises et meme si je ne considere pas ce que je compte faire comme dur, tout le monde a abandonne avant de commencer. Merci, gilles
+ 
+---
+Oui en effet mon parcours autant professionnel que personnel fait que je suis passé par tout un éventail de méthode / technologies / pratiques, ce qui me permet de proposer des prestations à plusieurs niveaux et très complètes selon les besoins.
+Concernant le java, j'ai eu l'occasion de développer un jeu avec un moteur nommé jMonkeyEngine et diverses applications sur Android, je connais très bien le langage, la JVM et le paradigme objet.
+A propos du traitement d'image, tout depend de ce que vous souhaitez, j'ai des compétences après avoir travaillé sur des projets à base d'OpenCV pour de la reconnaissance, traitement, interpretation d'image/vidéo en temps réel par exemple, mais pas spécifiquement sur Android.
+Vous semblez avoir un projet / scope très précis, je serais ravis de vous dire si oui ou non je possède les compétences pour réaliser ce que vous souhaitez, pour cela il faut en revanche que vous me fassiez parvenir plus de précisions.
+Si vous le souhaitez n'hésitez pas à me faire parvenir un NDA.
+Cordialement
+---
+Bonjour, c 'est cool tout ca. Je ne veux pas rentrer trop dans les details pas parce qque j'ai peur qu'on me vole une idee ou quoi mais par pure experience. Depuis 10 mois, entre autres un central paris, un ensimag et 2 polytechniques ont abandonne avant de commencer par peur de la tache /du travail .Or si ce que j'ai fait est tres gros (j'ai pas dit bon, juste gros) je sais separer les taches et je ne vais pas donner qq chose a faire si cela necessite des dizaines d'heures pour se mettre dans le bain . En bref, c'est une app de communication , c'est en alpha ,le seul module non touche pour l'instant est le module de photos/videos (avance). J'entends integration (il n'y aurait presque rien a connaitre sur l'app pour simplifier)d'api de traitement/filtres de photos tels pho.to et de video (style filtres masques snapchat) edition des elements (pas juste un lib git) integration de musique etc....
+
+---
+Je precise AUCUN element a develloper, juste de l'integration. Attention cependant ,c'est un vrai travail , il y a des choses a faire. Par exemple , en deux mots ca commence par offrir a l utilisateur une visu des filtres qu'il a a dispo etc..
+
+---
+Donc c'est un travail de difficulte moyenne (si je ne trouve personne , je le ferai) qui doit se faire en collab avec moi. Tres peu de choses a connaitre sur l'app. Avoir envie d'apprendre/etre motive.Paiement a la tache .Remuneration honnete mais je ne suis pas bill gates , je finance le projet entierement. Bon projet en prevision d'un second confinement je dirais...Merci
+
+---
+Le projet est maintenant fermé14/08/20 22:44 CEST
+---------- ---------- ----------
+
+========== Messages > Génération d'un pdf gantt d'après données + maquette (node.js) ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet comme je vous l'avez mentionné lors de votre précédente annonce.
+J'ai mis à jour ma proposition en conséquence des éléments que vous avez ajouté et détaillé.
+Si vous avez besoin de plus d'informations ou précisions n'hésitez pas à revenir vers moi.
+Cordialement
+---
+Le projet est maintenant fermé24/08/20 11:22 CEST
+---------- ---------- ----------
+
+========== Messages > Génération d'un pdf gantt d'après données + maquette (node.js) ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement.
+Ingénieur en développement logiciel, je maitrise de nombreux langages et technologies, j'ai eu l'occasion de travailler sur un fonctionnalité similaire pour un client dont le but était d'exporter au format PDF des graphiques de monitoring basé sur des inputs de données en .json depuis un backoffice en Vue.js / Node.JS avec Axios, je saurais donc parfaitement vous accompagner sur cette prestation.
+La proposition réalisé ici est succincte, si vous le souhaitez vous pouvez me faire parvenir plus de détails notamment vos contraintes technologiques, vos délais etc... à la suite de quoi je pourrais vous faire parvenir une offre détaillé ainsi qu'une estimation du temps nécessaire.
+Si vous le souhaitez vous pouvez me joindre directement via :
+rsaget@headcrab.fr
++33 6 10 46 70 11
+Cordialement
+---
+Bonjour, pour info, les infos ont été détaillées et finalisées, j'ai dû reposter le projet car plus de modifications possibles, si toujours intéressé, c'est ici > https://www.codeur.com/projects/256796-generation-d-un-pdf-gantt-d-apres-donnees-maquette-node-js
+---
+Le projet est maintenant fermé12/08/20 14:34 CEST
+---------- ---------- ----------
+
+========== Messages > Portage librairie python de 2.7 à 3.7 ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de portage.
+Ingénieur en developpement logiciel, j'ai notamment travaillé pour des sociétés tels qu'Ubisoft où j'ai développé et porté de nombreux services en Python 2/3, je maitrise donc parfaitement le language ainsi que cet exercice.
+La proposition réalisé ici succincte, souhaitez vous un portage complet de la librairie afin de mettre à jour le code avec les dernières fonctionnalités / best practices de python 3 ? ou simplement un portage afin de rendre le code fonctionnel ?
+Cordialement
+---
+Bonjour, Je ne souhaite qu'un portage afin de rendre le code fonctionnel. Petite information qui peut peut-être vous aider : cette librairie sert à communiquer avec une carte électronique (connectée en wifi) dont vous pouvez trouver plus d'infos ici si besoiun : https://www.wifistepper.com/
+---
+Bonjour, 
+Merci pour les précisions, je vous confirme que je peux porter votre librairie vers python3, il faudra cependant que vous effectuiez les tests pour moi afin de valider que je n'ai pas altéré le comportement du code ne disposant pas d'exemplaire physique de la carte.
+Concernant le délai, je peux faire le portage du code dès cet après-midi si vous souhaitez que l'on continue ensemble et vous livrer une première version en fin de journée.
+Je vous joint un devis formalisé sur ces éléments, si vous souhaitez plus d'informations ou si vous souhaitez inclure d'autre éléments dans le devis n'hésitez pas à revenir vers moi.
+Cordialement
+Fichier joint :  DEVIS-I-20-08-8-GARANTIM.pdf
+---
+garantim a attribué le projet à un autre prestataire10/08/20 14:21 CEST
+---------- ---------- ----------
+
+========== Messages > Renfort diverses intégrations sites web wordpress ==========
+---
+Oui bien sûr, vous pouvez me joindre sur le site ou directement à l'issue de votre réflexion.
+Dans l'attente de votre retour, je reste néanmoins à votre disposition si vous souhaitez plus de précisions.
+Cordialement
+---
+Bonjour, je vous prie de trouver ci-joint un brief plus complet pour cette demande. Si nous acceptons votre offre, vous aurez accès à un dossier Google Drive partagé contenant tous les identifiants ainsi que les ressources nécessaires (thème à installer et les deux BDD en cas de besoin). 
+Deadline de mise en production : fin de semaine prochaine
+Merci d'avance pour votre retour sur la faisabilité suite au brief et à la deadline évoquée dans ce message.
+Bien cordialement.
+Fichier joint :  Brief_Nogentaise.pdf
+---
+Bonjour,
+J'ai pris connaissance du cahier des charges de la prestation que vous avez rédigé, je vous confirme ma capacité à effectuer l'ensemble de la prestation et ce dans vos délais impartis.
+Je vous joint de mon côté une proposition détaillé en accord avec les éléments complémentaires que vous m'avez fournis, si vous avez une quelconque question ou besoin de plus de précisions n'hésitez pas à me contacter et ce même par téléphone si c'est urgent.
+Cordialement
+Fichier joint :  DEVIS-I-20-08-5-SARL-NOGENTAISE-COUTELLERIE-CISELLERIE.pdf
+---
+Merci pour ce retour et le temps passé, qui est apprécié :-) Nous attendons le retour d'une autre personne en short list, et une autre nous a fait un devis en prix fixe compétitif. Merci pour le temps passé, je reviens vers vous si nous sommes intéressés
+---
+Je vous en pries.
+Soyez sûr que les prestations que j'effectue sont d'une qualité qui va de pair avec le prix proposé, que je vous accompagne aussi bien avant qu'après la prestation.
+Je reste à votre disposition si vous souhaitez que l'on rediscute du devis.
+Cordialement
+---
+Nous allons prendre l'offre davantage accessible d'un autre prestataire, la qualité étant aussi au rendez-vous. Merci pour votre temps 
+---
+Je comprends, si vous souhaitez faire appel à nos services pour un projet ultérieur n'hésitez pas à me contacter directement.
+Je vous souhaitez une bonne fin de journée et un bon week-end.
+Cordialement 
+---
+Le projet est maintenant fermé06/09/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Création d'un site e-commerce sur shopify ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement sur Shopify.
+Moi-même et mon associé sommes tout deux ingénieur en développement logiciel et nous sommes basés à Lyon.
+Si vous le souhaitez vous pouvez me faire parvenir un cahier des charges ou à défaut nous pouvons convenir d'un créneau pour un premier contact téléphonique afin de discuter du projet.
+Je vous laisse mes coordonnées direct :
+rsaget@headcrab.fr
++33 6 10 46 70 11
+Cordialement
+
+---
+Le projet étant urgent, avez-vous une disponibilité demain sur la journée? vous pourriez venir directement dans nos bureaux.
+---
+Je suis actuellement en déplacement pour une prestation, je ne peux donc pas venir moi-même directement, en revanche je peux demander à mon associé qui s'occupe de la gestion commercial de passer vous rencontrer demain afin de définir le périmètre de la prestation et revenir vers vous dans la journée avec une proposition chiffré sur les points qu'il m'aura remonté.
+Concernant les disponibilités, si votre projet est urgent, je peux intervenir dès Lundi 10/08.
+Cordialement
+---
+Le projet est maintenant fermé07/09/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Générer une apk android ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet d'application.
+Ingénieur en développement logiciel, j'ai développé de nombreuses applications pour des professionnels que ce soit Android ou iOS.
+Si vous le souhaitez je peux vous accompagner et vous guider pour générer votre application avec une prise de main à distance ou je peux le faire pour vous et vous fournir ainsi l'application généré ainsi qu'une procédure pas à pas, sur comment le faire par vous même par la suite.
+N'hésitez pas à revenir vers moi si vous avez des questions ou si vous souhaitez des précisions.
+Cordialement
+---
+Le projet est maintenant fermé08/08/20 10:44 CEST
+---------- ---------- ----------
+
+========== Messages > Création de lien sms provenant d'un site web vers un téléphone (sms) ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement.
+Ingénieur en développement logiciel, j'ai développé des sites et des outils backoffices pour des sociétés comme Ubisoft où j'ai mit en place un système d'alerte par SMS avec un lien vers le back office, ce qui est plutôt similaire à votre cas, c'est pourquoi je pense pouvoir vous accompagner efficacement sur cette prestation.
+L'offre présenté ici est succincte, si vous le souhaitez vous pouvez me faire parvenir un cahier des charges ou à défaut nous pouvons convenir d'un créneau pour échanger par téléphone afin de pouvoir définir le périmètre de la prestation et échanger plus facilement.
+Par la suite je pourrais vous transmettre une offre détaillé ainsi qu'une estimation du temps nécessaire à la réalisation de la prestation.
+Je vous laisse également mes coordonnées directes :
+raphael.saget@headcrab.fr
++33 6 10 46 70 11
+Cordialement
+---
+Bonjour,
+Je vous remercie pour votre offre.
+Vous trouverez ci-joint un cahier des charges plus ou moins approximatif qui vous donnera une idée de ce que je souhaite.
+A savoir que je ne souhaite pas une application mobile mais une PWA qui sera effectuée via Wordpress (grâce aux extensions).
+Fichier joint :  Cahier_des_charges_dév.__PWA.docx
+---
+Bonjour,
+Merci pour votre retour, j'ai pris connaissance du cahier des charges, pour être sûr, vous souhaitez le développement de toute l'application ou uniquement la partie envoi de sms pour télécharger l'app ?
+Cordialement
+---
+Bonsoir,
+Il me faudrait de l'aide uniquement pour la partie envoi sms pour permettre au couple de s'échanger leur liste et de la modifier après via leur espace perso comme ils le souhaitent.
+Cordialement, 
+---
+Bonjour,
+Comme convenu voici le devis détaillé des éléments de la prestation, si vous souhaitez plus de précisions n'hésitez pas à revenir vers moi.
+Cordialement
+Fichier joint :  DEVIS-I-20-08-4-UNE-FRAISE-PAS-DEUX.pdf
+---
+Bonjour,
+Je vous remercie beaucoup pour votre devis.
+Mon projet n'est pas pour tout de suite, je garde donc toutes ces informations et je reviendrai vers vous quand celui-ci sera opérationnel.
+Merci à vous,
+Cordialement,
+---
+Je vous en pries, si vous avez besoin de plus amples précisions ou si vous avez des questions n'hésitez pas à revenir vers moi directement, vous avez mes coordonnés.
+Cordialement
+---
+Le projet est maintenant fermé04/09/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Migration d'un site en pré-production ==========
+---
+Bonjour, 
+Je serais ravis de vous accompagner sur cette prestation de migration de votre site.
+La proposition réalisé ici est succincte, si vous le souhaitez je vous laisse me détailler le contexte de la prestation et le périmètre ou à défaut nous pouvons convenir d'un créneau pour un entretien telephonique si vous souhaitez, à la suite de quoi je pourrais vous faire parvenir une proposition détaillé ainsi qu'une estimation du temps nécessaire à la réalisation de la prestation.
+Cordialement
+---
+Le projet est maintenant fermé12/08/20 16:06 CEST
+---------- ---------- ----------
+
+========== Messages > Optimisation de la vitesse de mon site ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner dans cette prestation d'optimisation de site web.
+Ingénieur en développement logiciel depuis plusieurs années j'ai développé de nombreux outils web sur mesure pour des sociétés comme Ubisoft, servant des millions de joueurs simultanément, où la performance est donc critique, je maitrise donc tout à fait le développement web avec ce genre de contrainte (je connais également très bien les CMS comme Wordpress, Prestashop, Shopify etc...).
+D'un autre côté j'ai également travaillé en tant que consultant système et réseaux donc je matrise également le côté infrastructure, serveurs et réseaux, d'où le problème semble venir à première vue concernant la lenteur.
+Grâce à ces deux compétences je peux optimiser votre (vos) sites sur de nombreux points tant côté infrastructure que sur le code et je saurais vous suggérer les meilleurs évolutions pour vous et vos sites.
+Si vous souhaitez plus de précisions ou si vous avez des questions, n'hésitez pas à revenir vers moi sur le site ou directement via :
+raphael.saget@headcrab.fr
++33 6 10 46 70 11
+Cordialement
+---
+J'ai oublié de vous préciser le plus important également, la proposition réalisé ici est succcincte, je peux vous fournir un devis détaillé si vous le souhaitez après que nous ayons défini les points sur lesquels vous souhaitez intervenir.
+Si ce n'est pour le moment que sur la lenteur au chargement des pages, je peux analyser le problème et le régler ou au moins à défaut vous conseiller, si le problème n'est réglable que par une évolution, en une demi journée à première vue.
+Cordialement
+---
+guydelbart a attribué le projet à un autre prestataire07/08/20 13:26 CEST
+---------- ---------- ----------
+
+========== Messages > Convertir curl en google apps script ==========
+---
+sur celle que j'ai mis dans le fichier partagé par exemple
+---
+Ok je viens de comprendre, vous n'avez pas besoin d'exécuter la méthode fetchFromAPI, elle est utilisé par la méthode parseFile, c'est elle que vous devez utiliser.
+Je vous ai créé un bouton sur la spreadsheet, vous n'avez plus qu'à cliquer dessus pour exécuter la bonne fonction de manière transparente.
+Cordialement
+---
+Ok ça marche. Vous avez une idée comment passer du résultat dans la cellule à un json structuré ? 
+---
+J'ai modifié légèrement le code pour que le json soit interprétable par des logiciels.
+Soit vous avez des sites comme https://codebeautify.org/jsonviewer, vous copier le json dans la cellule de gauche, vous cliquez sur "Beautify" et dans la cellule de droite vous aurez un résultat mis en forme.
+Soit vous pouvez utiliser des logiciels de bureau comme Visual Studio Code, Sublime Text etc... qui sont des éditeurs de texte améliorés et qui eux prennent en charge la mise en forme avancé du json.
+Cordialement
+---
+C'est top !! Dernière demande : est-il possible de supprimer le [ au début et le ] à la fin ? ça me permettra d'importer directement dans mon appli.
+---
+Bonjour,
+Oui bien sûr, c'est fait, je vous laisse vérifier.
+Cordialement
+---
+Bonjour, 
+Je me permets de revenir vers vous pour savoir si vous avez pu vérifier que c'était ok notamment au niveau des [] ?
+Si tout est bon pour vous, je vous invite à marquer la prestation comme terminé sur le site et si vous le souhaitez nous déposer une évaluation sur notre profil.
+Dans tous les cas, si vous avez une question, un problème ou un nouveau besoin n'hésitez pas à me contacter, je vous laisse mes coordonnées :
+raphael.saget@headcrab.fr
++33 6 10 46 70 11
+Cordialement
+---
+Bonjour, 
+désolé pour cette réponse tardive. ça marche parfaitement ! Merci pour votre travail rapide et répondant parfaitement à ma demande ! Cordialement, Benjamin PERON
+---------- ---------- ----------
+
+========== Messages > Developpement d'une application mobile d'agrégation de presse ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement d'application mobile.
+Ingénieur en développement logiciel, j'ai eu l'occasion de développer des applications mobiles pour les professionnels allant de la mise en relation de pro autours d'évènements géolocalisés jusqu'à l'accompagnement de visiteur dans des salons / foires, ainsi que des jeux mobiles que nous développons en interne.
+Si j'ai bien compris votre projet, vous souhaitez un système tel que http://www.phoenixjp.net/ par exemple, mais plus orienté mobile, plus "user friendly" et avec un système permettant à l'utilisateur de gérer lui même son aggrégation de flux ?
+La proposition réalisé ici est succincte, si vous le souhaitez vous pouvez me faire parvenir votre cahier des charge ou à défaut nous pouvons convenir d'un créneau téléphonique afin d'échanger directement et de définir ensemble le périmètre du projet.
+A la suite de quoi, je pourrais vous faire parvenir une proposition détaillé ainsi qu'une estimation au plus juste du temps nécessaire à la réalisation de votre projet.
+Cordialement
+---
+Le projet est maintenant fermé06/09/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Intégration sdk imprimante pos plugin cordova ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement.
+Mon associé et moi même somme spécialisé dans le développement d'applications mobiles cross-plateforme avec Xamarin et Cordova entre autre. Nous avons réalisé différents projets pour des professionnels allant de la mise en relations de pro via des évènements géolocalisé jusqu'a l'application de contrôle et d'aiguillage de lots en blanchisserie (automatisation avec capteurs de couleurs, lecture de code barres etc...).
+La proposition réalisé ici est succincte, si vous le souhaitez vous pouvez me faire parvenir votre cahier des charge ou à défaut nous pouvons convenir d'un créneau téléphonique afin d'échanger directement et de définir ensemble le périmètre du projet.
+A la suite de quoi, je pourrais vous faire parvenir une proposition détaillé ainsi qu'une estimation au plus juste du temps nécessaire à la réalisation de votre projet.
+Cordialement
+---
+Le projet est maintenant fermé06/09/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Application sportive ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement d'application mobile.
+Ingénieur en développement logiciel, j'ai eu l'occasion de développer des applications mobiles pour les professionnels allant de la mise en relation de pro autours d'évènements géolocalisés jusqu'à l'accompagnement de visiteur dans des salons / foires, ainsi que des jeux mobiles que nous développons en interne.
+La proposition réalisé ici est succincte, si vous le souhaitez vous pouvez me faire parvenir votre cahier des charge ou à défaut nous pouvons convenir d'un créneau téléphonique afin d'échanger directement et de définir ensemble le périmètre du projet.
+A la suite de quoi, je pourrais vous faire parvenir une proposition détaillé ainsi qu'une estimation au plus juste du temps nécessaire à la réalisation de votre projet.
+Cordialement
+---
+Le projet est maintenant fermé06/09/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Refonte crm ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement d'application mobile.
+Ingénieur en développement logiciel, j'ai eu l'occasion de développer des applications/outils web sur mesures pour des sociétés comme Ubisoft, France Média Monde etc... 
+De plus j'ai travaillé avec de nombreuses sociétés afin d'intégrer leurs logiciels (CRM, ERP, ITSM etc...) et les customiser en développant leurs fonctionnalités sur mesure en fonction de leurs process.
+La proposition réalisé ici est succincte, si vous le souhaitez vous pouvez me faire parvenir votre cahier des charge ou à défaut nous pouvons convenir d'un créneau téléphonique afin d'échanger directement et de définir ensemble le périmètre du projet.
+A la suite de quoi, je pourrais vous faire parvenir une proposition détaillé ainsi qu'une estimation au plus juste du temps nécessaire à la réalisation de votre projet.
+Cordialement
+---
+Le projet est maintenant fermé06/09/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Création appli marchands achat produit fermier avec livraison ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement d'application mobile.
+Ingénieur en développement logiciel, j'ai eu l'occasion de développer des applications mobiles pour les professionnels allant de la mise en relation de pro autours d'évènements géolocalisés jusqu'à l'accompagnement de visiteur dans des salons / foires, ainsi que des jeux mobiles que nous développons en interne.
+La proposition réalisé ici est succincte, si vous le souhaitez vous pouvez me faire parvenir votre cahier des charge ou à défaut nous pouvons convenir d'un créneau téléphonique afin d'échanger directement et de définir ensemble le périmètre du projet.
+A la suite de quoi, je pourrais vous faire parvenir une proposition détaillé ainsi qu'une estimation au plus juste du temps nécessaire à la réalisation de votre projet.
+Cordialement
+---
+Le projet est maintenant fermé06/09/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Maintenance serveur et développement d'applications erp sur dolibarr ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement.
+Ingénieur en développement logiciel, j'ai travaillé sur des solutions web sur mesure en tant que consultant pour des SSII/ESN afin d'intégrer/customiser diverses solutions (ERP, CMS, Forecasting etc...) à des process sur des logiciels ITSM entre autre. 
+Puis j'ai opéré à temps plein pour des sociétés tels qu'Ubisoft afin de développer des solutions backoffice entre autre pour pouvoir administrer des jeux, écosystèmes de services ainsi que des millions de joueurs. 
+C'est pourquoi je me permets de vous proposer mes compétences et mon expérience afin de mener à bien votre projet.
+La proposition réalisé ici est succincte, si vous le souhaitez vous pouvez me faire parvenir un cahier des charges ou à défaut nous pouvons convenir d'un créneau pour un appel afin de définir ensemble le périmètre du projet.
+A la suite de quoi je pourrais vous transmettre une proposition détaillé ainsi qu'une estimation juste du temps nécessaire à la réalisation de votre projet.
+Cordialement
+
+---
+Le projet est maintenant fermé05/09/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Création d'une préparation de picking / bon de préparation ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement.
+Ingénieur en développement logiciel, j'ai travaillé sur des solutions web sur mesure en tant que consultant pour des SSII/ESN afin d'intégrer/customiser diverses solutions (ERP, CMS, Forecasting etc...) à des process sur des logiciels ITSM entre autre. 
+Puis j'ai opéré à temps plein pour des sociétés tels qu'Ubisoft afin de pouvoir administrer des jeux et écosystèmes de services ainsi que des millions de joueurs. 
+C'est pourquoi je vous propose mes compétences et mon expérience afin de mener à bien votre projet.
+La proposition réalisé ici est succincte, si vous le souhaitez vous pouvez me faire parvenir un cahier des charges ou à défaut nous pouvons convenir d'un créneau pour un appel afin de définir ensemble le périmètre du projet.
+A la suite de quoi je pourrais vous transmettre une proposition détaillé ainsi qu'une estimation juste du temps nécessaire à la réalisation de votre projet.
+Cordialement
+---
+Le projet est maintenant fermé05/09/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Creation d'une appli un peu comme toogoodtoogo ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement.
+Ingénieur en développement logiciel, j'ai travaillé sur des solutions web sur mesure en tant que consultant pour des SSII/ESN puis à temps plein pour des sociétés tels qu'Ubisoft afin de pouvoir administrer des jeux et écosystèmes de services ainsi que des millions de joueurs. 
+C'est pourquoi je vous propose mes compétences et mon expérience afin de mener à bien votre projet.
+La proposition réalisé ici est succincte, si vous le souhaitez vous pouvez me faire parvenir un cahier des charges ou à défaut nous pouvons convenir d'un créneau pour un appel afin de définir ensemble le périmètre du projet.
+A la suite de quoi je pourrais vous transmettre une proposition détaillé ainsi qu'une estimation juste du temps nécessaire à la réalisation de votre projet.
+Cordialement
+---
+Le projet est maintenant fermé05/09/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Création d'une application mobile ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement.
+Ingénieur en développement logiciel, je me suis spécialisé dans le développement de solution axé divertissement (jeux vidéo, serious games, escape game, casino etc...) aprés avoir travaillé pendant plusieurs années pour des sociétés comme Ubisoft sur des productions AAA.
+Votre projet semble également axé autour de cela et je pense pouvoir vous accompagner de bout en bout sur ce projet grâce à mes compétences.
+La proposition réalisé ici est succincte, si vous le souhaitez vous pouvez me faire parvenir un cahier des charges ou à défaut nous pouvons convenir d'un créneau pour un appel afin de définir ensemble le périmètre du projet.
+A la suite de quoi je pourrais vous transmettre une proposition détaillé ainsi qu'une estimation juste du temps nécessaire à la réalisation de votre projet.
+Cordialement
+---
+Le projet est maintenant fermé03/09/20 05:00 CEST
+---------- ---------- ----------
+
+========== Messages > Développer une app ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, crossplatform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+
+---
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+La proposition budgétaire faite ici n'est qu'une estimation, je vous propose que l'on définisse un créneau afin de discuter ensemble de votre projet directement et que vous puissiez me transmettre vos éléments techniques (cahier des charges, accords de confidentialité, etc...). 
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé08/01/21 06:00 CET
+---------- ---------- ----------
+
+========== Messages > Création d'une application mobile pour un site e-commerce ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, crossplatform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio.
+---
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+La proposition budgétaire faite ici n'est qu'une estimation, je vous propose que l'on définisse un créneau afin de discuter ensemble de votre projet directement et que vous puissiez me transmettre vos éléments techniques (cahier des charges, accords de confidentialité, etc...). 
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé01/01/21 06:00 CET
+---------- ---------- ----------
+
+========== Messages > Création application mobile ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, crossplatform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+---
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+La proposition budgétaire faite ici n'est qu'une estimation, je vous propose que l'on définisse un créneau afin de discuter ensemble de votre projet directement et que vous puissiez me transmettre vos éléments techniques (cahier des charges, accords de confidentialité, etc...). 
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé01/01/21 06:00 CET
+---
+Le projet est maintenant fermé27/02/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Creer une aplication pour accessoire de smartphone ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, crossplatform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+---
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+La proposition budgétaire faite ici n'est qu'une estimation, je vous propose que l'on définisse un créneau afin de discuter ensemble de votre projet directement et que vous puissiez me transmettre vos éléments techniques (cahier des charges, accords de confidentialité, etc...). 
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé01/01/21 06:00 CET
+---
+Le projet est maintenant fermé31/01/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Création jeu en ligne html5 ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement de jeu vidéo.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels et en particulier sur les technologies liées aux jeux vidéo / rendu 3D tel qu'Unity ou Unreal Engine grâce à notre expérience dans l'industrie.
+Nous développons des applications en tout genre et de tout type, allant du Serious Game en VR sur des plateformes telles que l'Occulus Quest, aux jeux AAA, en passant par les jeux mobile, les services backend ou encore les portails d'administration web. 
+Notre expertise est réelle et est basé sur des expériences pour des sociétés comme Ubisoft, Square Enix, The Tiny Digital Factory ou encore Sogeti.
+---
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application moderne, fiable et pérenne.
+La proposition budgétaire faite ici n'est qu'une estimation, je vous propose que l'on définisse un créneau afin de discuter ensemble de votre projet directement et que vous puissiez me transmettre vos éléments techniques (cahier des charges, accords de confidentialité, etc...).
+À la suite de quoi je pourrais vous transmettre un devis détaillé ainsi qu'une estimation du temps nécessaire à la réalisation.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Bonjour, je recherche un indépendnat, merci 
+---
+Le projet est maintenant fermé01/01/21 06:00 CET
+---------- ---------- ----------
+
+========== Messages > Création application mobile pour mesurer le rebond d'une balle ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, cross-platform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+---
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+La proposition budgétaire faite ici n'est qu'une estimation, et peut changer du tout au tout en fonction du travail réalisé par notre prédécesseur. Nous pouvons vous proposer de nous faire parvenir un NDA, ainsi que le projet réalisé par notre confrère afin que nous puissions vous proposer une estimation juste du temps nécessaire, ainsi qu'un chiffrage correcte.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+ceefbd175 a attribué le projet à un autre prestataire22/12/20 12:05 CET
+---
+Le projet est maintenant fermé16/02/21 14:04 CET
+---------- ---------- ----------
+
+========== Messages > Creation d'un application photo ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+---
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, cross-platform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+La proposition budgétaire faite ici n'est qu'une estimation, je vous propose que l'on définisse un créneau afin de discuter ensemble de votre projet directement et que vous puissiez me transmettre vos éléments techniques (cahier des charges, accords de confidentialité, etc...). 
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé20/12/20 17:40 CET
+---
+va1366e4b a attribué le projet à un autre prestataire22/12/20 15:20 CET
+---------- ---------- ----------
+
+========== Messages > Linkedin ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement. 
+Notre société est spécialisée dans le développement de solutions sur mesure pour les professionnels et je peux m'occuper personnellement de cette prestation.
+Ingénieur en développement logiciel, j'ai développé des solution backend sur mesure basées sur des services communiquants via des API SOAP / REST / XMLRPC pour des sociétés telles qu'Ubisoft.
+J'ai développé diverses solutions de scrapping, traitement en masse de fichier dans des processus divers (lecture de pdf et exportation dans outils de support, scrapping websocket pour export .csv etc...). Je maitrise différents langages allant du javascript, python, bash jusqu'au Go, C# et C++ afin de pouvoir réaliser ce développement dans un langage particulier si vous avez ce besoin.
+---
+
+Je me permet de reformuler le fonctionnement de l'outil afin d'être sûr d'avoir bien compris. N'hésitez surtout pas à me corriger : vous souhaitez avoir un outil qui va chercher dans une fichier xml précis les noms des sociétés voulues ainsi que les postes qui vous intéressent, parcourir le LinkedIn de ces sociétés et exporter dans un fichier .csv les données récupérées.
+D'après votre description quelques questions me viennent en tête :
+- Pouvez-vous m'envoyer un exemple de fichier à lire ? Si besoin faites moi parvenir un NDA également. 
+- Savez vous où vous souhaitez héberger ce script et comment vous comptez l'automatiser ? 
+- Avez-vous un langage de préférence ? 
+- Souhaitez-vous des livrables de documentation technique, administrateur, etc... ? 
+- Voulez-vous que le produit développé soit livré sur un outil de versioning particulier ? 
+- Souhaitez-vous une maintenance sur le développement ?
+La proposition réalisée ici est succincte, si vous le souhaitez vous pouvez me faire parvenir un cahier des charges ou à défaut nous pouvons convenir ensemble d'un créneau afin de discuter ensemble du périmètre de votre projet. 
+A la suite de quoi je pourrai vous faire parvenir une proposition détaillée ainsi qu'une estimation du temps nécessaire à la livraison du développement.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-saget
+Cordialement
+---
+Le projet est maintenant fermé01/01/21 06:00 CET
+---
+Le projet est maintenant fermé18/03/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Location de bateaux entre particuliers ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+---
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, cross-platform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+La proposition budgétaire faite ici n'est qu'une estimation, je vous propose que l'on définisse un créneau afin de discuter ensemble de votre projet directement et que vous puissiez me transmettre vos éléments techniques (cahier des charges, accords de confidentialité, etc...). 
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé14/12/20 06:00 CET
+---------- ---------- ----------
+
+========== Messages > Création application android ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, cross-platform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+---
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+La proposition budgétaire faite ici n'est qu'une estimation, je vous propose que l'on définisse un créneau afin de discuter ensemble de votre projet directement et que vous puissiez me transmettre vos éléments techniques (cahier des charges, accords de confidentialité, etc...). 
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé21/12/20 06:00 CET
+---------- ---------- ----------
+
+========== Messages > Développement des applications de géolocalisation python ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Ingénieur DevOps, je maitrise python pour avoir développé de nombreuses solutions avec, pour des sociétés telles qu'Ubisoft ou Square Enix, et je connais parfaitement les réseaux et leurs protocoles étant certifié Cisco et ayant entre autre développé une pile réseau basé sur PCAP. Au sein d'Ubisoft, en tant qu'Ingénieur Online, j'ai eu l'occasion de travailler sur des technologies telles que AWS, ElasticSearch ou encore MongoDB avec lesquelles j'ai développé des outils utilisés aujourd'hui par des millions de joueurs, ayant une très forte disponibilité.
+Mes compétences en DevOps m'ont conduit à développer de outils de monitoring ou d'intégration continue, ainsi que de réaliser des audits ou de l'administration système pour de nombreux clients.
+---
+L'offre budgétaire faite ici est succincte, je vous propose que l'on définisse un créneau afin d'échanger ensemble sur votre projet et que vous puissiez me transmettre vos éventuels éléments techniques.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-saget
+Cordialement.
+---
+Le projet est maintenant fermé31/12/20 06:00 CET
+---
+Le projet est maintenant fermé10/03/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Développement mobile pour évènements sportifs ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+---
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, cross-platform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+La proposition budgétaire faite ici n'est qu'une estimation, je vous propose que l'on définisse un créneau afin de discuter ensemble de votre projet directement et que vous puissiez me transmettre vos éléments techniques (cahier des charges, accords de confidentialité, etc...). 
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Headcrab a modifié son offre (ancienne offre 450,00 € TTC par jour, 10 jours)30/11/20 18:08 CET
+---
+Le projet est maintenant fermé31/12/20 06:00 CET
+---------- ---------- ----------
+
+========== Messages > Jeu mobile unity ==========
+---
+Bonjour,
+Nous sommes une société spécialisé dans le développement de jeux, que ce soit sur mobiles, consoles ou desktop. Nous avons travaillés avec des sociétés comme Ubisoft, Square Enix, ou encore Behavior Interactive, nous maitrisons les différents aspects du développement de jeux vidéo afin de pouvoir vous accompagner et vous guider également, du design jusqu'à la distribution.
+Je vous propose que l'on définisse un créneau afin de discuter ensemble de votre projet directement et que vous puissiez me transmettre vos éléments techniques (cahier des charges, accords de confidentialité, etc...).
+A la suite de quoi je pourrais vous transmettre un devis détaillé ainsi qu'une estimation du temps nécessaire à la réalisation.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Headcrab a modifié son offre (ancienne offre 450,00 € TTC par jour, 10 jours)30/11/20 18:09 CET
+---
+Le projet est maintenant fermé31/12/20 06:00 CET
+---------- ---------- ----------
+
+========== Messages > Bonjour, ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, cross-platform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+La proposition budgétaire faite ici n'est qu'une estimation, je vous propose que l'on définisse un créneau afin de discuter ensemble de votre projet directement et que vous puissiez me transmettre vos éléments techniques (cahier des charges, accords de confidentialité, etc...). 
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Headcrab a modifié son offre (ancienne offre 450,00 € TTC par jour, 30 jours)30/11/20 18:09 CET
+---
+Le projet est maintenant fermé20/12/20 06:00 CET
+---------- ---------- ----------
+
+========== Messages > Connecteurs api entre odoo et zoho creator ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet Odoo.
+Ingénieur de formation, je maitrise à la fois l'infrastructure et le DevOps après avoir travaillé plusieurs années pour des sociétés de services, Ubisoft, et aujourd'hui mes propres clients. 
+Je connais parfaitement Odoo pour l'avoir déployé de nombreuse fois, et ce très récemment même, ainsi que pour avoir développé des modules sur mesures pour certains de mes clients. 
+Je maitrise Odoo sous tous ses aspects et ses composants, et également les API, en particulier l'API XMLRPC de Odoo.
+Je peux donc parfaitement vous accompagner sur ce projet de développement.
+L'offre budgétaire faite ici est succincte, je vous propose que l'on définisse un créneau afin d'échanger ensemble sur votre projet et que vous puissiez me transmettre vos éventuels éléments techniques.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-saget
+Cordialement.
+---
+Headcrab a modifié son offre (ancienne offre 450,00 € TTC par jour, 10 jours)30/11/20 18:10 CET
+---
+Le projet est maintenant fermé20/12/20 06:00 CET
+---------- ---------- ----------
+
+========== Messages > Creation d'une application pour freelance etudiant ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement car nous avons une réel expertise pertinente pour votre projet.
+Vous souhaitez faire développer votre jeu mobile et de notre côté nous sommes une société spécialisé dans le développement de jeux, que ce soit sur mobiles, consoles ou desktop. Nous avons travaillés avec des sociétés comme Ubisoft, Square Enix, Tiny Digital Factory ou encore Behavior Interactive, nous maitrisons les différents aspects du développement de jeux vidéo afin de pouvoir vous accompagner et vous guider également, du design jusqu'à la distribution, en l'occurence dans votre cas sur les stores mobiles.
+La proposition budgétaire faite ici n'est qu'une estimation, je vous propose que l'on définisse un créneau afin de discuter ensemble de votre projet directement et que vous puissiez me transmettre vos éléments techniques (cahier des charges, accords de confidentialité, etc...).
+A la suite de quoi je pourrais vous transmettre un devis détaillé ainsi qu'une estimation du temps nécessaire à la réalisation.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé20/12/20 06:00 CET
+---------- ---------- ----------
+
+========== Messages > Application de jeux type puissance 4 sur mobile , tablette, pc ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement car nous avons une réel expertise pertinente pour votre projet.
+Vous souhaitez faire développer votre jeu mobile et de notre côté nous sommes une société spécialisé dans le développement de jeux, que ce soit sur mobiles, consoles ou desktop. Nous avons travaillés avec des sociétés comme Ubisoft, Square Enix, Tiny Digital Factory ou encore Behavior Interactive, nous maitrisons les différents aspects du développement de jeux vidéo afin de pouvoir vous accompagner et vous guider également, du design jusqu'à la distribution, en l'occurence dans votre cas sur les stores mobiles.
+La proposition budgétaire faite ici n'est qu'une estimation, je vous propose que l'on définisse un créneau afin de discuter ensemble de votre projet directement et que vous puissiez me transmettre vos éléments techniques (cahier des charges, accords de confidentialité, etc...).
+A la suite de quoi je pourrais vous transmettre un devis détaillé ainsi qu'une estimation du temps nécessaire à la réalisation.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé20/12/20 06:00 CET
+---------- ---------- ----------
+
+========== Messages > Création application | clone de panneaupocket et illiwap ==========
+---
+Bonjour,
+Je serais ravis de vous accompagner sur ce projet de développement.
+Nous sommes une société composé de deux associés, tout deux ingénieurs en développement logiciel, nous sommes spécialisé dans le développement d'applications pour les professionnels.
+Nous développons des applications mobiles en tout genre et de tout type, natives, cross-platform ou même PWA (qui n'est pas souhaité dans votre cas), nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéos sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft ou France Média Monde. 
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une solution applicative pérenne autant sur la partie front que sur le backend .
+La proposition budgétaire faite ici n'est qu'une estimation, je vous propose que l'on définisse un créneau afin de discuter ensemble de votre projet directement et que vous puissiez me transmettre vos éléments techniques (cahier des charges, accords de confidentialité etc...). 
+Je vous laisse me proposer un créneau sur lequel je me rendrais disponible, à la suite de quoi je pourrais vous transmettre une proposition détaillé et un estimé du temps nécessaire à la réalisation du projet.
+Vous pouvez bien évidemment me contacter directement si vous préférez, n'hésitez pas :
+raphael.saget@headcrab.fr
++33 6 10 46 70 11
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement
+---
+Nous recherchons un freelance ou agence Web.
+Nous somme cii Télécom, nous sommes spécialisés dans les alertes population et fort d'un réseau composé de plusieurs mairies et préfecture.
+Nous souhaitons aujourd'hui étendre nos services grâce à une application mobile qui enverra des notification push à la population.
+L'application demandée est un clone de PanneauPocket ou Illiwap mais pour cii Télécom.
+---
+Bonjour,
+Avez-vous un cahier des charges précis à nous envoyez, afin que nous puissions vous proposer un devis correspondant au mieux à vos besoins ?
+N'hésitez pas à nous envoyer avant cela un NDA si vous le souhaitez.
+Cordialement.
+---
+Le projet est maintenant fermé22/11/20 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Création d’une application mobile ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, cross-platform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+La proposition budgétaire faite ici n'est qu'une estimation, je vous propose que l'on définisse un créneau afin de discuter ensemble de votre projet directement et que vous puissiez me transmettre vos éléments techniques (cahier des charges, accords de confidentialité, etc...). 
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé19/12/20 06:00 CET
+---------- ---------- ----------
+
+========== Messages > Mettre en relation v/a de matériel de pêche d'occasion ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, cross-platform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+La proposition budgétaire faite ici n'est qu'une estimation, je vous propose que l'on définisse un créneau afin de discuter ensemble de votre projet directement et que vous puissiez me transmettre vos éléments techniques (cahier des charges, accords de confidentialité, etc...). 
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé19/12/20 06:00 CET
+---
+Le projet est maintenant fermé05/03/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Création d'une application mobile de livraison ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, crossplatform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+---
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+L’offre budgétaire présentée ici n’est que le TJM proposé par ma société. 
+Evidemment, il me faut plus d’informations pour pouvoir établir un devis ainsi que qu’une estimation du temps de développement, en fonction de votre besoin.
+Dans cette optique, je vous propose de me transférer un NDA, ainsi que le cahier des charges de votre application (et tous autres éléments nécessaires), et nous pouvons également définir un créneau afin d’échanger sur l’ensemble de votre projet.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv Google Meet depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé17/02/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Application simple ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, crossplatform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+---
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+L’offre budgétaire présentée ici n’est que le TJM proposé par ma société. 
+Evidemment, il me faut plus d’informations pour pouvoir établir un devis ainsi que qu’une estimation du temps de développement, en fonction de votre besoin.
+Dans cette optique, je vous propose de me transférer un NDA, ainsi que le cahier des charges de votre application (et tous autres éléments nécessaires), et nous pouvons également définir un créneau afin d’échanger sur l’ensemble de votre projet.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv Google Meet depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé16/02/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Création d'une application de programme fitness et alimentaire. ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, crossplatform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+---
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+L’offre budgétaire présentée ici n’est que le TJM proposé par ma société. 
+Evidemment, il me faut plus d’informations pour pouvoir établir un devis ainsi que qu’une estimation du temps de développement, en fonction de votre besoin.
+Dans cette optique, je vous propose de me transférer un NDA, ainsi que le cahier des charges de votre application (et tous autres éléments nécessaires), et nous pouvons également définir un créneau afin d’échanger sur l’ensemble de votre projet.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv Google Meet depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé15/02/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Création d'un jeu par application mobile. ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement car nous avons une réelle expertise pertinente pour votre projet.
+Vous souhaitez faire développer votre jeu mobile et de notre côté nous sommes une société spécialisé dans le développement de jeux, que ce soit sur mobiles, consoles ou desktop. Nous avons travaillés avec des sociétés comme Ubisoft, Square Enix, Tiny Digital Factory ou encore Behavior Interactive, nous maitrisons les différents aspects du développement de jeux vidéo afin de pouvoir vous accompagner et vous guider également, du design jusqu'à la distribution, en l'occurence dans votre cas sur les stores mobiles.
+---
+Concernant votre jeu, quelques questions rapides me viennent en tête :
+- Possédez-vous les assets graphiques ou devons-nous les fournir ?
+- Avez-vous déjà pensé aux sons et musiques à intégrer ? Les possédez-vous ?
+- Le jeu devra-t-il être localisé (traduit) ? Possédez-vous déjà ces traductions ?
+- Sur quelle(s) plateforme(s) est prévu le jeu ?
+- Vous occupez-vous de la publication ? Est-elle faite en votre nom ?
+L’offre budgétaire présentée ici n’est que le TJM proposé par ma société. 
+Evidemment, il me faut plus d’informations pour pouvoir établir un devis ainsi que qu’une estimation du temps de développement, en fonction de votre besoin.
+Dans cette optique, je vous propose de me transférer un NDA, ainsi que le cahier des charges de votre application (et tous autres éléments nécessaires), et nous pouvons également définir un créneau afin d’échanger sur l’ensemble de votre projet.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv Google Meet depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé15/02/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Quizz ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement car nous avons une réelle expertise pertinente pour votre projet.
+Vous souhaitez faire développer votre jeu mobile et de notre côté nous sommes une société spécialisé dans le développement de jeux, que ce soit sur mobiles, consoles ou desktop. Nous avons travaillés avec des sociétés comme Ubisoft, Square Enix, Tiny Digital Factory ou encore Behavior Interactive, nous maitrisons les différents aspects du développement de jeux vidéo afin de pouvoir vous accompagner et vous guider également, du design jusqu'à la distribution, en l'occurence dans votre cas sur les stores mobiles.
+---
+Concernant votre jeu, quelques questions rapides me viennent en tête :
+- Possédez-vous les assets graphiques ou devons-nous les fournir ?
+- Avez-vous déjà pensé aux sons et musiques à intégrer ? Les possédez-vous ?
+- Le jeu devra-t-il être localisé (traduit) ? Possédez-vous déjà ces traductions ?
+- Sur quelle(s) plateforme(s) est prévu le jeu ?
+- Vous occupez-vous de la publication ? Est-elle faite en votre nom ?
+L’offre budgétaire présentée ici n’est que le TJM proposé par ma société. 
+Evidemment, il me faut plus d’informations pour pouvoir établir un devis ainsi que qu’une estimation du temps de développement, en fonction de votre besoin.
+Dans cette optique, je vous propose de me transférer un NDA, ainsi que le cahier des charges de votre application (et tous autres éléments nécessaires), et nous pouvons également définir un créneau afin d’échanger sur l’ensemble de votre projet.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv Google Meet depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé14/02/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Application de paris sportifs gratuite avec argent virtuel ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement car nous avons une réelle expertise pertinente pour votre projet.
+/ ! \ En tant que professionnel je me dois de vous conseiller de vérifier auprès d'un juriste, ou tout autre personne compétente de la possibilité de déployer cette application (en fonction des règles propre au Google Play Store et Apple App Store (si vous souhaitez les utiliser)). Si nous travaillons avec vous, que nous réalisons l'application mais qu'elle n'est pas autorisée sur les stores, nous ne pourrons être tenus pour responsables et aucun remboursement ne sera effectué. / ! \
+---
+Vous souhaitez faire développer votre jeu mobile et de notre côté nous sommes une société spécialisé dans le développement de jeux, que ce soit sur mobiles, consoles ou desktop. Nous avons travaillés avec des sociétés comme Ubisoft, Square Enix, Tiny Digital Factory ou encore Behavior Interactive, nous maitrisons les différents aspects du développement de jeux vidéo afin de pouvoir vous accompagner et vous guider également, du design jusqu'à la distribution, en l'occurence dans votre cas sur les stores mobiles.
+Concernant votre jeu, quelques questions rapides me viennent en tête :
+- Possédez-vous les assets graphiques ou devons-nous les fournir ?
+- Avez-vous déjà pensé aux sons et musiques à intégrer ? Les possédez-vous ?
+- Le jeu devra-t-il être localisé (traduit) ? Possédez-vous déjà ces traductions ?
+- Sur quelle(s) plateforme(s) est prévu le jeu ?
+- Vous occupez-vous de la publication ? Est-elle faite en votre nom ?
+L’offre budgétaire présentée ici n’est que le TJM proposé par ma société. 
+Evidemment, il me faut plus d’informations pour pouvoir établir un devis ainsi que qu’une estimation du temps de développement, en fonction de votre besoin.
+Dans cette optique, je vous propose de me transférer un NDA, ainsi que le cahier des charges de votre application (et tous autres éléments nécessaires), et nous pouvons également définir un créneau afin d’échanger sur l’ensemble de votre projet.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv Google Meet depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé14/02/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Application mobile xamarin ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, crossplatform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+---
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+L’offre budgétaire présentée ici n’est que le TJM proposé par ma société. 
+Evidemment, il me faut plus d’informations pour pouvoir établir un devis ainsi que qu’une estimation du temps de développement, en fonction de votre besoin.
+Dans cette optique, je vous propose de me transférer un NDA, ainsi que le cahier des charges de votre application (et tous autres éléments nécessaires), et nous pouvons également définir un créneau afin d’échanger sur l’ensemble de votre projet.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv Google Meet depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé14/02/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > J'ai crée un jeu de lettres avec potentiel pour application jeu mobile ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement car nous avons une réelle expertise pertinente pour votre projet.
+Vous souhaitez faire développer votre jeu mobile et de notre côté nous sommes une société spécialisé dans le développement de jeux, que ce soit sur mobiles, consoles ou desktop. Nous avons travaillés avec des sociétés comme Ubisoft, Square Enix, Tiny Digital Factory ou encore Behavior Interactive, nous maitrisons les différents aspects du développement de jeux vidéo afin de pouvoir vous accompagner et vous guider également, du design jusqu'à la distribution, en l'occurence dans votre cas sur les stores mobiles.
+---
+Concernant votre jeu, quelques questions rapides me viennent en tête :
+- Possédez-vous les assets graphiques ou devons-nous les fournir ?
+- Avez-vous déjà pensé aux sons et musiques à intégrer ? Les possédez-vous ?
+- Le jeu devra-t-il être localisé (traduit) ? Possédez-vous déjà ces traductions ?
+- Sur quelle(s) plateforme(s) est prévu le jeu ?
+- Vous occupez-vous de la publication ? Est-elle faite en votre nom ?
+L’offre budgétaire présentée ici n’est que le TJM proposé par ma société. 
+Evidemment, il me faut plus d’informations pour pouvoir établir un devis ainsi que qu’une estimation du temps de développement, en fonction de votre besoin.
+Dans cette optique, je vous propose de me transférer un NDA, ainsi que le cahier des charges de votre application (et tous autres éléments nécessaires), et nous pouvons également définir un créneau afin d’échanger sur l’ensemble de votre projet.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv Google Meet depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé13/02/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Bonjour, je cherche un développeur c# sous unity pour un jeu tcg multi ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement de jeu vidéo.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels et en particulier sur les technologies liées aux jeux vidéo / rendu 3D tel qu'Unity ou Unreal Engine grâce à notre expérience dans l'industrie.
+Nous développons des applications en tout genre et de tout type, allant du Serious Game en VR sur des plateformes telles que l'Occulus Quest, aux jeux AAA, en passant par les jeux mobile, les services backend ou encore les portails d'administration web. 
+Notre expertise est réelle et est basé sur des expériences pour des sociétés comme Ubisoft, Square Enix, The Tiny Digital Factory ou encore Sogeti.
+---
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application moderne, fiable et pérenne.
+L’offre budgétaire présentée ici n’est que le TJM proposé par ma société. 
+Evidemment, il me faut plus d’informations pour pouvoir établir un devis, en fonction de votre besoin.
+Dans cette optique, je vous propose de me transférer un NDA, ainsi que le cahier des charges de votre application (et tous autres éléments nécessaires), et nous pouvons également définir un créneau afin d'échanger sur l'ensemble de votre projet.
+Vous pouvez me contacter ici même, ou alors convenir d’un entretien Google Meet depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé13/02/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Création d'une application ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, crossplatform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+---
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+L’offre budgétaire présentée ici n’est que le TJM proposé par ma société. 
+Evidemment, il me faut plus d’informations pour pouvoir établir un devis, en fonction de votre besoin.
+Dans cette optique, je vous propose de me transférer un NDA, ainsi que le cahier des charges de votre application (et tous autres éléments nécessaires), et nous pouvons également définir un créneau afin d'échanger sur l'ensemble de votre projet.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv Google Meet depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé13/02/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Application de mise en relation et réservation en ligne ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, crossplatform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+---
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+L’offre budgétaire présentée ici n’est que le TJM proposé par ma société. 
+Evidemment, il me faut plus d’informations pour pouvoir établir un devis, en fonction de votre besoin.
+Dans cette optique, je vous propose de me transférer un NDA, ainsi que le cahier des charges de votre application (et tous autres éléments nécessaires), et nous pouvons également définir un créneau afin d'échanger sur l'ensemble de votre projet.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv Google Meet depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé13/02/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Application destinée à la communication entre les entreprises et école ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, crossplatform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+---
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+L’offre budgétaire présentée ici n’est que le TJM proposé par ma société. 
+Evidemment, il me faut plus d’informations pour pouvoir établir un devis, en fonction de votre besoin.
+Dans cette optique, je vous propose de me transférer un NDA, ainsi que le cahier des charges de votre application (et tous autres éléments nécessaires), et nous pouvons également définir un créneau afin d'échanger sur l'ensemble de votre projet.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv Google Meet depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé13/02/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Plateforme d'apprentissage (back end + front end) ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Ingénieur DevOps, je maitrise parfaitement le développement de logiciel, ainsi que l’architecture et l’administration réseau.
+Mes compétences m’ont données l'occasion de travailler pour de grands groupes mondialement connus, tel qu'Ubisoft ou Square Enix, où la disponibilité et la charge étaient des éléments vitaux pour le bon fonctionnement des jeux auprès de millions de joueurs, mais aussi pour des sociétés de taille plus modeste travaillant sur des simulateurs de formations, requérants beaucoup de connexions simultanées.
+Je connais de nombreux langages de programmation, allant du complexe C++ jusqu'au flexible python, en passant par les langages mobiles tels que Swift ou encore des langages crossplateform comme Flutter.
+---
+Ces connaissances en développement alliées à mes compétences sur des technologies de DevOps, notamment AWS, MongoDB ou encore ElasticSearch, me permettent de comprendre au mieux le besoin de mes clients afin de leur fournir un travail de qualité, quelle que soit la demande.
+A ce titre, je vous propose un développement se basant sur Moodle, un CMS spécialisé dans les plateforme de cours, utilisé nottement par plusieurs universités françaises telles que celles de Lyon. Cette plateforme libre et éprouvée permet de réduire les coûts en utilisants des modules déjà développés, et est personnalisable en développant des modules spécifiques à vos besoins.
+Différentes offres sont disponibles, une offre entièrement gratuite si vous auto-hébergez votre site, ou alors une offre allant de 100€ jusqu’à 1300€ (de 50 à 1000 utilisateurs) hébergée directement sur MoodleCloud.
+L’offre budgétaire présentée ici n’est que le TJM proposé par ma société. 
+Evidemment, il me faut plus d’informations pour pouvoir établir un devis, en fonction de votre besoin.
+Dans cette optique, je vous propose que l'on définisse un créneau afin d'échanger ensemble sur votre projet et que vous puissiez me transmettre vos éventuels éléments techniques. (N’hésitez pas à me faire parvenir un NDA si nécessaire)
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv Google Meet depuis ce lien : 
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-saget
+Cordialement.
+---
+Headcrab a modifié son offre (ancienne offre 450,00 € HT par jour, 45 jours)12/01/21 23:37 CET
+---
+Le projet est maintenant fermé22/01/21 10:56 CET
+---------- ---------- ----------
+
+========== Messages > Développer des jeux pour ios et androïd ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement car nous avons une réelle expertise pertinente pour votre projet.
+Vous souhaitez faire développer votre jeu mobile et de notre côté nous sommes une société spécialisé dans le développement de jeux, que ce soit sur mobiles, consoles ou desktop. Nous avons travaillés avec des sociétés comme Ubisoft, Square Enix, Tiny Digital Factory ou encore Behavior Interactive, nous maitrisons les différents aspects du développement de jeux vidéo afin de pouvoir vous accompagner et vous guider également, du design jusqu'à la distribution, en l'occurence dans votre cas sur les stores mobiles.
+---
+Concernant votre jeu, quelques questions rapides me viennent en tête :
+- Possédez-vous les assets graphiques ou devons-nous les fournir ?
+- Avez-vous déjà pensé aux sons et musiques à intégrer ? Les possédez-vous ?
+- Le jeu devra-t-il être localisé (traduit) ? Vous occupez-vous des traductions ou devons-nous les fournir ?
+- Sur quelle(s) plateforme(s) est prévu le jeu ?
+- Vous occupez-vous de la publication ? Est-elle faite en votre nom ?
+La proposition budgétaire faite ici n'est que le TJM proposé par ma société. 
+N'hésitez pas à me faire parvenir un NDA afin que nous puissions échanger sur votre projet et que vous puissiez me transmettre tous les éléments nécessaires à l'évaluation de la faisabilité de votre projet, ainsi que l'établissement d'un devis détaillé et une estimation du temps nécessaire à la réalisation du projet.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv Google Meet depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé10/02/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Création d'une application ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, crossplatform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+---
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+Le budget proposé ici n’est que le TJM proposé par ma société. N’hésitez pas à me faire parvenir un NDA afin que nous puissions discuter de votre projet, et que je puisse établir un devis représentatif du développement de votre application.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv Google Meet depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé10/02/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Formation cyber securite ==========
+---
+Bonjour,
+Afin de savoir si nous pouvons convenir a vos besoins, pouvez m'expliquer plus en détail ce que vous recherchez ?
+Quel est le niveau des personnes à former ?
+Faut-il les former sur une technologie particulière ou bien des règles pratiques générales ?
+Avez-vous des attentes particulières ?
+Quel est le but de cette formations ?
+Combien de personnes participerons ?
+Merci de détailler au maximum votre besoin afin que nous puissions savoir si nous pouvons y répondre. Il n'est ni dans notre intérêt, ni dans le votre que nous vous vendions une prestation que nous ne pouvons fournir.
+Je reste à votre disposition si vous avez des questions.
+Cordialement,
+Raphaël Daumas.
+---
+Bonjour, merci beaucoup de votre interet mais grace à ce site j'ai pu trouver rapidement un prestataire. je garde néanmoins votre contact car nous avons de multiples besoins en cybersecurité par ailleurs, bien cordialement
+---
+Le projet est maintenant fermé18/01/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Création d'une application pour projet cryptomonnaie ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement.
+Nous sommes une société composée de deux associés, tous deux ingénieurs en développement logiciel, nous sommes spécialisés dans le développement d'applications pour les professionnels que ce soit desktop, mobiles, objets connectés, back-office web ou encore services backend.
+Concernant les applications mobiles, nous développons des applications en tout genre et de tout type, natives, crossplatform ou même PWA, nous maitrisons différents frameworks (React Native, Flutter, Xamarin etc...), de multiples langages (Swift, JS, C#, Go, C++, Python) mais également les outils de développement natifs comme Xcode et Android Studio. 
+Les applications mobiles que nous développons vont de la gestion de marchandise logistique jusqu'au jeux vidéo sur mobile en passant par l'organisation d'évènements professionnels par centre d'intérêt, pour des sociétés comme Ubisoft, France Média Monde ou Tiny Digital Factory.
+---
+Nous serons capable de vous accompagner sur ce projet, de vous guider sur vos choix technologiques et d'être force de proposition afin de vous fournir une application mobile moderne, fiable et pérenne.
+La proposition budgétaire faite ici n'est qu'une estimation, je vous propose que l'on définisse un créneau afin de discuter ensemble de votre projet directement et que vous puissiez me transmettre vos éléments techniques (cahier des charges, accords de confidentialité, etc...). 
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-daumas
+Dans l'attente de votre retour, je vous souhaite une agréable journée.
+Cordialement.
+---
+Le projet est maintenant fermé08/02/21 05:00 CET
+---------- ---------- ----------
+
+========== Messages > Récupération de données sur 4 sites web pour 4 bases de données ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement. 
+Notre société est spécialisée dans le développement de solutions sur mesure pour les professionnels et je peux m'occuper personnellement de cette prestation.
+Ingénieur en développement logiciel, j'ai développé des solution backend sur mesure basées sur des services communiquants via des API SOAP / REST / XMLRPC pour des sociétés telles qu'Ubisoft.
+J'ai développé diverses solutions de scrapping, traitement en masse de fichier dans des processus divers (lecture de pdf et exportation dans outils de support, scrapping websocket pour export .csv etc...). Je maitrise différents langages allant du javascript, python, bash jusqu'au Go, C# et C++ afin de pouvoir réaliser ce développement dans un langage particulier si vous avez ce besoin.
+---
+D'après votre description quelques questions me viennent en tête :
+- Pouvez-vous m'envoyer un exemple de site / données a récupérer ? Si besoin faites moi parvenir un NDA également. 
+- Savez vous où vous souhaitez héberger ce script et comment vous comptez l'automatiser ? 
+- Avez-vous un langage de préférence ? 
+- Souhaitez-vous des livrables de documentation technique, administrateur, etc... ? 
+- Voulez-vous que le produit développé soit livré sur un outil de versioning particulier ? 
+- Souhaitez-vous une maintenance sur le développement ?
+La proposition réalisée ici est succincte, si vous le souhaitez vous pouvez me faire parvenir un cahier des charges ou à défaut nous pouvons convenir ensemble d'un créneau afin de discuter ensemble du périmètre de votre projet. 
+A la suite de quoi je pourrai vous faire parvenir une proposition détaillée ainsi qu'une estimation du temps nécessaire à la livraison du développement.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien :
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-saget
+Cordialement
+---
+Bonjour, à la suite de l’intérêt porté à ma demande voici quelques informations complémentaires pour vous faire une idée plus précise du projet.
+Je souhaite avoir accès à l’historique complet de toutes les données sur les courses hippiques disponibles sur ces 4 sites :
+Site N°1 : https://info.pmu.fr/ 
+Site N°2 : https://www.pmu.fr/turf/
+Site N°3 : https://www.letrot.com/fr/
+Site N°4 : http://www.france-galop.com/
+Tout ce qui concerne les articles, commentaires, pronostics, ne m’intéressent pas.
+Je veux pouvoir analyser les datas récupérées et mises à jour quotidiennement.
+Je n’ai pas de préférence concernant l’outil sur lequel j’aurais les données à disposition, je ne suis pas codeur et je souhaite donc une interface la plus simple et claire possible.
+Pour tout complément d’information n’hésitez pas à me poser vos questions j’y répondrai le plus rapidement et clairement possible afin de faciliter la réussite de notre future collaboration.
+Une fois que vous aurai compris ma demande et que vous serai certain grâce a vos talents de me donner entière satisfaction, faites-moi parvenir votre devis et je vous donnerai ma réponse. 
+Cordialement.
+
+---------- ---------- ----------
+
+========== Messages > Transfert des données de commandes du site au logiciel de caisse ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet de développement. 
+Notre société est spécialisée dans le développement de solutions sur mesure pour les professionnels et je peux m'occuper personnellement de cette prestation.
+Ingénieur en développement logiciel, j'ai développé des solution backend sur mesure basées sur des services communiquants via des API SOAP / REST / XMLRPC pour des sociétés telles qu'Ubisoft. 
+J'ai développé diverses solutions de scrapping, traitement en masse de fichier dans des processus divers (lecture de pdf et exportation dans outils de support, scrapping websocket pour export .csv etc...). Je maitrise différents langages allant du javascript, python, bash jusqu'au Go, C# et C++ afin de pouvoir réaliser ce développement dans un langage particulier si vous avez ce besoin.
+---
+La proposition réalisée ici est succincte, si vous le souhaitez vous pouvez me faire parvenir un cahier des charges ou à défaut nous pouvons convenir ensemble d'un créneau afin de discuter ensemble du périmètre de votre projet. 
+A la suite de quoi je pourrai vous faire parvenir une proposition détaillée ainsi qu'une estimation du temps nécessaire à la livraison du développement.
+Vous pouvez me contacter ici même, ou alors convenir d’un rdv depuis ce lien : 
+https://headcrab.appointlet.com/s/prise-de-contact/raphael-saget
+Cordialement
+---
+Bonjour je vous joins le cahier des charges par ailleurs je vais aussi prendre un rdv pour échanger sur le projet, voici mon site internet https://autemps-sushi.com/ (wordpress) et je travaille avec Woo commerce, mon projet est relativement urgent cordialement David 
+Fichier joint :  EASY-COM_Easy_Commerce_V2.pdf
+---
+Merci pour votre retour, je reviens vers vous dès que possible
+---
+Bonjour,
+Je ne vous ai pas vu connecté ce matin à l'heure du rdv.
+Vous pouvez me contacter directement par téléphone au 06 10 46 70 11 pour que nous discutions de votre projet.
+Cordialement,
+Raphaël Saget
+---
+Le projet est maintenant fermé08/01/21 06:00 CET
+---------- ---------- ----------
+
+========== Messages > Centre de loisirs - install serveur ==========
+---
+Bonjour,
+Je serais ravi de vous accompagner sur ce projet d’administration système.
+Ingénieur DevOps, je maitrise parfaitement le développement de logiciel, ainsi que l’architecture et l’administration réseau.
+Mes compétences m’ont données l'occasion de travailler pour de grands groupes mondialement connus, tel qu'Ubisoft ou Square Enix, où la disponibilité et la charge étaient des éléments vitaux pour le bon fonctionnement des jeux auprès de millions de joueurs, mais aussi pour des sociétés de taille plus modeste travaillant sur des simulateurs de formations, requérants beaucoup de connexions simultanées.
+Je connais de nombreux langages de programmation, allant du complexe C++ jusqu'au flexible python, en passant par les langages mobiles tels que Swift ou encore des langages crossplateform comme Flutter.
+---
+Ces connaissances en développement alliées à mes compétences sur des technologies de DevOps, notamment AWS, MongoDB ou encore ElasticSearch, me permettent de comprendre au mieux le besoin de mes clients afin de leur fournir un travail de qualité, quelle que soit la demande.
+Mes compétences en DevOps m'ont conduit à développer de outils de monitoring ou d'intégration continue, ainsi que de réaliser des audits ou de l'administration système pour de nombreux clients, ou encore plus récemment la sauvegarde et la migration de serveurs.
+Aux vues des informations fournies, votre demande parait simple et rapide. Je devrais être en mesure de livrer le projet avant la fin de la semaine.
+Si mes services vous intéressent, n'hésitez pas à me contacter avec vos informations de facturation afin que je vous envoi un devis.
+Cordialement.
+---
+Le projet est maintenant fermé05/02/21 05:00 CET
+---------- ---------- ----------
+
