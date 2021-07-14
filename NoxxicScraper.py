@@ -2,6 +2,8 @@ import requests
 import time
 import os
 import difflib
+import re
+import json
 from bs4 import BeautifulSoup
 
 wowClassesUrl = "https://wowwiki.fandom.com/wiki/SpecializationID"
@@ -41,6 +43,42 @@ def GetClasses():
             linksDic[id] = (classNames, spec)
 
 
+def CleanPawnString(pawnString) -> str:
+    pawnString = pawnString.replace("HasteRating", "Haste")
+    pawnString = pawnString.replace("CritRating", "CriticalStrike")
+    pawnString = pawnString.replace("MasteryRating", "Mastery")
+    pawnString = pawnString.replace("DPS", "MainHandDps")
+
+    return pawnString
+
+
+def GenerateGHStringFromPawn(pawnDict) -> str:
+    # if pawnDict doesn't contains a key named "Intellect"
+    ghString = ""
+    if pawnDict.get("Intellect"):
+        ghString += "Intellect " + str(pawnDict["Intellect"]) + " > "
+    if pawnDict.get("Haste"):
+        ghString += "Haste " + str(pawnDict["Haste"]) + " > "
+    if pawnDict.get("CriticalStrike"):
+        ghString += "CriticalStrike " + str(pawnDict["CriticalStrike"]) + " > "
+    if pawnDict.get("Versatility"):
+        ghString += "Versatility " + str(pawnDict["Versatility"]) + " > "
+    if pawnDict.get("Mastery"):
+        ghString += "Mastery " + str(pawnDict["Mastery"]) + " > "
+    if pawnDict.get("Agility"):
+        ghString += "Agility " + str(pawnDict["Agility"]) + " > "
+    if pawnDict.get("Stamina"):
+        ghString += "Stamina " + str(pawnDict["Stamina"]) + " > "
+    if pawnDict.get("Strength"):
+        ghString += "Strength " + str(pawnDict["Strength"]) + " > "
+    if pawnDict.get("MainHandDps"):
+        ghString += "MainHandDps " + str(pawnDict["MainHandDps"]) + " > "
+    if pawnDict.get("OffHandDps"):
+        ghString += "OffHandDps " + str(pawnDict["OffHandDps"]) + " > "
+
+    return ghString[:-3]
+
+
 def GetNoxxicStats():
     global wowClassesUrl
     global path
@@ -77,36 +115,50 @@ def GetNoxxicStats():
             bubbles = soup.findAll("p", {"class": "matrix__bubble"})
 
             # If stats exists, add them to the file, formated for GH
-            if len(bubbles) > 2:
-                bubble = bubbles[1]
-                file.write(
-                    "    -- "
-                    + className.upper().replace("-", " ")
-                    + " "
-                    + specName.upper().replace("-", " ")
-                    + " --\n"
-                )
-                file.write("    [" + str(specID) + "] = {\n")
+            bubble = bubbles[1].text
+
+            file.write(
+                "    -- "
+                + className.upper().replace("-", " ")
+                + " "
+                + specName.upper().replace("-", " ")
+                + " --\n"
+            )
+            file.write("    [" + str(specID) + "] = {\n")
+
+            if len(bubbles) > 2:  # Si les stats sont présentes
                 file.write(
                     '        ["NOX"] = "'
-                    + str(bubble.text)
+                    + str(bubble)
                     .replace("&gt;", ">")
                     .replace("(", "[")
                     .replace(")", "]")
                     + '"\n'
                 )
-                file.write("    },\n")
-            else:  # If stats doesn't exist, add empty string
-                file.write(
-                    "    -- "
-                    + className.upper().replace("-", " ")
-                    + " "
-                    + specName.upper().replace("-", " ")
-                    + " --\n"
-                )  # We should parse pawn string
-                file.write("    [" + str(specID) + "] = {\n")
-                file.write('        ["NOX"] = ""\n')
-                file.write("    },\n")
+            else:  # Sinon on parse la pawn string
+                # Parse pawn string
+                # {Class:Priest, Spec:Holy, Intellect:7.52, HasteRating:6.11, CritRating:5.72, Versatility:5.72, MasteryRating:5.11}
+
+                # replace char at index 10 from bubble by ","
+                bubble = bubble[:10] + "," + bubble[11:]
+                bubble = bubble.replace("=", ":")
+
+                # Format bubble string to a dict compatible
+                bubble = re.sub(r", \".+: ", ",", bubble)
+                bubble = re.sub(r"(\w+):", r'"\1":', bubble)
+                bubble = re.sub(r"([A-z]+),", r'"\1",', bubble)
+                bubble = '{"' + bubble[bubble.find("C") : -1] + "}"
+
+                bubble = CleanPawnString(bubble)
+
+                # string to dict
+                bubble = json.loads(bubble)
+
+                ghString = GenerateGHStringFromPawn(bubble)
+
+                file.write('        ["NOX"] = "' + ghString + '"\n')
+
+            file.write("    },\n")
 
         time.sleep(1)
 

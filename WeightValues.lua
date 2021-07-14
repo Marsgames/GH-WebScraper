@@ -207,7 +207,7 @@ local rawValues = {
     },
     -- PRIEST HOLY --
     [257] = {
-        ["NOX"] = ""
+        ["NOX"] = "Intellect 7.52 > Haste 6.11 > CriticalStrike 5.72 > Versatility 5.72 > Mastery 5.11"
     },
     -- PRIEST SHADOW --
     [258] = {
@@ -219,7 +219,7 @@ local rawValues = {
     },
     -- ROGUE OUTLAW --
     [260] = {
-        ["NOX"] = ""
+        ["NOX"] = "Haste 3.18 > CriticalStrike 4.31 > Versatility 4.72 > Mastery 3.69 > Agility 5.46"
     },
     -- ROGUE SUBTLETY --
     [261] = {
