@@ -1,5 +1,4 @@
 # coding: utf-8
-
 import difflib
 import os
 import pathlib
