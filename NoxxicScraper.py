@@ -74,14 +74,18 @@ def GenerateGHStringFromPawn(pawnDict):  # -> str:
         ghString += f"ITEM_MOD_VERSATILITY = {pawnDict['Versatility']},\n"
     if pawnDict.get("Mastery"):
         ghString += (
-            "ITEM_MOD_MASTERY_RATING_SHORT = " + str(pawnDict["Mastery"]) + ",\n"
+            "ITEM_MOD_MASTERY_RATING_SHORT = " +
+            str(pawnDict["Mastery"]) + ",\n"
         )
     if pawnDict.get("Agility"):
-        ghString += "ITEM_MOD_AGILITY_SHORT = " + str(pawnDict["Agility"]) + ",\n"
+        ghString += "ITEM_MOD_AGILITY_SHORT = " + \
+            str(pawnDict["Agility"]) + ",\n"
     if pawnDict.get("Stamina"):
-        ghString += "ITEM_MOD_STAMINA_SHORT = " + str(pawnDict["Stamina"]) + ",\n"
+        ghString += "ITEM_MOD_STAMINA_SHORT = " + \
+            str(pawnDict["Stamina"]) + ",\n"
     if pawnDict.get("Strength"):
-        ghString += "ITEM_MOD_STRENGTH_SHORT = " + str(pawnDict["Strength"]) + ",\n"
+        ghString += "ITEM_MOD_STRENGTH_SHORT = " + \
+            str(pawnDict["Strength"]) + ",\n"
 
     if pawnDict.get("MainHandDps"):
         ghString += "MainHandDps " + str(pawnDict["MainHandDps"]) + ",\n"
@@ -335,7 +339,8 @@ def RemoveUnusedFiles():
 
     # Remove unused files
     os.system(
-        "cp " + str(path) + "StatsActuelles.txt " + str(path) + "WeightValues.lua"
+        "cp " + str(path) + "StatsActuelles.txt " +
+        str(path) + "WeightValues.lua"
     )
     os.remove(str(path) + "StatsActuelles.txt")
     os.remove(
