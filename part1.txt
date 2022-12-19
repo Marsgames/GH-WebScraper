@@ -1,119 +1,102 @@
-GearHelper.itemSlot = {
-	INVTYPE_AMMO = {"Ammo"},
-	INVTYPE_HEAD = {"Head"},
-	INVTYPE_NECK = {"Neck"},
-	INVTYPE_SHOULDER = {"Shoulder"},
-	INVTYPE_BODY = {"Body"},
-	INVTYPE_CHEST = {"Chest"},
-	INVTYPE_ROBE = {"Chest"},
-	INVTYPE_WAIST = {"Waist"},
-	INVTYPE_LEGS = {"Legs"},
-	INVTYPE_FEET = {"Feet"},
-	INVTYPE_WRIST = {"Wrist"},
-	INVTYPE_HAND = {"Hands"},
-	INVTYPE_FINGER = {"Finger0", "Finger1"},
-	INVTYPE_TRINKET = {"Trinket0", "Trinket1"},
-	INVTYPE_CLOAK = {"Back"},
-	INVTYPE_SHIELD = {"SecondaryHand"},
-	INVTYPE_WEAPON = {
-		WARRIOR = {
-			["72"] = {"MainHand", "SecondaryHand"},
-			["71"] = {"MainHand"},
-			["73"] = {"MainHand"}
-		},
-		SHAMAN = {
-			["263"] = {"MainHand", "SecondaryHand"},
-			["262"] = {"MainHand"},
-			["264"] = {"MainHand"}
-		},
-		HUNTER = {"MainHand"},
-		DEATHKNIGHT = {
-			["250"] = {"MainHand", "SecondaryHand"},
-			["251"] = {"MainHand"},
-			["252"] = {"MainHand"}
-		},
-		ROGUE = {"MainHand", "SecondaryHand"},
-		DEMONHUNTER = {"MainHand", "SecondaryHand"},
-		DRUID = {"MainHand"},
-		MONK = {"MainHand"},
-		WARLOCK = {"MainHand"},
-		MAGE = {"MainHand"},
-		PRIEST = {"MainHand"},
-		PALADIN = {"MainHand"}
-	},
-	INVTYPE_2HWEAPON = {"MainHand", "SecondaryHand"},
-	INVTYPE_WEAPONMAINHAND = {"MainHand"},
-	INVTYPE_WEAPONOFFHAND = {"SecondaryHand"},
-	INVTYPE_HOLDABLE = {"SecondaryHand"},
-	INVTYPE_RANGED = {"MainHand", "SecondaryHand"},
-	INVTYPE_RANGEDRIGHT = {"MainHand"}
-}
+function GearHelper:GetStatFromActiveTemplate(statName)
+    if (nil == self.db.profile.weightTemplate) then
+        self:Print("WeightTemplate was nil, new value is NOX")
+        self.db.profile.weightTemplate = "NOX"
+    end
 
-local function ParseDefaultValues(rawValues, specID, templateID)
-	GearHelper:BenchmarkCountFuncCall("ParseDefaultValues")
-	local rawCopy = rawValues
-	local tmpTemplate = {
-		["Intellect"] = 0,
-		["Haste"] = 0,
-		["CriticalStrike"] = 0,
-		["Versatility"] = 0,
-		["Mastery"] = 0,
-		["Agility"] = 0,
-		["Stamina"] = 0,
-		["Strength"] = 0,
-		["Armor"] = 0,
-		["Leech"] = 0,
-		["Avoidance"] = 0,
-		["MainHandDps"] = 0,
-		["MovementSpeed"] = 0,
-		["OffHandDps"] = 0,
-		["Max"] = 0
-	}
-	local lastWord = ""
-	local count = 1
-
-	for token in string.gmatch(rawCopy, "[^%s]+") do
-		if count == 1 or count == 4 or count == 7 or count == 10 or count == 13 or count == 16 or count == 19 or count == 22 or count == 25 or count == 28 or count == 31 then
-			lastWord = token
-		end
-
-		if count == 2 or count == 5 or count == 8 or count == 11 or count == 14 or count == 17 or count == 20 or count == 23 or count == 26 or count == 29 or count == 32 then
-			--Refactoring some spelling from Noxxic and AMR
-			if lastWord == "Crit" then
-				lastWord = "CriticalStrike"
-			end
-
-			if lastWord == "OffHandDamage" or "Off-Hand-Weapon-Dps" == lastWord then
-				lastWord = "OffHandDps"
-			end
-
-			if lastWord == "MainHandDamage" or "Weapon-Dps" == lastWord then
-				lastWord = "MainHandDps"
-			end
-
-			if string.gsub(token, "%[", "") then
-				token = string.gsub(token, "%[", "")
-			end
-			if string.gsub(token, "%]", "") then
-				token = string.gsub(token, "%]", "")
-			end
-
-			tmpTemplate[lastWord] = tonumber(token)
-		end
-
-		count = count + 1
-	end
-
-	for _, value in pairs(tmpTemplate) do
-		if tmpTemplate.Max < value then
-			tmpTemplate.Max = value
-		end
-	end
-
-	if GearHelper.db.global.templates[specID] == nil then
-		GearHelper.db.global.templates[specID] = {}
-	end
-	GearHelper.db.global.templates[specID][templateID] = tmpTemplate
+    if (self.db.profile.weightTemplate == "NOX" or self.db.profile.weightTemplate == "NOX_ByDefault") then
+        local currentSpec = GetSpecializationInfo(GetSpecialization())
+        return self.db.global.templates[currentSpec]["NOX"][statName] or 0
+    else
+        return self.db.profile.CW[self.db.profile.weightTemplate][statName] or 0
+    end
 end
 
-local rawValues = {
+function GearHelper:SetStatToActiveTemplate(statName, value)
+    if (nil == self.db.profile.weightTemplate) then
+        self:Print("WeightTemplate was nil, new value is NOX")
+        self.db.profile.weightTemplate = "NOX"
+    end
+    value = tonumber(value) or 0
+
+    if (self.db.profile.weightTemplate == "NOX" or self.db.profile.weightTemplate == "NOX_ByDefault") then
+        local currentSpec = GetSpecializationInfo(GetSpecialization())
+        self.db.global.templates[currentSpec]["NOX"][statName] = value
+    else
+        self.db.profile.CW[self.db.profile.weightTemplate][statName] = value
+    end
+end
+
+--All available stats in 10.0.0 builds
+--[[
+[ITEM_MOD_ITEM_MOD_AGILITY_SHORT_SHORT] = "ITEM_MOD_AGILITY_SHORT";
+[ITEM_MOD_ARMOR_PENETRATION_RATING_SHORT] = "ARMOR Penetration";
+[ITEM_MOD_ATTACK_POWER_SHORT] = "Attack Power";
+[ITEM_MOD_BLOCK_RATING_SHORT] = "Block";
+[ITEM_MOD_BLOCK_VALUE_SHORT] = "Block Value";
+[ITEM_MOD_CORRUPTION] = "Corruption";
+[ITEM_MOD_CORRUPTION_RESISTANCE] = "Corruption Resistance";
+[ITEM_MOD_CRAFTING_SPEED_SHORT] = "Crafting Speed";
+[ITEM_MOD_ITEM_MOD_CRIT_RATING_SHORT_MELEE_RATING_SHORT] = "ITEM_MOD_CRIT_RATING_SHORTical Strike (Melee)";
+[ITEM_MOD_ITEM_MOD_CRIT_RATING_SHORT_RANGED_RATING_SHORT] = "ITEM_MOD_CRIT_RATING_SHORTical Strike (Ranged)";
+[ITEM_MOD_ITEM_MOD_CRIT_RATING_SHORT_RATING_SHORT] = "ITEM_MOD_CRIT_RATING_SHORTical Strike";
+[ITEM_MOD_ITEM_MOD_CRIT_RATING_SHORT_SPELL_RATING_SHORT] = "ITEM_MOD_CRIT_RATING_SHORTical Strike (Spell)";
+[ITEM_MOD_ITEM_MOD_CRIT_RATING_SHORT_TAKEN_MELEE_RATING_SHORT] = "ITEM_MOD_CRIT_RATING_SHORTical Strike Avoidance (Melee)";
+[ITEM_MOD_ITEM_MOD_CRIT_RATING_SHORT_TAKEN_RANGED_RATING_SHORT] = "ITEM_MOD_CRIT_RATING_SHORTical Strike Avoidance (Ranged)";
+[ITEM_MOD_ITEM_MOD_CRIT_RATING_SHORT_TAKEN_RATING_SHORT] = "ITEM_MOD_CRIT_RATING_SHORTical Strike Avoidance";
+[ITEM_MOD_ITEM_MOD_CRIT_RATING_SHORT_TAKEN_SPELL_RATING_SHORT] = "ITEM_MOD_CRIT_RATING_SHORTical Strike Avoidance (Spell)";
+[ITEM_MOD_CR_AVOIDANCE_SHORT] = "Avoidance";
+[ITEM_MOD_CR_LIFESTEAL_SHORT] = "ITEM_MOD_CR_LIFESTEAL_SHORT";
+[ITEM_MOD_CR_MULTISTRIKE_SHORT] = "Multistrike";
+[ITEM_MOD_CR_SPEED_SHORT] = "Speed";
+[ITEM_MOD_DAMAGE_PER_SECOND_SHORT] = "Damage Per Second";
+[ITEM_MOD_DEFENSE_SKILL_RATING_SHORT] = "Defense";
+[ITEM_MOD_DEFTNESS_SHORT] = "Deftness";
+[ITEM_MOD_DODGE_RATING_SHORT] = "Dodge";
+[ITEM_MOD_EXPERTISE_RATING_SHORT] = "Expertise";
+[ITEM_MOD_EXTRA_ARMOR_SHORT] = "Bonus ARMOR";
+[ITEM_MOD_FERAL_ATTACK_POWER_SHORT] = "Attack Power In Forms";
+[ITEM_MOD_FINESSE_SHORT] = "Finesse";
+[ITEM_MOD_ITEM_MOD_HASTE_RATING_SHORT_RATING_SHORT] = "ITEM_MOD_HASTE_RATING_SHORT";
+[ITEM_MOD_HEALTH_REGENERATION_SHORT] = "Health Regeneration";
+[ITEM_MOD_HEALTH_REGEN_SHORT] = "Health Per 5 Sec.";
+[ITEM_MOD_HEALTH_SHORT] = "Health";
+[ITEM_MOD_HIT_MELEE_RATING_SHORT] = "Hit (Melee)";
+[ITEM_MOD_HIT_RANGED_RATING_SHORT] = "Hit (Ranged)";
+[ITEM_MOD_HIT_RATING_SHORT] = "Hit";
+[ITEM_MOD_HIT_SPELL_RATING_SHORT] = "Hit (Spell)";
+[ITEM_MOD_HIT_TAKEN_MELEE_RATING_SHORT] = "Hit Avoidance (Melee)";
+[ITEM_MOD_HIT_TAKEN_RANGED_RATING_SHORT] = "Hit Avoidance (Ranged)";
+[ITEM_MOD_HIT_TAKEN_RATING_SHORT] = "Hit Avoidance";
+[ITEM_MOD_HIT_TAKEN_SPELL_RATING_SHORT] = "Hit Avoidance (Spell)";
+[ITEM_MOD_INSPIRATION_SHORT] = "Inspiration";
+[ITEM_MOD_INTELLECT_SHORT] = "Intellect";
+[ITEM_MOD_MANA_REGENERATION_SHORT] = "Mana Regeneration";
+[ITEM_MOD_MANA_SHORT] = "Mana";
+[ITEM_MOD_ITEM_MOD_MASTERY_RATING_SHORT_RATING_SHORT] = "ITEM_MOD_MASTERY_RATING_SHORT";
+[ITEM_MOD_MELEE_ATTACK_POWER_SHORT] = "Melee Attack Power";
+[ITEM_MOD_PARRY_RATING_SHORT] = "Parry";
+[ITEM_MOD_PERCEPTION_SHORT] = "Perception";
+[ITEM_MOD_POWER_REGEN0_SHORT] = "Mana Per 5 Sec.";
+[ITEM_MOD_POWER_REGEN1_SHORT] = "Rage Per 5 Sec.";
+[ITEM_MOD_POWER_REGEN2_SHORT] = "Focus Per 5 Sec.";
+[ITEM_MOD_POWER_REGEN3_SHORT] = "Energy Per 5 Sec.";
+[ITEM_MOD_POWER_REGEN4_SHORT] = "Happiness Per 5 Sec.";
+[ITEM_MOD_POWER_REGEN5_SHORT] = "Runes Per 5 Sec.";
+[ITEM_MOD_POWER_REGEN6_SHORT] = "Runic Power Per 5 Sec.";
+[ITEM_MOD_PVP_POWER_SHORT] = "PvP Power";
+[ITEM_MOD_PVP_PRIMARY_STAT_SHORT] = "PvP Power";
+[ITEM_MOD_RANGED_ATTACK_POWER_SHORT] = "Ranged Attack Power";
+[ITEM_MOD_RESILIENCE_RATING_SHORT] = "PvP Resilience";
+[ITEM_MOD_RESOURCEFULNESS_SHORT] = "Resourcefulness";
+[ITEM_MOD_SPELL_DAMAGE_DONE_SHORT] = "Bonus Damage";
+[ITEM_MOD_SPELL_HEALING_DONE_SHORT] = "Bonus Healing";
+[ITEM_MOD_SPELL_PENETRATION_SHORT] = "Spell Penetration";
+[ITEM_MOD_SPELL_POWER_SHORT] = "Spell Power";
+[ITEM_MOD_SPIRIT_SHORT] = "Spirit";
+[ITEM_MOD_ITEM_MOD_STAMINA_SHORT_SHORT] = "ITEM_MOD_STAMINA_SHORT";
+[ITEM_MOD_STRENGTH_SHORT] = "Strength";
+[ITEM_MOD_ITEM_MOD_VERSATILITY] = "ITEM_MOD_VERSATILITY";
+]]
+
+local baseStatTemplates = {
