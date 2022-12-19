@@ -1,15 +1,16 @@
 # coding: utf-8
 
-import requests
-import time
-import os
 import difflib
-import re
+import os
 import pathlib
+import re
+import time
+
+import requests
+from bs4 import BeautifulSoup
 
 # import json
 
-from bs4 import BeautifulSoup
 
 
 wowClassesUrl = "https://wowwiki.fandom.com/wiki/SpecializationID"
