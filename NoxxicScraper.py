@@ -10,8 +10,6 @@ from bs4 import BeautifulSoup
 
 # import json
 
-
-
 wowClassesUrl = "https://wowwiki.fandom.com/wiki/SpecializationID"
 # get current path
 path = f"{pathlib.Path(__file__).parent.resolve()}/"
@@ -74,15 +72,17 @@ def GenerateGHStringFromPawn(pawnDict):  # -> str:
     if pawnDict.get("Versatility"):
         ghString += f"ITEM_MOD_VERSATILITY = {pawnDict['Versatility']},\n"
     if pawnDict.get("Mastery"):
-        ghString += (
-            "ITEM_MOD_MASTERY_RATING_SHORT = " + str(pawnDict["Mastery"]) + ",\n"
-        )
+        ghString += ("ITEM_MOD_MASTERY_RATING_SHORT = " +
+                     str(pawnDict["Mastery"]) + ",\n")
     if pawnDict.get("Agility"):
-        ghString += "ITEM_MOD_AGILITY_SHORT = " + str(pawnDict["Agility"]) + ",\n"
+        ghString += "ITEM_MOD_AGILITY_SHORT = " + str(
+            pawnDict["Agility"]) + ",\n"
     if pawnDict.get("Stamina"):
-        ghString += "ITEM_MOD_STAMINA_SHORT = " + str(pawnDict["Stamina"]) + ",\n"
+        ghString += "ITEM_MOD_STAMINA_SHORT = " + str(
+            pawnDict["Stamina"]) + ",\n"
     if pawnDict.get("Strength"):
-        ghString += "ITEM_MOD_STRENGTH_SHORT = " + str(pawnDict["Strength"]) + ",\n"
+        ghString += "ITEM_MOD_STRENGTH_SHORT = " + str(
+            pawnDict["Strength"]) + ",\n"
 
     if pawnDict.get("MainHandDps"):
         ghString += "MainHandDps " + str(pawnDict["MainHandDps"]) + ",\n"
@@ -148,18 +148,12 @@ def GetNoxxicStats():
         for item in linksDic.items():
             className = item[1][0]
             specName = item[1][1]
-            if (
-                "mastery" == specName.lower()
-            ):  # This is bad, modify scrapper to get right name !
+            if ("mastery" == specName.lower()
+                ):  # This is bad, modify scrapper to get right name !
                 specName = "beast-mastery"
             specID = str(item[0])
-            wowClassesUrl = (
-                "https://www.noxxic.com/wow/guide/"
-                + specName
-                + "-"
-                + className
-                + "/stat-priority/"
-            ).lower()
+            wowClassesUrl = ("https://www.noxxic.com/wow/guide/" + specName +
+                             "-" + className + "/stat-priority/").lower()
 
             print("url : " + str(wowClassesUrl))
 
@@ -219,13 +213,8 @@ def GetNoxxicStats():
             # if len(bubbles) > 1:
             #     bubble = bubbles[1].text
 
-            file.write(
-                "    -- "
-                + className.upper().replace("-", " ")
-                + " "
-                + specName.upper().replace("-", " ")
-                + " --\n"
-            )
+            file.write("    -- " + className.upper().replace("-", " ") + " " +
+                       specName.upper().replace("-", " ") + " --\n")
             file.write("    [" + str(specID) + "] = {\n")
 
             ##### Alternative à BF4 : #####
@@ -296,7 +285,7 @@ def CreateWeightValuesFile():
     with open(str(path) + "StatsActuelles.txt") as f1:
         f1_text = f1.read()
     with open(
-        "/Applications/World of Warcraft/_retail_/Interface/AddOns/GearHelper/WeightValues.lua"
+            "/Applications/World of Warcraft/_retail_/Interface/AddOns/GearHelper/WeightValues.lua"
     ) as f2:
         f2_text = f2.read()
 
@@ -308,9 +297,11 @@ def CheckDiff():  # -> bool:
     # Find differences
     diffs = 0
 
-    for line in difflib.unified_diff(
-        f1_text, f2_text, fromfile="file1", tofile="file2", lineterm=""
-    ):
+    for line in difflib.unified_diff(f1_text,
+                                     f2_text,
+                                     fromfile="file1",
+                                     tofile="file2",
+                                     lineterm=""):
         diffs += 1
 
     # The notifier function
@@ -318,11 +309,8 @@ def CheckDiff():  # -> bool:
         # This requires a mac + terminal-notifier + the right path
         # Do not call this function if you do not need it
         os.system(
-            'terminal-notifier -title "'
-            + title
-            + '" -message "'
-            + message
-            + '" -activate com.apple.Terminal -execute "wdiff /Applications/World\ of\ Warcraft/_retail_/Interface/AddOns/GearHelper/WeightValues.lua /Users/Raph/Documents/GH/statsAJour.txt | colordiff" -appIcon "https://media.forgecdn.net/avatars/thumbnails/54/445/64/64/636135209663914354.png"'
+            'terminal-notifier -title "' + title + '" -message "' + message +
+            '" -activate com.apple.Terminal -execute "wdiff /Applications/World\ of\ Warcraft/_retail_/Interface/AddOns/GearHelper/WeightValues.lua /Users/Raph/Documents/GH/statsAJour.txt | colordiff" -appIcon "https://media.forgecdn.net/avatars/thumbnails/54/445/64/64/636135209663914354.png"'
         )
 
     # Show notification if any diff
@@ -337,18 +325,15 @@ def RemoveUnusedFiles():
     global path
 
     # Remove unused files
-    os.system(
-        "cp " + str(path) + "StatsActuelles.txt " + str(path) + "WeightValues.lua"
-    )
+    os.system("cp " + str(path) + "StatsActuelles.txt " + str(path) +
+              "WeightValues.lua")
     os.remove(str(path) + "StatsActuelles.txt")
     os.remove(
         "/Applications/World of Warcraft/_retail_/Interface/AddOns/GearHelper/WeightValues.lua"
     )
     os.system(
-        "cp "
-        + str(path)
-        + "WeightValues.lua "
-        + "/Applications/World\ of\ Warcraft/_retail_/Interface/AddOns/GearHelper/"
+        "cp " + str(path) + "WeightValues.lua " +
+        "/Applications/World\ of\ Warcraft/_retail_/Interface/AddOns/GearHelper/"
     )
 
 
